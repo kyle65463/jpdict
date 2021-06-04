@@ -1,8 +1,14 @@
 {
-    "title":"下載",
+    "title": "下載",
     "isLeaf": false,
-    "subfolders":[
-        "animals",
-        "jlpt"
+    "subfolders": [
+        {
+            "title": "動物",
+            "value": "animals"
+        },
+        {
+            "title": "JLPT",
+            "value": "jlpt"
+        }
     ]
 }

@@ -1,7 +1,10 @@
 {
-    "title":"JLPT",
+    "title": "JLPT",
     "isLeaf": false,
-    "subfolders":[
-        "n4"
+    "subfolders": [
+        {
+            "title": "N4",
+            "value": "n4"
+        }
     ]
 }
