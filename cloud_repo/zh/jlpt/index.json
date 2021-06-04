@@ -1,5 +1,6 @@
 {
     "title": "JLPT",
+    "value": "jlpt",
     "isLeaf": false,
     "subfolders": [
         {
