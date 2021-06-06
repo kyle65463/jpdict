@@ -4,10 +4,6 @@
     "isLeaf": false,
     "subfolders": [
         {
-            "title": "動物",
-            "value": "animals"
-        },
-        {
             "title": "JLPT",
             "value": "jlpt"
         }
