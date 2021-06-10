@@ -4,9 +4,9 @@
     "isLeaf": true,
     "repos": [
         {
-            "id": "91d58048-c9a1-11eb-b665-b46bfc8f52a9",
-            "createTime": "2021-06-10T12:08:53.843971",
-            "lastModifiedTime": "2021-06-10T12:08:53.843971",
+            "id": "dbcc4cc0-c9a5-11eb-b665-b46bfc8f52a9",
+            "createTime": "2021-06-10T12:39:35.921823",
+            "lastModifiedTime": "2021-06-10T12:39:35.921823",
             "title": "Birds",
             "tags": [
                 "Animals",
@@ -37,9 +37,9 @@
                             "すずめ"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -62,7 +62,7 @@
                     ],
                     "hasError": false,
                     "originalText": "雀",
-                    "createTime": "2021-06-10T12:08:53.843971"
+                    "createTime": "2021-06-10T12:39:35.920826"
                 },
                 {
                     "word": {
@@ -80,9 +80,9 @@
                             "つる"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -101,7 +101,7 @@
                     ],
                     "hasError": false,
                     "originalText": "鶴",
-                    "createTime": "2021-06-10T12:08:54.843971"
+                    "createTime": "2021-06-10T12:39:36.920826"
                 },
                 {
                     "word": {
@@ -119,9 +119,9 @@
                             "はやぶさ"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -131,7 +131,7 @@
                     "sentences": [],
                     "hasError": true,
                     "originalText": "隼",
-                    "createTime": "2021-06-10T12:08:55.843971"
+                    "createTime": "2021-06-10T12:39:37.920826"
                 },
                 {
                     "word": {
@@ -150,9 +150,9 @@
                             ""
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -175,7 +175,7 @@
                     ],
                     "hasError": true,
                     "originalText": "鷹",
-                    "createTime": "2021-06-10T12:08:56.843971"
+                    "createTime": "2021-06-10T12:39:38.920826"
                 },
                 {
                     "word": {
@@ -188,9 +188,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -213,7 +213,7 @@
                     ],
                     "hasError": true,
                     "originalText": "アヒル",
-                    "createTime": "2021-06-10T12:08:57.843971"
+                    "createTime": "2021-06-10T12:39:39.920826"
                 },
                 {
                     "word": {
@@ -231,9 +231,9 @@
                             "はと"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -256,7 +256,7 @@
                     ],
                     "hasError": false,
                     "originalText": "鳩",
-                    "createTime": "2021-06-10T12:08:58.843971"
+                    "createTime": "2021-06-10T12:39:40.920826"
                 },
                 {
                     "word": {
@@ -281,9 +281,9 @@
                             "たか"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -293,7 +293,7 @@
                     "sentences": [],
                     "hasError": true,
                     "originalText": "禿鷹",
-                    "createTime": "2021-06-10T12:08:59.843971"
+                    "createTime": "2021-06-10T12:39:41.920826"
                 },
                 {
                     "word": {
@@ -307,9 +307,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -324,7 +324,7 @@
                     ],
                     "hasError": true,
                     "originalText": "雌鶏",
-                    "createTime": "2021-06-10T12:09:00.843971"
+                    "createTime": "2021-06-10T12:39:42.920826"
                 },
                 {
                     "word": {
@@ -338,9 +338,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 3
                     },
-                    "accentIndex": 3,
                     "wordTypes": [
                         "noun"
                     ],
@@ -350,7 +350,7 @@
                     "sentences": [],
                     "hasError": true,
                     "originalText": "コマドリ",
-                    "createTime": "2021-06-10T12:09:01.843971"
+                    "createTime": "2021-06-10T12:39:43.920826"
                 },
                 {
                     "word": {
@@ -364,9 +364,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -376,7 +376,7 @@
                     "sentences": [],
                     "hasError": true,
                     "originalText": "雄鶏",
-                    "createTime": "2021-06-10T12:09:02.843971"
+                    "createTime": "2021-06-10T12:39:44.920826"
                 },
                 {
                     "word": {
@@ -390,9 +390,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 2
                     },
-                    "accentIndex": 2,
                     "wordTypes": [
                         "noun"
                     ],
@@ -402,7 +402,7 @@
                     "sentences": [],
                     "hasError": true,
                     "originalText": "ハチドリ",
-                    "createTime": "2021-06-10T12:09:03.843971"
+                    "createTime": "2021-06-10T12:39:45.920826"
                 },
                 {
                     "word": {
@@ -416,9 +416,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 3
                     },
-                    "accentIndex": 3,
                     "wordTypes": [
                         "noun"
                     ],
@@ -441,7 +441,7 @@
                     ],
                     "hasError": true,
                     "originalText": "フクロウ",
-                    "createTime": "2021-06-10T12:09:04.843971"
+                    "createTime": "2021-06-10T12:39:46.920826"
                 },
                 {
                     "word": {
@@ -454,9 +454,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -475,7 +475,7 @@
                     ],
                     "hasError": true,
                     "originalText": "ひよこ",
-                    "createTime": "2021-06-10T12:09:05.843971"
+                    "createTime": "2021-06-10T12:39:47.920826"
                 },
                 {
                     "word": {
@@ -489,9 +489,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -501,7 +501,7 @@
                     "sentences": [],
                     "hasError": true,
                     "originalText": "クジャク",
-                    "createTime": "2021-06-10T12:09:06.843971"
+                    "createTime": "2021-06-10T12:39:48.920826"
                 },
                 {
                     "word": {
@@ -516,9 +516,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 3
                     },
-                    "accentIndex": 3,
                     "wordTypes": [
                         "noun"
                     ],
@@ -528,7 +528,7 @@
                     "sentences": [],
                     "hasError": true,
                     "originalText": "フラミンゴ",
-                    "createTime": "2021-06-10T12:09:07.843971"
+                    "createTime": "2021-06-10T12:39:49.920826"
                 },
                 {
                     "word": {
@@ -546,9 +546,9 @@
                             "つばめ"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -567,7 +567,7 @@
                     ],
                     "hasError": false,
                     "originalText": "燕",
-                    "createTime": "2021-06-10T12:09:08.843971"
+                    "createTime": "2021-06-10T12:39:50.920826"
                 },
                 {
                     "word": {
@@ -592,9 +592,9 @@
                             "ちょう"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -604,7 +604,7 @@
                     "sentences": [],
                     "hasError": false,
                     "originalText": "駝鳥",
-                    "createTime": "2021-06-10T12:09:09.843971"
+                    "createTime": "2021-06-10T12:39:51.920826"
                 },
                 {
                     "word": {
@@ -616,9 +616,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -641,7 +641,7 @@
                     ],
                     "hasError": true,
                     "originalText": "ワシ",
-                    "createTime": "2021-06-10T12:09:10.843971"
+                    "createTime": "2021-06-10T12:39:52.920826"
                 },
                 {
                     "word": {
@@ -666,9 +666,9 @@
                             "ちょう"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -691,7 +691,7 @@
                     ],
                     "hasError": false,
                     "originalText": "白鳥",
-                    "createTime": "2021-06-10T12:09:11.843971"
+                    "createTime": "2021-06-10T12:39:53.920826"
                 },
                 {
                     "word": {
@@ -705,9 +705,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -717,7 +717,7 @@
                     "sentences": [],
                     "hasError": true,
                     "originalText": "ぺンギン",
-                    "createTime": "2021-06-10T12:09:12.843971"
+                    "createTime": "2021-06-10T12:39:54.920826"
                 },
                 {
                     "word": {
@@ -735,9 +735,9 @@
                             "うずら"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -747,7 +747,7 @@
                     "sentences": [],
                     "hasError": false,
                     "originalText": "ウズラ",
-                    "createTime": "2021-06-10T12:09:13.843971"
+                    "createTime": "2021-06-10T12:39:55.920826"
                 },
                 {
                     "word": {
@@ -760,9 +760,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -772,7 +772,7 @@
                     "sentences": [],
                     "hasError": false,
                     "originalText": "カモメ",
-                    "createTime": "2021-06-10T12:09:14.843971"
+                    "createTime": "2021-06-10T12:39:56.920826"
                 },
                 {
                     "word": {
@@ -786,9 +786,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -811,7 +811,7 @@
                     ],
                     "hasError": false,
                     "originalText": "ガチョウ",
-                    "createTime": "2021-06-10T12:09:15.843971"
+                    "createTime": "2021-06-10T12:39:57.920826"
                 },
                 {
                     "word": {
@@ -826,9 +826,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 3
                     },
-                    "accentIndex": 3,
                     "wordTypes": [
                         "noun"
                     ],
@@ -838,7 +838,7 @@
                     "sentences": [],
                     "hasError": true,
                     "originalText": "コウノトリ",
-                    "createTime": "2021-06-10T12:09:16.843971"
+                    "createTime": "2021-06-10T12:39:58.920826"
                 },
                 {
                     "word": {
@@ -856,9 +856,9 @@
                             "うぐいす"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 2
                     },
-                    "accentIndex": 2,
                     "wordTypes": [
                         "noun"
                     ],
@@ -868,7 +868,7 @@
                     "sentences": [],
                     "hasError": false,
                     "originalText": "鶯",
-                    "createTime": "2021-06-10T12:09:17.843971"
+                    "createTime": "2021-06-10T12:39:59.920826"
                 },
                 {
                     "word": {
@@ -881,9 +881,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -902,7 +902,7 @@
                     ],
                     "hasError": false,
                     "originalText": "カラス",
-                    "createTime": "2021-06-10T12:09:18.843971"
+                    "createTime": "2021-06-10T12:40:00.920826"
                 },
                 {
                     "word": {
@@ -916,9 +916,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 2
                     },
-                    "accentIndex": 2,
                     "wordTypes": [
                         "noun"
                     ],
@@ -928,7 +928,7 @@
                     "sentences": [],
                     "hasError": true,
                     "originalText": "キツツキ",
-                    "createTime": "2021-06-10T12:09:19.843971"
+                    "createTime": "2021-06-10T12:40:01.920826"
                 },
                 {
                     "word": {
@@ -941,9 +941,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -966,7 +966,7 @@
                     ],
                     "hasError": true,
                     "originalText": "オウム",
-                    "createTime": "2021-06-10T12:09:20.843971"
+                    "createTime": "2021-06-10T12:40:02.920826"
                 },
                 {
                     "word": {
@@ -979,9 +979,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -991,7 +991,7 @@
                     "sentences": [],
                     "hasError": true,
                     "originalText": "メジロ",
-                    "createTime": "2021-06-10T12:09:21.843971"
+                    "createTime": "2021-06-10T12:40:03.920826"
                 },
                 {
                     "word": {
@@ -1009,9 +1009,9 @@
                             "にわとり"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -1034,14 +1034,14 @@
                     ],
                     "hasError": false,
                     "originalText": "にわとり",
-                    "createTime": "2021-06-10T12:09:22.843971"
+                    "createTime": "2021-06-10T12:40:04.920826"
                 }
             ]
         },
         {
-            "id": "91d5ce35-c9a1-11eb-8cd9-b46bfc8f52a9",
-            "createTime": "2021-06-10T12:08:53.855800",
-            "lastModifiedTime": "2021-06-10T12:08:53.855800",
+            "id": "dbcc9ad1-c9a5-11eb-8cd9-b46bfc8f52a9",
+            "createTime": "2021-06-10T12:39:35.933819",
+            "lastModifiedTime": "2021-06-10T12:39:35.933819",
             "title": "Terrestrial Animals",
             "tags": [
                 "Animals",
@@ -1072,9 +1072,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 6
                     },
-                    "accentIndex": 6,
                     "wordTypes": [
                         "noun"
                     ],
@@ -1084,7 +1084,7 @@
                     "sentences": [],
                     "hasError": true,
                     "originalText": "プレーリードッグ",
-                    "createTime": "2021-06-10T12:08:53.854803"
+                    "createTime": "2021-06-10T12:39:35.932794"
                 },
                 {
                     "word": {
@@ -1098,9 +1098,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -1110,7 +1110,7 @@
                     "sentences": [],
                     "hasError": true,
                     "originalText": "ピューマ",
-                    "createTime": "2021-06-10T12:08:54.854803"
+                    "createTime": "2021-06-10T12:39:36.932794"
                 },
                 {
                     "word": {
@@ -1124,9 +1124,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 2
                     },
-                    "accentIndex": 2,
                     "wordTypes": [
                         "noun"
                     ],
@@ -1136,7 +1136,7 @@
                     "sentences": [],
                     "hasError": false,
                     "originalText": "モモンガ",
-                    "createTime": "2021-06-10T12:08:55.854803"
+                    "createTime": "2021-06-10T12:39:37.932794"
                 },
                 {
                     "word": {
@@ -1154,9 +1154,9 @@
                             "しか"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -1179,7 +1179,7 @@
                     ],
                     "hasError": true,
                     "originalText": "鹿",
-                    "createTime": "2021-06-10T12:08:56.854803"
+                    "createTime": "2021-06-10T12:39:38.932794"
                 },
                 {
                     "word": {
@@ -1211,9 +1211,9 @@
                             "ぐま"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 5
                     },
-                    "accentIndex": 5,
                     "wordTypes": [
                         "noun"
                     ],
@@ -1223,7 +1223,7 @@
                     "sentences": [],
                     "hasError": true,
                     "originalText": "北極熊",
-                    "createTime": "2021-06-10T12:08:57.854803"
+                    "createTime": "2021-06-10T12:39:39.932794"
                 },
                 {
                     "word": {
@@ -1235,9 +1235,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -1260,7 +1260,7 @@
                     ],
                     "hasError": false,
                     "originalText": "リス",
-                    "createTime": "2021-06-10T12:08:58.854803"
+                    "createTime": "2021-06-10T12:39:40.932794"
                 },
                 {
                     "word": {
@@ -1273,9 +1273,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -1298,7 +1298,7 @@
                     ],
                     "hasError": false,
                     "originalText": "ラクダ",
-                    "createTime": "2021-06-10T12:08:59.854803"
+                    "createTime": "2021-06-10T12:39:41.932794"
                 },
                 {
                     "word": {
@@ -1311,9 +1311,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -1336,7 +1336,7 @@
                     ],
                     "hasError": false,
                     "originalText": "ゴリラ",
-                    "createTime": "2021-06-10T12:09:00.854803"
+                    "createTime": "2021-06-10T12:39:42.932794"
                 },
                 {
                     "word": {
@@ -1349,9 +1349,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -1361,7 +1361,7 @@
                     "sentences": [],
                     "hasError": true,
                     "originalText": "ヒグマ",
-                    "createTime": "2021-06-10T12:09:01.854803"
+                    "createTime": "2021-06-10T12:39:43.932794"
                 },
                 {
                     "word": {
@@ -1379,9 +1379,9 @@
                             "おおかみ"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -1404,7 +1404,7 @@
                     ],
                     "hasError": false,
                     "originalText": "狼",
-                    "createTime": "2021-06-10T12:09:02.854803"
+                    "createTime": "2021-06-10T12:39:44.932794"
                 },
                 {
                     "word": {
@@ -1419,9 +1419,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 3
                     },
-                    "accentIndex": 3,
                     "wordTypes": [
                         "noun"
                     ],
@@ -1431,7 +1431,7 @@
                     "sentences": [],
                     "hasError": false,
                     "originalText": "ヤマアラシ",
-                    "createTime": "2021-06-10T12:09:03.854803"
+                    "createTime": "2021-06-10T12:39:45.932794"
                 },
                 {
                     "word": {
@@ -1445,9 +1445,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 2
                     },
-                    "accentIndex": 2,
                     "wordTypes": [
                         "noun"
                     ],
@@ -1457,7 +1457,7 @@
                     "sentences": [],
                     "hasError": true,
                     "originalText": "トナカイ",
-                    "createTime": "2021-06-10T12:09:04.854803"
+                    "createTime": "2021-06-10T12:39:46.932794"
                 },
                 {
                     "word": {
@@ -1469,9 +1469,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -1481,7 +1481,7 @@
                     "sentences": [],
                     "hasError": true,
                     "originalText": "ラマ",
-                    "createTime": "2021-06-10T12:09:05.854803"
+                    "createTime": "2021-06-10T12:39:47.932794"
                 },
                 {
                     "word": {
@@ -1499,9 +1499,9 @@
                             "ひょう"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -1524,7 +1524,7 @@
                     ],
                     "hasError": true,
                     "originalText": "豹",
-                    "createTime": "2021-06-10T12:09:06.854803"
+                    "createTime": "2021-06-10T12:39:48.932794"
                 },
                 {
                     "word": {
@@ -1538,9 +1538,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -1550,7 +1550,7 @@
                     "sentences": [],
                     "hasError": true,
                     "originalText": "ハイエナ",
-                    "createTime": "2021-06-10T12:09:07.854803"
+                    "createTime": "2021-06-10T12:39:49.932794"
                 },
                 {
                     "word": {
@@ -1563,9 +1563,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -1580,7 +1580,7 @@
                     ],
                     "hasError": true,
                     "originalText": "ミンク",
-                    "createTime": "2021-06-10T12:09:08.854803"
+                    "createTime": "2021-06-10T12:39:50.932794"
                 },
                 {
                     "word": {
@@ -1594,9 +1594,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -1606,7 +1606,7 @@
                     "sentences": [],
                     "hasError": false,
                     "originalText": "シマウマ",
-                    "createTime": "2021-06-10T12:09:09.854803"
+                    "createTime": "2021-06-10T12:39:51.932794"
                 },
                 {
                     "word": {
@@ -1624,9 +1624,9 @@
                             "うま"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 2
                     },
-                    "accentIndex": 2,
                     "wordTypes": [
                         "noun"
                     ],
@@ -1649,7 +1649,7 @@
                     ],
                     "hasError": false,
                     "originalText": "馬",
-                    "createTime": "2021-06-10T12:09:10.854803"
+                    "createTime": "2021-06-10T12:39:52.932794"
                 },
                 {
                     "word": {
@@ -1681,9 +1681,9 @@
                             "ねこ"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -1693,7 +1693,7 @@
                     "sentences": [],
                     "hasError": true,
                     "originalText": "野良猫",
-                    "createTime": "2021-06-10T12:09:11.854803"
+                    "createTime": "2021-06-10T12:39:53.932794"
                 },
                 {
                     "word": {
@@ -1705,9 +1705,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -1717,7 +1717,7 @@
                     "sentences": [],
                     "hasError": false,
                     "originalText": "カバ",
-                    "createTime": "2021-06-10T12:09:12.854803"
+                    "createTime": "2021-06-10T12:39:54.932794"
                 },
                 {
                     "word": {
@@ -1731,9 +1731,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -1743,7 +1743,7 @@
                     "sentences": [],
                     "hasError": true,
                     "originalText": "ワラビー",
-                    "createTime": "2021-06-10T12:09:13.854803"
+                    "createTime": "2021-06-10T12:39:55.932794"
                 },
                 {
                     "word": {
@@ -1756,9 +1756,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -1781,7 +1781,7 @@
                     ],
                     "hasError": false,
                     "originalText": "パンダ",
-                    "createTime": "2021-06-10T12:09:14.854803"
+                    "createTime": "2021-06-10T12:39:56.932794"
                 },
                 {
                     "word": {
@@ -1796,9 +1796,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -1808,7 +1808,7 @@
                     "sentences": [],
                     "hasError": false,
                     "originalText": "ナマケモノ",
-                    "createTime": "2021-06-10T12:09:15.854803"
+                    "createTime": "2021-06-10T12:39:57.932794"
                 },
                 {
                     "word": {
@@ -1826,9 +1826,9 @@
                             "ぶた"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -1851,7 +1851,7 @@
                     ],
                     "hasError": false,
                     "originalText": "豚",
-                    "createTime": "2021-06-10T12:09:16.854803"
+                    "createTime": "2021-06-10T12:39:58.932794"
                 },
                 {
                     "word": {
@@ -1876,9 +1876,9 @@
                             "ぐら"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -1888,7 +1888,7 @@
                     "sentences": [],
                     "hasError": true,
                     "originalText": "モグラ",
-                    "createTime": "2021-06-10T12:09:17.854803"
+                    "createTime": "2021-06-10T12:39:59.932794"
                 },
                 {
                     "word": {
@@ -1906,9 +1906,9 @@
                             "きつね"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -1931,7 +1931,7 @@
                     ],
                     "hasError": false,
                     "originalText": "狐",
-                    "createTime": "2021-06-10T12:09:18.854803"
+                    "createTime": "2021-06-10T12:40:00.932794"
                 },
                 {
                     "word": {
@@ -1945,9 +1945,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -1957,7 +1957,7 @@
                     "sentences": [],
                     "hasError": false,
                     "originalText": "ハスキー",
-                    "createTime": "2021-06-10T12:09:19.854803"
+                    "createTime": "2021-06-10T12:40:01.932794"
                 },
                 {
                     "word": {
@@ -1982,9 +1982,9 @@
                             "いぬ"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -1994,7 +1994,7 @@
                     "sentences": [],
                     "hasError": false,
                     "originalText": "柴犬",
-                    "createTime": "2021-06-10T12:09:20.854803"
+                    "createTime": "2021-06-10T12:40:02.932794"
                 },
                 {
                     "word": {
@@ -2008,9 +2008,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -2020,7 +2020,7 @@
                     "sentences": [],
                     "hasError": true,
                     "originalText": "カワウソ",
-                    "createTime": "2021-06-10T12:09:21.854803"
+                    "createTime": "2021-06-10T12:40:03.932794"
                 },
                 {
                     "word": {
@@ -2032,9 +2032,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -2044,7 +2044,7 @@
                     "sentences": [],
                     "hasError": false,
                     "originalText": "ロバ",
-                    "createTime": "2021-06-10T12:09:22.854803"
+                    "createTime": "2021-06-10T12:40:04.932794"
                 },
                 {
                     "word": {
@@ -2056,9 +2056,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -2068,7 +2068,7 @@
                     "sentences": [],
                     "hasError": false,
                     "originalText": "サイ",
-                    "createTime": "2021-06-10T12:09:23.854803"
+                    "createTime": "2021-06-10T12:40:05.932794"
                 },
                 {
                     "word": {
@@ -2082,9 +2082,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -2107,7 +2107,7 @@
                     ],
                     "hasError": false,
                     "originalText": "ライオン",
-                    "createTime": "2021-06-10T12:09:24.854803"
+                    "createTime": "2021-06-10T12:40:06.932794"
                 },
                 {
                     "word": {
@@ -2125,9 +2125,9 @@
                             "とら"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -2150,7 +2150,7 @@
                     ],
                     "hasError": false,
                     "originalText": "トラ",
-                    "createTime": "2021-06-10T12:09:25.854803"
+                    "createTime": "2021-06-10T12:40:07.932794"
                 },
                 {
                     "word": {
@@ -2175,9 +2175,9 @@
                             "ぎゅう"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -2196,7 +2196,7 @@
                     ],
                     "hasError": false,
                     "originalText": "乳牛",
-                    "createTime": "2021-06-10T12:09:26.854803"
+                    "createTime": "2021-06-10T12:40:08.932794"
                 },
                 {
                     "word": {
@@ -2212,9 +2212,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 3
                     },
-                    "accentIndex": 3,
                     "wordTypes": [
                         "noun"
                     ],
@@ -2224,7 +2224,7 @@
                     "sentences": [],
                     "hasError": false,
                     "originalText": "チンパンジー",
-                    "createTime": "2021-06-10T12:09:27.854803"
+                    "createTime": "2021-06-10T12:40:09.932794"
                 },
                 {
                     "word": {
@@ -2237,9 +2237,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -2262,7 +2262,7 @@
                     ],
                     "hasError": false,
                     "originalText": "ネズミ",
-                    "createTime": "2021-06-10T12:09:28.854803"
+                    "createTime": "2021-06-10T12:40:10.932794"
                 },
                 {
                     "word": {
@@ -2280,9 +2280,9 @@
                             "たぬき"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -2297,7 +2297,7 @@
                     ],
                     "hasError": false,
                     "originalText": "狸",
-                    "createTime": "2021-06-10T12:09:29.854803"
+                    "createTime": "2021-06-10T12:40:11.932794"
                 },
                 {
                     "word": {
@@ -2312,9 +2312,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 3
                     },
-                    "accentIndex": 3,
                     "wordTypes": [
                         "noun"
                     ],
@@ -2324,7 +2324,7 @@
                     "sentences": [],
                     "hasError": false,
                     "originalText": "アライグマ",
-                    "createTime": "2021-06-10T12:09:30.854803"
+                    "createTime": "2021-06-10T12:40:12.932794"
                 },
                 {
                     "word": {
@@ -2342,9 +2342,9 @@
                             "くま"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 2
                     },
-                    "accentIndex": 2,
                     "wordTypes": [
                         "noun"
                     ],
@@ -2367,7 +2367,7 @@
                     ],
                     "hasError": false,
                     "originalText": "熊",
-                    "createTime": "2021-06-10T12:09:31.854803"
+                    "createTime": "2021-06-10T12:40:13.932794"
                 },
                 {
                     "word": {
@@ -2381,9 +2381,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 2
                     },
-                    "accentIndex": 2,
                     "wordTypes": [
                         "noun"
                     ],
@@ -2393,7 +2393,7 @@
                     "sentences": [],
                     "hasError": false,
                     "originalText": "マンモス",
-                    "createTime": "2021-06-10T12:09:32.854803"
+                    "createTime": "2021-06-10T12:40:14.932794"
                 },
                 {
                     "word": {
@@ -2411,9 +2411,9 @@
                             "ねこ"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -2436,7 +2436,7 @@
                     ],
                     "hasError": false,
                     "originalText": "猫",
-                    "createTime": "2021-06-10T12:09:33.854803"
+                    "createTime": "2021-06-10T12:40:15.932794"
                 },
                 {
                     "word": {
@@ -2450,9 +2450,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -2467,7 +2467,7 @@
                     ],
                     "hasError": true,
                     "originalText": "ビーバー",
-                    "createTime": "2021-06-10T12:09:34.854803"
+                    "createTime": "2021-06-10T12:40:16.932794"
                 },
                 {
                     "word": {
@@ -2485,9 +2485,9 @@
                             "いたち"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -2497,7 +2497,7 @@
                     "sentences": [],
                     "hasError": false,
                     "originalText": "イタチ",
-                    "createTime": "2021-06-10T12:09:35.854803"
+                    "createTime": "2021-06-10T12:40:17.932794"
                 },
                 {
                     "word": {
@@ -2512,9 +2512,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 3
                     },
-                    "accentIndex": 3,
                     "wordTypes": [
                         "noun"
                     ],
@@ -2524,7 +2524,7 @@
                     "sentences": [],
                     "hasError": false,
                     "originalText": "カンガルー",
-                    "createTime": "2021-06-10T12:09:36.854803"
+                    "createTime": "2021-06-10T12:40:18.932794"
                 },
                 {
                     "word": {
@@ -2537,9 +2537,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -2558,7 +2558,7 @@
                     ],
                     "hasError": true,
                     "originalText": "キリン",
-                    "createTime": "2021-06-10T12:09:37.854803"
+                    "createTime": "2021-06-10T12:40:19.932794"
                 },
                 {
                     "word": {
@@ -2572,9 +2572,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -2584,7 +2584,7 @@
                     "sentences": [],
                     "hasError": true,
                     "originalText": "カピバラ",
-                    "createTime": "2021-06-10T12:09:38.854803"
+                    "createTime": "2021-06-10T12:40:20.932794"
                 },
                 {
                     "word": {
@@ -2597,9 +2597,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -2622,7 +2622,7 @@
                     ],
                     "hasError": false,
                     "originalText": "コアラ",
-                    "createTime": "2021-06-10T12:09:39.854803"
+                    "createTime": "2021-06-10T12:40:21.932794"
                 },
                 {
                     "word": {
@@ -2640,9 +2640,9 @@
                             "ぞう"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -2665,7 +2665,7 @@
                     ],
                     "hasError": false,
                     "originalText": "象",
-                    "createTime": "2021-06-10T12:09:40.854803"
+                    "createTime": "2021-06-10T12:40:22.932794"
                 },
                 {
                     "word": {
@@ -2679,9 +2679,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -2691,7 +2691,7 @@
                     "sentences": [],
                     "hasError": true,
                     "originalText": "ヘラジカ",
-                    "createTime": "2021-06-10T12:09:41.854803"
+                    "createTime": "2021-06-10T12:40:23.932794"
                 },
                 {
                     "word": {
@@ -2709,9 +2709,9 @@
                             "ひつじ"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -2734,7 +2734,7 @@
                     ],
                     "hasError": false,
                     "originalText": "羊",
-                    "createTime": "2021-06-10T12:09:42.854803"
+                    "createTime": "2021-06-10T12:40:24.932794"
                 },
                 {
                     "word": {
@@ -2752,9 +2752,9 @@
                             "うし"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -2777,7 +2777,7 @@
                     ],
                     "hasError": false,
                     "originalText": "牛",
-                    "createTime": "2021-06-10T12:09:43.854803"
+                    "createTime": "2021-06-10T12:40:25.932794"
                 },
                 {
                     "word": {
@@ -2790,9 +2790,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -2815,7 +2815,7 @@
                     ],
                     "hasError": false,
                     "originalText": "ウサギ",
-                    "createTime": "2021-06-10T12:09:44.854803"
+                    "createTime": "2021-06-10T12:40:26.932794"
                 },
                 {
                     "word": {
@@ -2833,9 +2833,9 @@
                             "さる"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -2858,7 +2858,7 @@
                     ],
                     "hasError": false,
                     "originalText": "猿",
-                    "createTime": "2021-06-10T12:09:45.854803"
+                    "createTime": "2021-06-10T12:40:27.932794"
                 },
                 {
                     "word": {
@@ -2872,9 +2872,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -2889,7 +2889,7 @@
                     ],
                     "hasError": true,
                     "originalText": "チーター",
-                    "createTime": "2021-06-10T12:09:46.854803"
+                    "createTime": "2021-06-10T12:40:28.932794"
                 },
                 {
                     "word": {
@@ -2907,9 +2907,9 @@
                             "いぬ"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 2
                     },
-                    "accentIndex": 2,
                     "wordTypes": [
                         "noun"
                     ],
@@ -2932,7 +2932,7 @@
                     ],
                     "hasError": false,
                     "originalText": "犬",
-                    "createTime": "2021-06-10T12:09:47.854803"
+                    "createTime": "2021-06-10T12:40:29.932794"
                 },
                 {
                     "word": {
@@ -2957,9 +2957,9 @@
                             "ぎゅう"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -2982,7 +2982,7 @@
                     ],
                     "hasError": false,
                     "originalText": "水牛",
-                    "createTime": "2021-06-10T12:09:48.854803"
+                    "createTime": "2021-06-10T12:40:30.932794"
                 },
                 {
                     "word": {
@@ -2996,9 +2996,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -3008,7 +3008,7 @@
                     "sentences": [],
                     "hasError": false,
                     "originalText": "アルパカ",
-                    "createTime": "2021-06-10T12:09:49.854803"
+                    "createTime": "2021-06-10T12:40:31.932794"
                 },
                 {
                     "word": {
@@ -3020,9 +3020,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -3041,7 +3041,7 @@
                     ],
                     "hasError": true,
                     "originalText": "ヤギ",
-                    "createTime": "2021-06-10T12:09:50.854803"
+                    "createTime": "2021-06-10T12:40:32.932794"
                 },
                 {
                     "word": {
@@ -3055,9 +3055,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -3072,14 +3072,14 @@
                     ],
                     "hasError": true,
                     "originalText": "コウモリ",
-                    "createTime": "2021-06-10T12:09:51.854803"
+                    "createTime": "2021-06-10T12:40:33.932794"
                 }
             ]
         },
         {
-            "id": "91d5f52a-c9a1-11eb-8be6-b46bfc8f52a9",
-            "createTime": "2021-06-10T12:08:53.856797",
-            "lastModifiedTime": "2021-06-10T12:08:53.856797",
+            "id": "dbccc1de-c9a5-11eb-8be6-b46bfc8f52a9",
+            "createTime": "2021-06-10T12:39:35.934819",
+            "lastModifiedTime": "2021-06-10T12:39:35.934819",
             "title": "Insects & Reptiles",
             "tags": [
                 "Animals",
@@ -3105,9 +3105,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -3117,7 +3117,7 @@
                     "sentences": [],
                     "hasError": true,
                     "originalText": "コブラ",
-                    "createTime": "2021-06-10T12:08:53.855800"
+                    "createTime": "2021-06-10T12:39:35.933819"
                 },
                 {
                     "word": {
@@ -3142,9 +3142,9 @@
                             "ばち"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 2
                     },
-                    "accentIndex": 2,
                     "wordTypes": [
                         "noun"
                     ],
@@ -3167,7 +3167,7 @@
                     ],
                     "hasError": false,
                     "originalText": "蜜蜂",
-                    "createTime": "2021-06-10T12:08:54.855800"
+                    "createTime": "2021-06-10T12:39:36.933819"
                 },
                 {
                     "word": {
@@ -3185,9 +3185,9 @@
                             "かえる"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -3210,7 +3210,7 @@
                     ],
                     "hasError": false,
                     "originalText": "蛙",
-                    "createTime": "2021-06-10T12:08:55.855800"
+                    "createTime": "2021-06-10T12:39:37.933819"
                 },
                 {
                     "word": {
@@ -3228,9 +3228,9 @@
                             "あり"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -3240,7 +3240,7 @@
                     "sentences": [],
                     "hasError": true,
                     "originalText": "蟻",
-                    "createTime": "2021-06-10T12:08:56.855800"
+                    "createTime": "2021-06-10T12:39:38.933819"
                 },
                 {
                     "word": {
@@ -3254,9 +3254,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -3266,7 +3266,7 @@
                     "sentences": [],
                     "hasError": false,
                     "originalText": "ゴキブリ",
-                    "createTime": "2021-06-10T12:08:57.855800"
+                    "createTime": "2021-06-10T12:39:39.933819"
                 },
                 {
                     "word": {
@@ -3281,9 +3281,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 4
                     },
-                    "accentIndex": 4,
                     "wordTypes": [
                         "noun"
                     ],
@@ -3293,7 +3293,7 @@
                     "sentences": [],
                     "hasError": true,
                     "originalText": "ニシキヘビ",
-                    "createTime": "2021-06-10T12:08:58.855800"
+                    "createTime": "2021-06-10T12:39:40.933819"
                 },
                 {
                     "word": {
@@ -3311,9 +3311,9 @@
                             "せみ"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -3332,7 +3332,7 @@
                     ],
                     "hasError": false,
                     "originalText": "蝉",
-                    "createTime": "2021-06-10T12:08:59.855800"
+                    "createTime": "2021-06-10T12:39:41.933819"
                 },
                 {
                     "word": {
@@ -3344,9 +3344,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -3369,7 +3369,7 @@
                     ],
                     "hasError": false,
                     "originalText": "ワニ",
-                    "createTime": "2021-06-10T12:09:00.855800"
+                    "createTime": "2021-06-10T12:39:42.933819"
                 },
                 {
                     "word": {
@@ -3382,9 +3382,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -3394,7 +3394,7 @@
                     "sentences": [],
                     "hasError": false,
                     "originalText": "ミミズ",
-                    "createTime": "2021-06-10T12:09:01.855800"
+                    "createTime": "2021-06-10T12:39:43.933819"
                 },
                 {
                     "word": {
@@ -3416,9 +3416,9 @@
                             "むし"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 3
                     },
-                    "accentIndex": 3,
                     "wordTypes": [
                         "noun"
                     ],
@@ -3428,7 +3428,7 @@
                     "sentences": [],
                     "hasError": false,
                     "originalText": "てんとう虫",
-                    "createTime": "2021-06-10T12:09:02.855800"
+                    "createTime": "2021-06-10T12:39:44.933819"
                 },
                 {
                     "word": {
@@ -3453,9 +3453,9 @@
                             "じゃ"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -3470,7 +3470,7 @@
                     ],
                     "hasError": false,
                     "originalText": "毒蛇",
-                    "createTime": "2021-06-10T12:09:03.855800"
+                    "createTime": "2021-06-10T12:39:45.933819"
                 },
                 {
                     "word": {
@@ -3488,9 +3488,9 @@
                             "ほたる"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -3500,7 +3500,7 @@
                     "sentences": [],
                     "hasError": false,
                     "originalText": "蛍",
-                    "createTime": "2021-06-10T12:09:04.855800"
+                    "createTime": "2021-06-10T12:39:46.933819"
                 },
                 {
                     "word": {
@@ -3518,9 +3518,9 @@
                             "さなぎ"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -3535,7 +3535,7 @@
                     ],
                     "hasError": false,
                     "originalText": "蛹",
-                    "createTime": "2021-06-10T12:09:05.855800"
+                    "createTime": "2021-06-10T12:39:47.933819"
                 },
                 {
                     "word": {
@@ -3553,9 +3553,9 @@
                             "はえ"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -3578,7 +3578,7 @@
                     ],
                     "hasError": false,
                     "originalText": "ハエ",
-                    "createTime": "2021-06-10T12:09:06.855800"
+                    "createTime": "2021-06-10T12:39:48.933819"
                 },
                 {
                     "word": {
@@ -3591,9 +3591,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -3603,7 +3603,7 @@
                     "sentences": [],
                     "hasError": true,
                     "originalText": "トカゲ",
-                    "createTime": "2021-06-10T12:09:07.855800"
+                    "createTime": "2021-06-10T12:39:49.933819"
                 },
                 {
                     "word": {
@@ -3616,9 +3616,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -3628,7 +3628,7 @@
                     "sentences": [],
                     "hasError": false,
                     "originalText": "トンボ",
-                    "createTime": "2021-06-10T12:09:08.855800"
+                    "createTime": "2021-06-10T12:39:50.933819"
                 },
                 {
                     "word": {
@@ -3643,9 +3643,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 3
                     },
-                    "accentIndex": 3,
                     "wordTypes": [
                         "noun"
                     ],
@@ -3660,7 +3660,7 @@
                     ],
                     "hasError": true,
                     "originalText": "スズメバチ",
-                    "createTime": "2021-06-10T12:09:09.855800"
+                    "createTime": "2021-06-10T12:39:51.933819"
                 },
                 {
                     "word": {
@@ -3673,9 +3673,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -3685,7 +3685,7 @@
                     "sentences": [],
                     "hasError": false,
                     "originalText": "ヤモリ",
-                    "createTime": "2021-06-10T12:09:10.855800"
+                    "createTime": "2021-06-10T12:39:52.933819"
                 },
                 {
                     "word": {
@@ -3697,9 +3697,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -3709,7 +3709,7 @@
                     "sentences": [],
                     "hasError": false,
                     "originalText": "ダニ",
-                    "createTime": "2021-06-10T12:09:11.855800"
+                    "createTime": "2021-06-10T12:39:53.933819"
                 },
                 {
                     "word": {
@@ -3741,9 +3741,9 @@
                             "ちゅう"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -3753,7 +3753,7 @@
                     "sentences": [],
                     "hasError": false,
                     "originalText": "寄生虫",
-                    "createTime": "2021-06-10T12:09:12.855800"
+                    "createTime": "2021-06-10T12:39:54.933819"
                 },
                 {
                     "word": {
@@ -3771,9 +3771,9 @@
                             "へび"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -3797,7 +3797,7 @@
                     ],
                     "hasError": false,
                     "originalText": "蛇",
-                    "createTime": "2021-06-10T12:09:13.855800"
+                    "createTime": "2021-06-10T12:39:55.933819"
                 },
                 {
                     "word": {
@@ -3822,9 +3822,9 @@
                             "も"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -3847,7 +3847,7 @@
                     ],
                     "hasError": true,
                     "originalText": "蜘蛛",
-                    "createTime": "2021-06-10T12:09:14.855800"
+                    "createTime": "2021-06-10T12:39:56.933819"
                 },
                 {
                     "word": {
@@ -3862,9 +3862,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 3
                     },
-                    "accentIndex": 3,
                     "wordTypes": [
                         "noun"
                     ],
@@ -3874,7 +3874,7 @@
                     "sentences": [],
                     "hasError": false,
                     "originalText": "カブトムシ",
-                    "createTime": "2021-06-10T12:09:15.855800"
+                    "createTime": "2021-06-10T12:39:57.933819"
                 },
                 {
                     "word": {
@@ -3892,9 +3892,9 @@
                             "か"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -3917,7 +3917,7 @@
                     ],
                     "hasError": false,
                     "originalText": "蚊",
-                    "createTime": "2021-06-10T12:09:16.855800"
+                    "createTime": "2021-06-10T12:39:58.933819"
                 },
                 {
                     "word": {
@@ -3930,9 +3930,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -3942,7 +3942,7 @@
                     "sentences": [],
                     "hasError": false,
                     "originalText": "イモリ",
-                    "createTime": "2021-06-10T12:09:17.855800"
+                    "createTime": "2021-06-10T12:39:59.933819"
                 },
                 {
                     "word": {
@@ -3955,9 +3955,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -3967,7 +3967,7 @@
                     "sentences": [],
                     "hasError": true,
                     "originalText": "シラミ",
-                    "createTime": "2021-06-10T12:09:18.855800"
+                    "createTime": "2021-06-10T12:40:00.933819"
                 },
                 {
                     "word": {
@@ -3992,9 +3992,9 @@
                             "ちゅう"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -4017,7 +4017,7 @@
                     ],
                     "hasError": false,
                     "originalText": "昆虫",
-                    "createTime": "2021-06-10T12:09:19.855800"
+                    "createTime": "2021-06-10T12:40:01.933819"
                 },
                 {
                     "word": {
@@ -4035,9 +4035,9 @@
                             "ちょう"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -4060,7 +4060,7 @@
                     ],
                     "hasError": false,
                     "originalText": "蝶",
-                    "createTime": "2021-06-10T12:09:20.855800"
+                    "createTime": "2021-06-10T12:40:02.933819"
                 },
                 {
                     "word": {
@@ -4075,9 +4075,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 3
                     },
-                    "accentIndex": 3,
                     "wordTypes": [
                         "noun"
                     ],
@@ -4092,7 +4092,7 @@
                     ],
                     "hasError": true,
                     "originalText": "カメレオン",
-                    "createTime": "2021-06-10T12:09:21.855800"
+                    "createTime": "2021-06-10T12:40:03.933819"
                 },
                 {
                     "word": {
@@ -4124,9 +4124,9 @@
                             "るい"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 3
                     },
-                    "accentIndex": 3,
                     "wordTypes": [
                         "noun"
                     ],
@@ -4136,7 +4136,7 @@
                     "sentences": [],
                     "hasError": false,
                     "originalText": "両生類",
-                    "createTime": "2021-06-10T12:09:22.855800"
+                    "createTime": "2021-06-10T12:40:04.933819"
                 },
                 {
                     "word": {
@@ -4154,9 +4154,9 @@
                             "が"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -4179,7 +4179,7 @@
                     ],
                     "hasError": false,
                     "originalText": "蛾",
-                    "createTime": "2021-06-10T12:09:23.855800"
+                    "createTime": "2021-06-10T12:40:05.933819"
                 },
                 {
                     "word": {
@@ -4194,9 +4194,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -4215,7 +4215,7 @@
                     ],
                     "hasError": true,
                     "originalText": "カタツムリ",
-                    "createTime": "2021-06-10T12:09:24.855800"
+                    "createTime": "2021-06-10T12:40:06.933819"
                 },
                 {
                     "word": {
@@ -4227,9 +4227,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 2
                     },
-                    "accentIndex": 2,
                     "wordTypes": [
                         "noun"
                     ],
@@ -4239,7 +4239,7 @@
                     "sentences": [],
                     "hasError": false,
                     "originalText": "ノミ",
-                    "createTime": "2021-06-10T12:09:25.855800"
+                    "createTime": "2021-06-10T12:40:07.933819"
                 },
                 {
                     "word": {
@@ -4252,9 +4252,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -4264,7 +4264,7 @@
                     "sentences": [],
                     "hasError": false,
                     "originalText": "バッタ",
-                    "createTime": "2021-06-10T12:09:26.855800"
+                    "createTime": "2021-06-10T12:40:08.933819"
                 },
                 {
                     "word": {
@@ -4289,9 +4289,9 @@
                             "むし"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 3
                     },
-                    "accentIndex": 3,
                     "wordTypes": [
                         "noun"
                     ],
@@ -4310,7 +4310,7 @@
                     ],
                     "hasError": false,
                     "originalText": "毛虫",
-                    "createTime": "2021-06-10T12:09:27.855800"
+                    "createTime": "2021-06-10T12:40:09.933819"
                 },
                 {
                     "word": {
@@ -4324,9 +4324,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -4336,14 +4336,14 @@
                     "sentences": [],
                     "hasError": true,
                     "originalText": "イグアナ",
-                    "createTime": "2021-06-10T12:09:28.855800"
+                    "createTime": "2021-06-10T12:40:10.933819"
                 }
             ]
         },
         {
-            "id": "91d5f52b-c9a1-11eb-988c-b46bfc8f52a9",
-            "createTime": "2021-06-10T12:08:53.856797",
-            "lastModifiedTime": "2021-06-10T12:08:53.856797",
+            "id": "dbccc1df-c9a5-11eb-988c-b46bfc8f52a9",
+            "createTime": "2021-06-10T12:39:35.934819",
+            "lastModifiedTime": "2021-06-10T12:39:35.934819",
             "title": "Marine Animals",
             "tags": [
                 "Animals",
@@ -4369,9 +4369,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -4386,7 +4386,7 @@
                     ],
                     "hasError": true,
                     "originalText": "アシカ",
-                    "createTime": "2021-06-10T12:08:53.856797"
+                    "createTime": "2021-06-10T12:39:35.934819"
                 },
                 {
                     "word": {
@@ -4399,9 +4399,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -4411,7 +4411,7 @@
                     "sentences": [],
                     "hasError": false,
                     "originalText": "ヒトデ",
-                    "createTime": "2021-06-10T12:08:54.856797"
+                    "createTime": "2021-06-10T12:39:36.934819"
                 },
                 {
                     "word": {
@@ -4424,9 +4424,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -4449,7 +4449,7 @@
                     ],
                     "hasError": true,
                     "originalText": "イルカ",
-                    "createTime": "2021-06-10T12:08:55.856797"
+                    "createTime": "2021-06-10T12:39:37.934819"
                 },
                 {
                     "word": {
@@ -4462,9 +4462,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -4479,7 +4479,7 @@
                     ],
                     "hasError": true,
                     "originalText": "クラゲ",
-                    "createTime": "2021-06-10T12:08:56.856797"
+                    "createTime": "2021-06-10T12:39:38.934819"
                 },
                 {
                     "word": {
@@ -4491,9 +4491,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -4504,7 +4504,7 @@
                     "sentences": [],
                     "hasError": true,
                     "originalText": "ウニ",
-                    "createTime": "2021-06-10T12:08:57.856797"
+                    "createTime": "2021-06-10T12:39:39.934819"
                 },
                 {
                     "word": {
@@ -4521,9 +4521,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 3
                     },
-                    "accentIndex": 3,
                     "wordTypes": [
                         "noun"
                     ],
@@ -4533,7 +4533,7 @@
                     "sentences": [],
                     "hasError": false,
                     "originalText": "イソギンチャク",
-                    "createTime": "2021-06-10T12:08:58.856797"
+                    "createTime": "2021-06-10T12:39:40.934819"
                 },
                 {
                     "word": {
@@ -4547,9 +4547,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -4559,7 +4559,7 @@
                     "sentences": [],
                     "hasError": false,
                     "originalText": "セイウチ",
-                    "createTime": "2021-06-10T12:08:59.856797"
+                    "createTime": "2021-06-10T12:39:41.934819"
                 },
                 {
                     "word": {
@@ -4572,9 +4572,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -4584,7 +4584,7 @@
                     "sentences": [],
                     "hasError": true,
                     "originalText": "サザエ",
-                    "createTime": "2021-06-10T12:09:00.856797"
+                    "createTime": "2021-06-10T12:39:42.934819"
                 },
                 {
                     "word": {
@@ -4598,9 +4598,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -4610,7 +4610,7 @@
                     "sentences": [],
                     "hasError": true,
                     "originalText": "ザリガニ",
-                    "createTime": "2021-06-10T12:09:01.856797"
+                    "createTime": "2021-06-10T12:39:43.934819"
                 },
                 {
                     "word": {
@@ -4635,9 +4635,9 @@
                             "がめ"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -4647,7 +4647,7 @@
                     "sentences": [],
                     "hasError": true,
                     "originalText": "海亀",
-                    "createTime": "2021-06-10T12:09:02.856797"
+                    "createTime": "2021-06-10T12:39:44.934819"
                 },
                 {
                     "word": {
@@ -4665,9 +4665,9 @@
                             "こい"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -4690,7 +4690,7 @@
                     ],
                     "hasError": false,
                     "originalText": "鯉",
-                    "createTime": "2021-06-10T12:09:03.856797"
+                    "createTime": "2021-06-10T12:39:45.934819"
                 },
                 {
                     "word": {
@@ -4704,9 +4704,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 3
                     },
-                    "accentIndex": 3,
                     "wordTypes": [
                         "noun"
                     ],
@@ -4717,7 +4717,7 @@
                     "sentences": [],
                     "hasError": false,
                     "originalText": "ハマグリ",
-                    "createTime": "2021-06-10T12:09:04.856797"
+                    "createTime": "2021-06-10T12:39:46.934819"
                 },
                 {
                     "word": {
@@ -4730,9 +4730,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -4742,7 +4742,7 @@
                     "sentences": [],
                     "hasError": false,
                     "originalText": "クジラ",
-                    "createTime": "2021-06-10T12:09:05.856797"
+                    "createTime": "2021-06-10T12:39:47.934819"
                 },
                 {
                     "word": {
@@ -4767,9 +4767,9 @@
                             "め"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -4779,7 +4779,7 @@
                     "sentences": [],
                     "hasError": false,
                     "originalText": "ヒラメ",
-                    "createTime": "2021-06-10T12:09:06.856797"
+                    "createTime": "2021-06-10T12:39:48.934819"
                 },
                 {
                     "word": {
@@ -4804,9 +4804,9 @@
                             "び"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -4825,7 +4825,7 @@
                     ],
                     "hasError": true,
                     "originalText": "エビ",
-                    "createTime": "2021-06-10T12:09:07.856797"
+                    "createTime": "2021-06-10T12:39:49.934819"
                 },
                 {
                     "word": {
@@ -4838,9 +4838,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -4850,7 +4850,7 @@
                     "sentences": [],
                     "hasError": true,
                     "originalText": "ナマコ",
-                    "createTime": "2021-06-10T12:09:08.856797"
+                    "createTime": "2021-06-10T12:39:50.934819"
                 },
                 {
                     "word": {
@@ -4870,9 +4870,9 @@
                             ""
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -4882,7 +4882,7 @@
                     "sentences": [],
                     "hasError": false,
                     "originalText": "毛ガニ",
-                    "createTime": "2021-06-10T12:09:09.856797"
+                    "createTime": "2021-06-10T12:39:51.934819"
                 },
                 {
                     "word": {
@@ -4900,9 +4900,9 @@
                             "たい"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -4917,7 +4917,7 @@
                     ],
                     "hasError": false,
                     "originalText": "鯛",
-                    "createTime": "2021-06-10T12:09:10.856797"
+                    "createTime": "2021-06-10T12:39:52.934819"
                 },
                 {
                     "word": {
@@ -4930,9 +4930,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -4947,7 +4947,7 @@
                     ],
                     "hasError": false,
                     "originalText": "マグロ",
-                    "createTime": "2021-06-10T12:09:11.856797"
+                    "createTime": "2021-06-10T12:39:53.934819"
                 },
                 {
                     "word": {
@@ -4965,9 +4965,9 @@
                             "たら"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -4977,7 +4977,7 @@
                     "sentences": [],
                     "hasError": false,
                     "originalText": "鱈",
-                    "createTime": "2021-06-10T12:09:12.856797"
+                    "createTime": "2021-06-10T12:39:54.934819"
                 },
                 {
                     "word": {
@@ -5009,9 +5009,9 @@
                             "がい"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 3
                     },
-                    "accentIndex": 3,
                     "wordTypes": [
                         "noun"
                     ],
@@ -5021,7 +5021,7 @@
                     "sentences": [],
                     "hasError": true,
                     "originalText": "帆立貝",
-                    "createTime": "2021-06-10T12:09:13.856797"
+                    "createTime": "2021-06-10T12:39:55.934819"
                 },
                 {
                     "word": {
@@ -5036,9 +5036,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 4
                     },
-                    "accentIndex": 4,
                     "wordTypes": [
                         "noun"
                     ],
@@ -5048,7 +5048,7 @@
                     "sentences": [],
                     "hasError": false,
                     "originalText": "タラバガニ",
-                    "createTime": "2021-06-10T12:09:14.856797"
+                    "createTime": "2021-06-10T12:39:56.934819"
                 },
                 {
                     "word": {
@@ -5066,9 +5066,9 @@
                             "かめ"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -5091,7 +5091,7 @@
                     ],
                     "hasError": false,
                     "originalText": "亀",
-                    "createTime": "2021-06-10T12:09:15.856797"
+                    "createTime": "2021-06-10T12:39:57.934819"
                 },
                 {
                     "word": {
@@ -5109,9 +5109,9 @@
                             "さかな"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -5134,7 +5134,7 @@
                     ],
                     "hasError": false,
                     "originalText": "魚",
-                    "createTime": "2021-06-10T12:09:16.856797"
+                    "createTime": "2021-06-10T12:39:58.934819"
                 },
                 {
                     "word": {
@@ -5159,9 +5159,9 @@
                             "ぎょ"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -5180,7 +5180,7 @@
                     ],
                     "hasError": false,
                     "originalText": "金魚",
-                    "createTime": "2021-06-10T12:09:17.856797"
+                    "createTime": "2021-06-10T12:39:59.934819"
                 },
                 {
                     "word": {
@@ -5193,9 +5193,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -5205,7 +5205,7 @@
                     "sentences": [],
                     "hasError": false,
                     "originalText": "サンゴ",
-                    "createTime": "2021-06-10T12:09:18.856797"
+                    "createTime": "2021-06-10T12:40:00.934819"
                 },
                 {
                     "word": {
@@ -5217,9 +5217,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -5229,7 +5229,7 @@
                     "sentences": [],
                     "hasError": false,
                     "originalText": "タコ",
-                    "createTime": "2021-06-10T12:09:19.856797"
+                    "createTime": "2021-06-10T12:40:01.934819"
                 },
                 {
                     "word": {
@@ -5242,9 +5242,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -5254,7 +5254,7 @@
                     "sentences": [],
                     "hasError": true,
                     "originalText": "ラッコ",
-                    "createTime": "2021-06-10T12:09:20.856797"
+                    "createTime": "2021-06-10T12:40:02.934819"
                 },
                 {
                     "word": {
@@ -5268,9 +5268,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 2
                     },
-                    "accentIndex": 2,
                     "wordTypes": [
                         "noun"
                     ],
@@ -5280,7 +5280,7 @@
                     "sentences": [],
                     "hasError": false,
                     "originalText": "アザラシ",
-                    "createTime": "2021-06-10T12:09:21.856797"
+                    "createTime": "2021-06-10T12:40:03.934819"
                 },
                 {
                     "word": {
@@ -5295,9 +5295,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -5316,7 +5316,7 @@
                     ],
                     "hasError": false,
                     "originalText": "ロブスター",
-                    "createTime": "2021-06-10T12:09:22.856797"
+                    "createTime": "2021-06-10T12:40:04.934819"
                 },
                 {
                     "word": {
@@ -5329,9 +5329,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -5341,7 +5341,7 @@
                     "sentences": [],
                     "hasError": true,
                     "originalText": "サンマ",
-                    "createTime": "2021-06-10T12:09:23.856797"
+                    "createTime": "2021-06-10T12:40:05.934819"
                 },
                 {
                     "word": {
@@ -5353,9 +5353,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -5378,7 +5378,7 @@
                     ],
                     "hasError": true,
                     "originalText": "イカ",
-                    "createTime": "2021-06-10T12:09:24.856797"
+                    "createTime": "2021-06-10T12:40:06.934819"
                 },
                 {
                     "word": {
@@ -5396,9 +5396,9 @@
                             "うなぎ"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -5413,7 +5413,7 @@
                     ],
                     "hasError": false,
                     "originalText": "鰻",
-                    "createTime": "2021-06-10T12:09:25.856797"
+                    "createTime": "2021-06-10T12:40:07.934819"
                 },
                 {
                     "word": {
@@ -5431,9 +5431,9 @@
                             "さば"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -5448,7 +5448,7 @@
                     ],
                     "hasError": false,
                     "originalText": "鯖",
-                    "createTime": "2021-06-10T12:09:26.856797"
+                    "createTime": "2021-06-10T12:40:08.934819"
                 },
                 {
                     "word": {
@@ -5473,9 +5473,9 @@
                             "き"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -5494,7 +5494,7 @@
                     ],
                     "hasError": true,
                     "originalText": "牡蠣",
-                    "createTime": "2021-06-10T12:09:27.856797"
+                    "createTime": "2021-06-10T12:40:09.934819"
                 },
                 {
                     "word": {
@@ -5511,9 +5511,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -5523,7 +5523,7 @@
                     "sentences": [],
                     "hasError": false,
                     "originalText": "タツノオトシゴ",
-                    "createTime": "2021-06-10T12:09:28.856797"
+                    "createTime": "2021-06-10T12:40:10.934819"
                 },
                 {
                     "word": {
@@ -5541,9 +5541,9 @@
                             "さけ"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -5566,7 +5566,7 @@
                     ],
                     "hasError": false,
                     "originalText": "鮭",
-                    "createTime": "2021-06-10T12:09:29.856797"
+                    "createTime": "2021-06-10T12:40:11.934819"
                 }
             ]
         }

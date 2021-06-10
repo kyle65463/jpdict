@@ -4,9 +4,9 @@
     "isLeaf": true,
     "repos": [
         {
-            "id": "8a964be2-c9a1-11eb-985e-b46bfc8f52a9",
-            "createTime": "2021-06-10T12:08:41.695536",
-            "lastModifiedTime": "2021-06-10T12:08:41.695536",
+            "id": "d37d4b70-c9a5-11eb-985e-b46bfc8f52a9",
+            "createTime": "2021-06-10T12:39:21.992280",
+            "lastModifiedTime": "2021-06-10T12:39:21.992280",
             "title": "レモン",
             "tags": [
                 "J-pop",
@@ -34,9 +34,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -60,7 +60,7 @@
                             "translated": "The lemon has a flavor all of its own."
                         }
                     ],
-                    "createTime": "2021-06-10T12:08:41.694538"
+                    "createTime": "2021-06-10T12:39:21.991283"
                 },
                 {
                     "originalText": "未だに",
@@ -81,9 +81,9 @@
                             ""
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "adverb"
                     ],
@@ -107,7 +107,7 @@
                             "translated": "The cause of his death still remains a mystery."
                         }
                     ],
-                    "createTime": "2021-06-10T12:08:42.694538"
+                    "createTime": "2021-06-10T12:39:22.991283"
                 },
                 {
                     "originalText": "古びる",
@@ -128,9 +128,9 @@
                             ""
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 3
                     },
-                    "accentIndex": 3,
                     "wordTypes": [
                         "intransitive verb",
                         "group2 verb"
@@ -151,7 +151,7 @@
                             "translated": "He wore old shoes."
                         }
                     ],
-                    "createTime": "2021-06-10T12:08:43.694538"
+                    "createTime": "2021-06-10T12:39:23.991283"
                 },
                 {
                     "originalText": "思い出",
@@ -178,9 +178,9 @@
                             "で"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -204,7 +204,7 @@
                             "translated": "She indulged herself in nostalgic memories."
                         }
                     ],
-                    "createTime": "2021-06-10T12:08:44.694538"
+                    "createTime": "2021-06-10T12:39:24.991283"
                 },
                 {
                     "originalText": "埃",
@@ -223,9 +223,9 @@
                             "ほこり"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -250,7 +250,7 @@
                             "translated": "Dust had accumulated on the desk."
                         }
                     ],
-                    "createTime": "2021-06-10T12:08:45.694538"
+                    "createTime": "2021-06-10T12:39:25.991283"
                 },
                 {
                     "originalText": "払う",
@@ -270,9 +270,9 @@
                             ""
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 2
                     },
-                    "accentIndex": 2,
                     "wordTypes": [
                         "transitive verb",
                         "group1 verb"
@@ -298,7 +298,7 @@
                             "translated": "Please let me pay."
                         }
                     ],
-                    "createTime": "2021-06-10T12:08:46.694538"
+                    "createTime": "2021-06-10T12:39:26.991283"
                 },
                 {
                     "originalText": "戻る",
@@ -318,9 +318,9 @@
                             ""
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 2
                     },
-                    "accentIndex": 2,
                     "wordTypes": [
                         "intransitive verb",
                         "group1 verb"
@@ -347,7 +347,7 @@
                             "translated": "She is already back."
                         }
                     ],
-                    "createTime": "2021-06-10T12:08:47.694538"
+                    "createTime": "2021-06-10T12:39:27.991283"
                 },
                 {
                     "originalText": "幸せ",
@@ -367,9 +367,9 @@
                             ""
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun",
                         "na-adjective"
@@ -394,7 +394,7 @@
                             "translated": "She must be very happy."
                         }
                     ],
-                    "createTime": "2021-06-10T12:08:48.694538"
+                    "createTime": "2021-06-10T12:39:28.991283"
                 },
                 {
                     "originalText": "最後",
@@ -420,9 +420,9 @@
                             "ご"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -447,7 +447,7 @@
                             "translated": "She was the last to cross the finishing line."
                         }
                     ],
-                    "createTime": "2021-06-10T12:08:49.694538"
+                    "createTime": "2021-06-10T12:39:29.991283"
                 },
                 {
                     "originalText": "言える",
@@ -468,9 +468,9 @@
                             ""
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "intransitive verb",
                         "group2 verb"
@@ -496,7 +496,7 @@
                             "translated": "Is he anything of a scholar?"
                         }
                     ],
-                    "createTime": "2021-06-10T12:08:50.694538"
+                    "createTime": "2021-06-10T12:39:30.991283"
                 },
                 {
                     "originalText": "隠す",
@@ -516,9 +516,9 @@
                             ""
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 2
                     },
-                    "accentIndex": 2,
                     "wordTypes": [
                         "transitive verb",
                         "group1 verb"
@@ -543,7 +543,7 @@
                             "translated": "She concealed the change in her feelings toward him."
                         }
                     ],
-                    "createTime": "2021-06-10T12:08:51.694538"
+                    "createTime": "2021-06-10T12:39:31.991283"
                 },
                 {
                     "originalText": "昏い",
@@ -563,9 +563,9 @@
                             ""
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "i-adjective"
                     ],
@@ -591,7 +591,7 @@
                             "translated": "All of a sudden the sky became dark."
                         }
                     ],
-                    "createTime": "2021-06-10T12:08:52.694538"
+                    "createTime": "2021-06-10T12:39:32.991283"
                 },
                 {
                     "originalText": "過去",
@@ -617,9 +617,9 @@
                             "こ"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -644,7 +644,7 @@
                             "translated": "He meditated on his past life of suffering."
                         }
                     ],
-                    "createTime": "2021-06-10T12:08:53.694538"
+                    "createTime": "2021-06-10T12:39:33.991283"
                 },
                 {
                     "originalText": "永遠",
@@ -670,9 +670,9 @@
                             "えん"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -696,7 +696,7 @@
                             "translated": "Has Ken left Japan for good?"
                         }
                     ],
-                    "createTime": "2021-06-10T12:08:54.694538"
+                    "createTime": "2021-06-10T12:39:34.991283"
                 },
                 {
                     "originalText": "きっと",
@@ -710,9 +710,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "adverb"
                     ],
@@ -737,7 +737,7 @@
                             "translated": "She's sure to succeed."
                         }
                     ],
-                    "createTime": "2021-06-10T12:08:55.694538"
+                    "createTime": "2021-06-10T12:39:35.991283"
                 },
                 {
                     "originalText": "これ以上",
@@ -765,9 +765,9 @@
                             "じょう"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 3
                     },
-                    "accentIndex": 3,
                     "wordTypes": [
                         "expression"
                     ],
@@ -778,7 +778,7 @@
                         "再進一步"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:08:56.694538"
+                    "createTime": "2021-06-10T12:39:36.991283"
                 },
                 {
                     "originalText": "傷つく",
@@ -799,9 +799,9 @@
                             ""
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 3
                     },
-                    "accentIndex": 3,
                     "wordTypes": [
                         "intransitive verb",
                         "group1 verb"
@@ -827,7 +827,7 @@
                             "translated": "The injured bird fell to the ground."
                         }
                     ],
-                    "createTime": "2021-06-10T12:08:57.694538"
+                    "createTime": "2021-06-10T12:39:37.991283"
                 },
                 {
                     "originalText": "悲しみ",
@@ -848,9 +848,9 @@
                             ""
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -875,7 +875,7 @@
                             "translated": "Sorrow filled his breast."
                         }
                     ],
-                    "createTime": "2021-06-10T12:08:58.694538"
+                    "createTime": "2021-06-10T12:39:38.991283"
                 },
                 {
                     "originalText": "苦しみ",
@@ -896,9 +896,9 @@
                             ""
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -922,7 +922,7 @@
                             "translated": "No gains without pains."
                         }
                     ],
-                    "createTime": "2021-06-10T12:08:59.694538"
+                    "createTime": "2021-06-10T12:39:39.991283"
                 },
                 {
                     "originalText": "胸",
@@ -941,9 +941,9 @@
                             "むね"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 2
                     },
-                    "accentIndex": 2,
                     "wordTypes": [
                         "noun"
                     ],
@@ -968,7 +968,7 @@
                             "translated": "Her heart was filled with joy."
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:00.694538"
+                    "createTime": "2021-06-10T12:39:40.991283"
                 },
                 {
                     "originalText": "残り",
@@ -988,9 +988,9 @@
                             ""
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 3
                     },
-                    "accentIndex": 3,
                     "wordTypes": [
                         "noun"
                     ],
@@ -1014,7 +1014,7 @@
                             "translated": "Keep the rest for yourself."
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:01.694538"
+                    "createTime": "2021-06-10T12:39:41.991283"
                 },
                 {
                     "originalText": "離れる",
@@ -1035,9 +1035,9 @@
                             ""
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 3
                     },
-                    "accentIndex": 3,
                     "wordTypes": [
                         "intransitive verb",
                         "group2 verb"
@@ -1063,7 +1063,7 @@
                             "translated": "She was out of Japan last year."
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:02.694538"
+                    "createTime": "2021-06-10T12:39:42.991283"
                 },
                 {
                     "originalText": "匂い",
@@ -1083,9 +1083,9 @@
                             ""
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 2
                     },
-                    "accentIndex": 2,
                     "wordTypes": [
                         "noun"
                     ],
@@ -1110,7 +1110,7 @@
                             "translated": "\"Natto\" smells awful but tastes terrific."
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:03.694538"
+                    "createTime": "2021-06-10T12:39:43.991283"
                 },
                 {
                     "originalText": "降り止む",
@@ -1138,9 +1138,9 @@
                             ""
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 3
                     },
-                    "accentIndex": 3,
                     "wordTypes": [
                         "intransitive verb",
                         "group1 verb"
@@ -1161,7 +1161,7 @@
                             "translated": "It stopped snowing an hour ago."
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:04.694538"
+                    "createTime": "2021-06-10T12:39:44.991283"
                 },
                 {
                     "originalText": "暗闇",
@@ -1187,9 +1187,9 @@
                             "やみ"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -1213,7 +1213,7 @@
                             "translated": "The light went out and we were left in the dark."
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:05.694538"
+                    "createTime": "2021-06-10T12:39:45.991283"
                 },
                 {
                     "originalText": "なぞる",
@@ -1227,9 +1227,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 2
                     },
-                    "accentIndex": 2,
                     "wordTypes": [
                         "transitive verb",
                         "group1 verb"
@@ -1242,7 +1242,7 @@
                         "模仿，複製"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:06.694538"
+                    "createTime": "2021-06-10T12:39:46.991283"
                 },
                 {
                     "originalText": "輪郭",
@@ -1268,9 +1268,9 @@
                             "かく"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -1291,7 +1291,7 @@
                             "translated": "He sketches the outline of the machine."
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:07.694538"
+                    "createTime": "2021-06-10T12:39:47.991283"
                 },
                 {
                     "originalText": "鮮明",
@@ -1317,9 +1317,9 @@
                             "めい"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "na-adjective"
                     ],
@@ -1335,7 +1335,7 @@
                             "translated": "Nothing is more vivid than a picture."
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:08.694538"
+                    "createTime": "2021-06-10T12:39:48.991283"
                 },
                 {
                     "originalText": "受け止める",
@@ -1364,9 +1364,9 @@
                             ""
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 4
                     },
-                    "accentIndex": 4,
                     "wordTypes": [
                         "group2 verb",
                         "transitive verb"
@@ -1389,7 +1389,7 @@
                             "translated": "He took his defeat hard."
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:09.694538"
+                    "createTime": "2021-06-10T12:39:49.991283"
                 },
                 {
                     "originalText": "溢れる",
@@ -1410,9 +1410,9 @@
                             ""
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 3
                     },
-                    "accentIndex": 3,
                     "wordTypes": [
                         "intransitive verb",
                         "group2 verb"
@@ -1429,7 +1429,7 @@
                             "translated": "Tears filled her eyes."
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:10.694538"
+                    "createTime": "2021-06-10T12:39:50.991283"
                 },
                 {
                     "originalText": "止まない",
@@ -1444,9 +1444,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 3
                     },
-                    "accentIndex": 3,
                     "wordTypes": [
                         "conjunction"
                     ],
@@ -1458,7 +1458,7 @@
                         "非常非常（尤其是希望和願望）"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:11.694538"
+                    "createTime": "2021-06-10T12:39:51.991283"
                 },
                 {
                     "originalText": "涙",
@@ -1477,9 +1477,9 @@
                             "なみだ"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -1504,7 +1504,7 @@
                             "translated": "She wiped away her tears."
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:12.694538"
+                    "createTime": "2021-06-10T12:39:52.991283"
                 },
                 {
                     "originalText": "横顔",
@@ -1530,9 +1530,9 @@
                             "がお"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -1549,7 +1549,7 @@
                             "translated": "The portrait shows the profile of a beautiful woman."
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:13.694538"
+                    "createTime": "2021-06-10T12:39:53.991283"
                 },
                 {
                     "originalText": "願う",
@@ -1569,9 +1569,9 @@
                             ""
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 2
                     },
-                    "accentIndex": 2,
                     "wordTypes": [
                         "transitive verb",
                         "group1 verb"
@@ -1597,7 +1597,7 @@
                             "translated": "He was not anxious for fame."
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:14.694538"
+                    "createTime": "2021-06-10T12:39:54.991283"
                 },
                 {
                     "originalText": "光",
@@ -1616,9 +1616,9 @@
                             "ひかり"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 3
                     },
-                    "accentIndex": 3,
                     "wordTypes": [
                         "noun"
                     ],
@@ -1643,7 +1643,7 @@
                             "translated": "I like reading by daylight."
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:15.694538"
+                    "createTime": "2021-06-10T12:39:55.991283"
                 },
                 {
                     "originalText": "恋",
@@ -1662,9 +1662,9 @@
                             "こい"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -1688,7 +1688,7 @@
                             "translated": "All's fair in love and war."
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:16.694538"
+                    "createTime": "2021-06-10T12:39:56.991283"
                 },
                 {
                     "originalText": "側",
@@ -1707,9 +1707,9 @@
                             "がわ"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -1734,7 +1734,7 @@
                             "translated": "I passed by your house about 10 last night."
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:17.694538"
+                    "createTime": "2021-06-10T12:39:57.991283"
                 },
                 {
                     "originalText": "まるで",
@@ -1748,9 +1748,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "adverb"
                     ],
@@ -1775,7 +1775,7 @@
                             "translated": "She is not anything like her mother."
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:18.694538"
+                    "createTime": "2021-06-10T12:39:58.991283"
                 },
                 {
                     "originalText": "嘘",
@@ -1794,9 +1794,9 @@
                             "うそ"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -1821,7 +1821,7 @@
                             "translated": "The news that she died is false."
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:19.694538"
+                    "createTime": "2021-06-10T12:39:59.991283"
                 },
                 {
                     "originalText": "確か",
@@ -1841,9 +1841,9 @@
                             ""
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "adverb",
                         "na-adjective"
@@ -1869,7 +1869,7 @@
                             "translated": "His information is certain."
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:20.694538"
+                    "createTime": "2021-06-10T12:40:00.991283"
                 },
                 {
                     "originalText": "切り分ける",
@@ -1898,9 +1898,9 @@
                             ""
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 4
                     },
-                    "accentIndex": 4,
                     "wordTypes": [
                         "group2 verb",
                         "transitive verb"
@@ -1917,7 +1917,7 @@
                             "translated": "The host cut the turkey for the guests."
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:21.694538"
+                    "createTime": "2021-06-10T12:40:01.991283"
                 },
                 {
                     "originalText": "果実",
@@ -1943,9 +1943,9 @@
                             "じつ"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -1970,7 +1970,7 @@
                             "translated": "That is a fruit of your effort."
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:22.694538"
+                    "createTime": "2021-06-10T12:40:02.991283"
                 },
                 {
                     "originalText": "片方",
@@ -1996,9 +1996,9 @@
                             "ほう"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 2
                     },
-                    "accentIndex": 2,
                     "wordTypes": [
                         "noun"
                     ],
@@ -2023,7 +2023,7 @@
                             "translated": "We have five fingers on each hand."
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:23.694538"
+                    "createTime": "2021-06-10T12:40:03.991283"
                 },
                 {
                     "originalText": "息",
@@ -2042,9 +2042,9 @@
                             "いき"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -2069,7 +2069,7 @@
                             "translated": "He lay breathing very feebly."
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:24.694538"
+                    "createTime": "2021-06-10T12:40:04.991283"
                 },
                 {
                     "originalText": "あんなに",
@@ -2084,9 +2084,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "adverb"
                     ],
@@ -2110,7 +2110,7 @@
                             "translated": "I felt very sorry that I had put them to so much trouble."
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:25.694538"
+                    "createTime": "2021-06-10T12:40:05.991283"
                 }
             ]
         }

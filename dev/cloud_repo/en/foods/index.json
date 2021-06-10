@@ -4,9 +4,9 @@
     "isLeaf": true,
     "repos": [
         {
-            "id": "9004aa52-c9a1-11eb-b665-b46bfc8f52a9",
-            "createTime": "2021-06-10T12:08:50.795833",
-            "lastModifiedTime": "2021-06-10T12:08:50.795833",
+            "id": "d7d8908e-c9a5-11eb-b665-b46bfc8f52a9",
+            "createTime": "2021-06-10T12:39:29.290370",
+            "lastModifiedTime": "2021-06-10T12:39:29.290370",
             "title": "Fruits",
             "tags": [
                 "Foods",
@@ -45,9 +45,9 @@
                             "たん"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -58,7 +58,7 @@
                         "柚子（Citrus maxima），柚子"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:08:50.795833"
+                    "createTime": "2021-06-10T12:39:29.290370"
                 },
                 {
                     "originalText": "りんご",
@@ -72,9 +72,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -99,7 +99,7 @@
                             "translated": "She picked out three beautiful apples."
                         }
                     ],
-                    "createTime": "2021-06-10T12:08:51.795833"
+                    "createTime": "2021-06-10T12:39:30.290370"
                 },
                 {
                     "originalText": "マンゴー",
@@ -114,9 +114,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -140,7 +140,7 @@
                             "translated": "I want to eat a mango."
                         }
                     ],
-                    "createTime": "2021-06-10T12:08:52.795833"
+                    "createTime": "2021-06-10T12:39:31.290370"
                 },
                 {
                     "originalText": "メロン",
@@ -154,9 +154,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -180,7 +180,7 @@
                             "translated": "Half of the melon was eaten."
                         }
                     ],
-                    "createTime": "2021-06-10T12:08:53.795833"
+                    "createTime": "2021-06-10T12:39:32.290370"
                 },
                 {
                     "originalText": "いちご",
@@ -194,9 +194,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -220,7 +220,7 @@
                             "translated": "The basket was filled with strawberries."
                         }
                     ],
-                    "createTime": "2021-06-10T12:08:54.795833"
+                    "createTime": "2021-06-10T12:39:33.290370"
                 },
                 {
                     "originalText": "ライム",
@@ -234,9 +234,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -253,7 +253,7 @@
                             "translated": "Lemons and limes are acidic fruits."
                         }
                     ],
-                    "createTime": "2021-06-10T12:08:55.795833"
+                    "createTime": "2021-06-10T12:39:34.290370"
                 },
                 {
                     "originalText": "バナナ",
@@ -267,9 +267,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -294,7 +294,7 @@
                             "translated": "But Bill interrupted the story saying: \"Banana\"."
                         }
                     ],
-                    "createTime": "2021-06-10T12:08:56.795833"
+                    "createTime": "2021-06-10T12:39:35.290370"
                 },
                 {
                     "originalText": "ココナッツ",
@@ -310,9 +310,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -332,7 +332,7 @@
                             "translated": "Shinji ate nine coconuts."
                         }
                     ],
-                    "createTime": "2021-06-10T12:08:57.795833"
+                    "createTime": "2021-06-10T12:39:36.290370"
                 },
                 {
                     "originalText": "スターフルーツ",
@@ -350,9 +350,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 5
                     },
-                    "accentIndex": 5,
                     "wordTypes": [
                         "noun"
                     ],
@@ -361,7 +361,7 @@
                     ],
                     "jishoDefinitions": [],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:08:58.795833"
+                    "createTime": "2021-06-10T12:39:37.290370"
                 },
                 {
                     "originalText": "レモン",
@@ -375,9 +375,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -401,7 +401,7 @@
                             "translated": "The lemon is a sour fruit."
                         }
                     ],
-                    "createTime": "2021-06-10T12:08:59.795833"
+                    "createTime": "2021-06-10T12:39:38.290370"
                 },
                 {
                     "originalText": "ドリアン",
@@ -416,9 +416,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -435,7 +435,7 @@
                             "translated": "I ate durian for the first time."
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:00.795833"
+                    "createTime": "2021-06-10T12:39:39.290370"
                 },
                 {
                     "originalText": "ブルーベリー",
@@ -452,9 +452,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 4
                     },
-                    "accentIndex": 4,
                     "wordTypes": [
                         "noun"
                     ],
@@ -470,7 +470,7 @@
                             "translated": "After I pick some blueberries, I make a tart."
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:01.795833"
+                    "createTime": "2021-06-10T12:39:40.290370"
                 },
                 {
                     "originalText": "桃",
@@ -489,9 +489,9 @@
                             "もも"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -515,7 +515,7 @@
                             "translated": "This peach is a beauty."
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:02.795833"
+                    "createTime": "2021-06-10T12:39:41.290370"
                 },
                 {
                     "originalText": "マスカット",
@@ -531,9 +531,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 3
                     },
-                    "accentIndex": 3,
                     "wordTypes": [
                         "noun"
                     ],
@@ -545,7 +545,7 @@
                         "馬斯喀特（阿曼）"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:03.795833"
+                    "createTime": "2021-06-10T12:39:42.290370"
                 },
                 {
                     "originalText": "グレープフルーツ",
@@ -564,9 +564,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 6
                     },
-                    "accentIndex": 6,
                     "wordTypes": [
                         "noun"
                     ],
@@ -577,7 +577,7 @@
                         "柚子"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:04.795833"
+                    "createTime": "2021-06-10T12:39:43.290370"
                 },
                 {
                     "originalText": "ぶどう",
@@ -603,9 +603,9 @@
                             "どう"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -630,7 +630,7 @@
                             "translated": "Grapes are made into wine."
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:05.795833"
+                    "createTime": "2021-06-10T12:39:44.290370"
                 },
                 {
                     "originalText": "梨",
@@ -649,9 +649,9 @@
                             "なし"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -662,7 +662,7 @@
                         "nashi (Pyrus pyrifolia, esp. var. culta)，日本梨"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:06.795833"
+                    "createTime": "2021-06-10T12:39:45.290370"
                 },
                 {
                     "originalText": "ライチ",
@@ -676,9 +676,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -689,7 +689,7 @@
                         "荔枝（Nephelium litchi），荔枝"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:07.795833"
+                    "createTime": "2021-06-10T12:39:46.290370"
                 },
                 {
                     "originalText": "みかん",
@@ -703,9 +703,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -726,7 +726,7 @@
                             "translated": "These oranges are good to eat."
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:08.795833"
+                    "createTime": "2021-06-10T12:39:47.290370"
                 },
                 {
                     "originalText": "クランベリー",
@@ -743,9 +743,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 4
                     },
-                    "accentIndex": 4,
                     "wordTypes": [
                         "noun"
                     ],
@@ -756,7 +756,7 @@
                         "酸果蔓"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:09.795833"
+                    "createTime": "2021-06-10T12:39:48.290370"
                 },
                 {
                     "originalText": "スイカ",
@@ -770,9 +770,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -796,7 +796,7 @@
                             "translated": "I like to eat watermelon."
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:10.795833"
+                    "createTime": "2021-06-10T12:39:49.290370"
                 },
                 {
                     "originalText": "アボカド",
@@ -811,9 +811,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -824,7 +824,7 @@
                         "鱷梨（美洲鱷梨）"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:11.795833"
+                    "createTime": "2021-06-10T12:39:50.290370"
                 },
                 {
                     "originalText": "柿",
@@ -843,9 +843,9 @@
                             "かき"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -861,7 +861,7 @@
                             "translated": "The next-door neighbour's guest is a guest who eats lots of persimmons."
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:12.795833"
+                    "createTime": "2021-06-10T12:39:51.290370"
                 },
                 {
                     "originalText": "オレンジ",
@@ -876,9 +876,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 2
                     },
-                    "accentIndex": 2,
                     "wordTypes": [
                         "noun"
                     ],
@@ -903,7 +903,7 @@
                             "translated": "Does she like oranges?"
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:13.795833"
+                    "createTime": "2021-06-10T12:39:52.290370"
                 },
                 {
                     "originalText": "キウイ",
@@ -917,9 +917,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -936,7 +936,7 @@
                             "translated": "Even though Tom has never even tried eating one, he says he doesn't like kiwifruit."
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:14.795833"
+                    "createTime": "2021-06-10T12:39:53.290370"
                 },
                 {
                     "originalText": "パパイヤ",
@@ -951,9 +951,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -964,7 +964,7 @@
                         "木瓜（Carica papaya），木瓜"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:15.795833"
+                    "createTime": "2021-06-10T12:39:54.290370"
                 },
                 {
                     "originalText": "パッションフルーツ",
@@ -984,9 +984,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 6
                     },
-                    "accentIndex": 6,
                     "wordTypes": [
                         "noun"
                     ],
@@ -997,7 +997,7 @@
                         "西番蓮（Passiflora edulis）"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:16.795833"
+                    "createTime": "2021-06-10T12:39:55.290370"
                 },
                 {
                     "originalText": "パイナップル",
@@ -1014,9 +1014,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 3
                     },
-                    "accentIndex": 3,
                     "wordTypes": [
                         "noun"
                     ],
@@ -1036,14 +1036,14 @@
                             "translated": "I eat pineapple sherbert."
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:17.795833"
+                    "createTime": "2021-06-10T12:39:56.290370"
                 }
             ]
         },
         {
-            "id": "9004d137-c9a1-11eb-afd7-b46bfc8f52a9",
-            "createTime": "2021-06-10T12:08:50.808453",
-            "lastModifiedTime": "2021-06-10T12:08:50.808453",
+            "id": "d7d8b89d-c9a5-11eb-afd7-b46bfc8f52a9",
+            "createTime": "2021-06-10T12:39:29.302338",
+            "lastModifiedTime": "2021-06-10T12:39:29.302338",
             "title": "Japanese Foods",
             "tags": [
                 "Foods",
@@ -1090,9 +1090,9 @@
                             ""
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -1103,7 +1103,7 @@
                         "chawanmushi, savoury steamed egg custard with chicken, mushrooms, etc. (savory)"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:08:50.807457"
+                    "createTime": "2021-06-10T12:39:29.301313"
                 },
                 {
                     "originalText": "卵焼き",
@@ -1130,9 +1130,9 @@
                             ""
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -1144,7 +1144,7 @@
                         "fried egg"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:08:51.807457"
+                    "createTime": "2021-06-10T12:39:30.301313"
                 },
                 {
                     "originalText": "しゃぶしゃぶ",
@@ -1161,9 +1161,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -1174,7 +1174,7 @@
                         "shabu-shabu, thinly sliced meat boiled quickly with vegetables, and dipped in sauce"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:08:52.807457"
+                    "createTime": "2021-06-10T12:39:31.301313"
                 },
                 {
                     "originalText": "おでん",
@@ -1188,9 +1188,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 2
                     },
-                    "accentIndex": 2,
                     "wordTypes": [
                         "noun"
                     ],
@@ -1206,7 +1206,7 @@
                             "translated": "Even cold oden are pretty good."
                         }
                     ],
-                    "createTime": "2021-06-10T12:08:53.807457"
+                    "createTime": "2021-06-10T12:39:32.301313"
                 },
                 {
                     "originalText": "天ぷら",
@@ -1227,9 +1227,9 @@
                             ""
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -1253,7 +1253,7 @@
                             "translated": "I read about how to make tempura in a book."
                         }
                     ],
-                    "createTime": "2021-06-10T12:08:54.807457"
+                    "createTime": "2021-06-10T12:39:33.301313"
                 },
                 {
                     "originalText": "たこ焼き",
@@ -1275,9 +1275,9 @@
                             ""
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -1288,7 +1288,7 @@
                         "takoyaki, octopus dumplings"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:08:55.807457"
+                    "createTime": "2021-06-10T12:39:34.301313"
                 },
                 {
                     "originalText": "照焼き",
@@ -1316,9 +1316,9 @@
                             ""
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -1329,7 +1329,7 @@
                         "teriyaki (meat or fish marinated in sweet soy sauce and broiled)"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:08:56.807457"
+                    "createTime": "2021-06-10T12:39:35.301313"
                 },
                 {
                     "originalText": "すき焼き",
@@ -1351,9 +1351,9 @@
                             ""
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -1364,7 +1364,7 @@
                         "sukiyaki, thin slices of beef, cooked with various vegetables in a table-top cast-iron pan"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:08:57.807457"
+                    "createTime": "2021-06-10T12:39:36.301313"
                 },
                 {
                     "originalText": "お弁当",
@@ -1391,9 +1391,9 @@
                             "とう"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -1417,7 +1417,7 @@
                             "translated": "She brought his lunch today."
                         }
                     ],
-                    "createTime": "2021-06-10T12:08:58.807457"
+                    "createTime": "2021-06-10T12:39:37.301313"
                 },
                 {
                     "originalText": "天丼",
@@ -1443,9 +1443,9 @@
                             "どん"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -1457,7 +1457,7 @@
                         "(in comedy) repeating the same gag or silly line"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:08:59.807457"
+                    "createTime": "2021-06-10T12:39:38.301313"
                 },
                 {
                     "originalText": "刺し身",
@@ -1483,9 +1483,9 @@
                             "み"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 3
                     },
-                    "accentIndex": 3,
                     "wordTypes": [
                         "noun"
                     ],
@@ -1509,7 +1509,7 @@
                             "translated": "I can't stand raw fish."
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:00.807457"
+                    "createTime": "2021-06-10T12:39:39.301313"
                 },
                 {
                     "originalText": "うな重",
@@ -1535,9 +1535,9 @@
                             "じゅう"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 2
                     },
-                    "accentIndex": 2,
                     "wordTypes": [
                         "noun"
                     ],
@@ -1548,7 +1548,7 @@
                         "broiled eel served over rice in a lacquered box, broiled eel and rice served in two separate stacked boxes, with eel in top box and rice in bottom box"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:01.807457"
+                    "createTime": "2021-06-10T12:39:40.301313"
                 },
                 {
                     "originalText": "懐石料理",
@@ -1588,9 +1588,9 @@
                             "り"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 5
                     },
-                    "accentIndex": 5,
                     "wordTypes": [
                         "noun"
                     ],
@@ -1602,7 +1602,7 @@
                         "tea-ceremony dishes"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:02.807457"
+                    "createTime": "2021-06-10T12:39:41.301313"
                 },
                 {
                     "originalText": "お握り",
@@ -1617,9 +1617,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 2
                     },
-                    "accentIndex": 2,
                     "wordTypes": [
                         "noun"
                     ],
@@ -1630,7 +1630,7 @@
                         "onigiri, rice ball (often triangular, sometimes with a filling and wrapped in nori)"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:03.807457"
+                    "createTime": "2021-06-10T12:39:42.301313"
                 },
                 {
                     "originalText": "味噌汁",
@@ -1663,9 +1663,9 @@
                             "しる"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 3
                     },
-                    "accentIndex": 3,
                     "wordTypes": [
                         "noun"
                     ],
@@ -1689,7 +1689,7 @@
                             "translated": "What are your favorite ingredients to put into Miso soup?"
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:04.807457"
+                    "createTime": "2021-06-10T12:39:43.301313"
                 },
                 {
                     "originalText": "親子丼",
@@ -1722,9 +1722,9 @@
                             "どん"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -1736,7 +1736,7 @@
                         "threesome including a mother and her daughter"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:05.807457"
+                    "createTime": "2021-06-10T12:39:44.301313"
                 },
                 {
                     "originalText": "牛丼",
@@ -1762,9 +1762,9 @@
                             "どん"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -1775,7 +1775,7 @@
                         "gyudon, rice covered with sliced beef, usu. with vegetables"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:06.807457"
+                    "createTime": "2021-06-10T12:39:45.301313"
                 },
                 {
                     "originalText": "ラーメン",
@@ -1790,9 +1790,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -1812,7 +1812,7 @@
                             "translated": "I want to eat Chinese noodles."
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:07.807457"
+                    "createTime": "2021-06-10T12:39:46.301313"
                 },
                 {
                     "originalText": "定食",
@@ -1838,9 +1838,9 @@
                             "しょく"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -1860,7 +1860,7 @@
                             "translated": "How about getting the special of the day?"
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:08.807457"
+                    "createTime": "2021-06-10T12:39:47.301313"
                 },
                 {
                     "originalText": "蕎麦",
@@ -1886,9 +1886,9 @@
                             "ば"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -1906,7 +1906,7 @@
                             "translated": "I had a bowl of noodles at a street nearby."
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:09.807457"
+                    "createTime": "2021-06-10T12:39:48.301313"
                 },
                 {
                     "originalText": "うどん",
@@ -1920,9 +1920,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -1938,7 +1938,7 @@
                             "translated": "Would you like to eat some udon?"
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:10.807457"
+                    "createTime": "2021-06-10T12:39:49.301313"
                 },
                 {
                     "originalText": "餃子",
@@ -1953,9 +1953,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -1966,7 +1966,7 @@
                         "gyoza, pot sticker"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:11.807457"
+                    "createTime": "2021-06-10T12:39:50.301313"
                 },
                 {
                     "originalText": "お菓子",
@@ -1993,9 +1993,9 @@
                             "し"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 2
                     },
-                    "accentIndex": 2,
                     "wordTypes": [
                         "noun"
                     ],
@@ -2019,7 +2019,7 @@
                             "translated": "Help yourself to the cake, please."
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:12.807457"
+                    "createTime": "2021-06-10T12:39:51.301313"
                 },
                 {
                     "originalText": "カレーライス",
@@ -2036,9 +2036,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 4
                     },
-                    "accentIndex": 4,
                     "wordTypes": [
                         "noun"
                     ],
@@ -2049,7 +2049,7 @@
                         "rice and curry, curry rice"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:13.807457"
+                    "createTime": "2021-06-10T12:39:52.301313"
                 },
                 {
                     "originalText": "コロッケ",
@@ -2064,9 +2064,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -2077,7 +2077,7 @@
                         "croquette"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:14.807457"
+                    "createTime": "2021-06-10T12:39:53.301313"
                 },
                 {
                     "originalText": "カツどん",
@@ -2098,9 +2098,9 @@
                             "どん"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -2111,7 +2111,7 @@
                         "katsudon, pork cutlet served on top of a bowl of rice"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:15.807457"
+                    "createTime": "2021-06-10T12:39:54.301313"
                 },
                 {
                     "originalText": "オムライス",
@@ -2127,9 +2127,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 3
                     },
-                    "accentIndex": 3,
                     "wordTypes": [
                         "noun"
                     ],
@@ -2145,7 +2145,7 @@
                             "translated": "I ate a Japanese rice omelette."
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:16.807457"
+                    "createTime": "2021-06-10T12:39:55.301313"
                 },
                 {
                     "originalText": "唐揚げ",
@@ -2172,9 +2172,9 @@
                             ""
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -2185,7 +2185,7 @@
                         "deep-fried food (esp. chicken)"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:17.807457"
+                    "createTime": "2021-06-10T12:39:56.301313"
                 },
                 {
                     "originalText": "寿司",
@@ -2211,9 +2211,9 @@
                             "し"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 2
                     },
-                    "accentIndex": 2,
                     "wordTypes": [
                         "noun"
                     ],
@@ -2237,7 +2237,7 @@
                             "translated": "This sushi is seasoned with plenty of horse-radish."
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:18.807457"
+                    "createTime": "2021-06-10T12:39:57.301313"
                 },
                 {
                     "originalText": "お好み焼き",
@@ -2266,9 +2266,9 @@
                             ""
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -2292,14 +2292,14 @@
                             "translated": "In Japan, I often ate okonomiyaki."
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:19.807457"
+                    "createTime": "2021-06-10T12:39:58.301313"
                 }
             ]
         },
         {
-            "id": "9004d138-c9a1-11eb-a8fc-b46bfc8f52a9",
-            "createTime": "2021-06-10T12:08:50.808453",
-            "lastModifiedTime": "2021-06-10T12:08:50.808453",
+            "id": "d7d8b89e-c9a5-11eb-a8fc-b46bfc8f52a9",
+            "createTime": "2021-06-10T12:39:29.302338",
+            "lastModifiedTime": "2021-06-10T12:39:29.302338",
             "title": "Vegetables",
             "tags": [
                 "Foods",
@@ -2328,9 +2328,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 3
                     },
-                    "accentIndex": 3,
                     "wordTypes": [
                         "noun"
                     ],
@@ -2346,7 +2346,7 @@
                             "translated": "I made too many hamburger steaks."
                         }
                     ],
-                    "createTime": "2021-06-10T12:08:50.808453"
+                    "createTime": "2021-06-10T12:39:29.302338"
                 },
                 {
                     "originalText": "ささみ",
@@ -2360,9 +2360,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -2373,7 +2373,7 @@
                         "雞肉嫩，雞里脊肉"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:08:51.808453"
+                    "createTime": "2021-06-10T12:39:30.302338"
                 },
                 {
                     "originalText": "マトン",
@@ -2387,9 +2387,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -2400,7 +2400,7 @@
                         "羊肉"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:08:52.808453"
+                    "createTime": "2021-06-10T12:39:31.302338"
                 },
                 {
                     "originalText": "ハム",
@@ -2413,9 +2413,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -2426,7 +2426,7 @@
                         "炸蝦，炸蝦"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:08:53.808453"
+                    "createTime": "2021-06-10T12:39:32.302338"
                 },
                 {
                     "originalText": "七面鳥",
@@ -2459,9 +2459,9 @@
                             "ちょう"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -2472,7 +2472,7 @@
                         "火雞（Meleagris gallopavo）"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:08:54.808453"
+                    "createTime": "2021-06-10T12:39:33.302338"
                 },
                 {
                     "originalText": "ベーコン",
@@ -2487,9 +2487,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -2509,7 +2509,7 @@
                             "translated": "I thought I smelled bacon."
                         }
                     ],
-                    "createTime": "2021-06-10T12:08:55.808453"
+                    "createTime": "2021-06-10T12:39:34.302338"
                 },
                 {
                     "originalText": "ビーフジャーキー",
@@ -2528,9 +2528,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 4
                     },
-                    "accentIndex": 4,
                     "wordTypes": [
                         "noun"
                     ],
@@ -2541,7 +2541,7 @@
                         "牛肉乾"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:08:56.808453"
+                    "createTime": "2021-06-10T12:39:35.302338"
                 },
                 {
                     "originalText": "合い挽き肉",
@@ -2576,9 +2576,9 @@
                             "にく"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 5
                     },
-                    "accentIndex": 5,
                     "wordTypes": [
                         "noun"
                     ],
@@ -2589,7 +2589,7 @@
                         "炸蝦，炸蝦"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:08:57.808453"
+                    "createTime": "2021-06-10T12:39:36.302338"
                 },
                 {
                     "originalText": "ビーフシチュー",
@@ -2607,9 +2607,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 4
                     },
-                    "accentIndex": 4,
                     "wordTypes": [
                         "noun"
                     ],
@@ -2625,7 +2625,7 @@
                             "translated": "How do you like your beef stew?"
                         }
                     ],
-                    "createTime": "2021-06-10T12:08:58.808453"
+                    "createTime": "2021-06-10T12:39:37.302338"
                 },
                 {
                     "originalText": "サーロイン",
@@ -2641,9 +2641,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 3
                     },
-                    "accentIndex": 3,
                     "wordTypes": [
                         "noun"
                     ],
@@ -2654,7 +2654,7 @@
                         "牛腩"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:08:59.808453"
+                    "createTime": "2021-06-10T12:39:38.302338"
                 },
                 {
                     "originalText": "豚肉",
@@ -2680,9 +2680,9 @@
                             "にく"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -2702,7 +2702,7 @@
                             "translated": "How much is this pork a kilo?"
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:00.808453"
+                    "createTime": "2021-06-10T12:39:39.302338"
                 },
                 {
                     "originalText": "牛カルビ",
@@ -2724,9 +2724,9 @@
                             ""
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 2
                     },
-                    "accentIndex": 2,
                     "wordTypes": [
                         "noun"
                     ],
@@ -2737,7 +2737,7 @@
                         "炸蝦，炸蝦"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:01.808453"
+                    "createTime": "2021-06-10T12:39:40.302338"
                 },
                 {
                     "originalText": "ソーセージ",
@@ -2753,9 +2753,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 3
                     },
-                    "accentIndex": 3,
                     "wordTypes": [
                         "noun"
                     ],
@@ -2766,7 +2766,7 @@
                         "香腸"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:02.808453"
+                    "createTime": "2021-06-10T12:39:41.302338"
                 },
                 {
                     "originalText": "砂肝",
@@ -2792,9 +2792,9 @@
                             "ぎも"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 3
                     },
-                    "accentIndex": 3,
                     "wordTypes": [
                         "noun"
                     ],
@@ -2805,7 +2805,7 @@
                         "肫"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:03.808453"
+                    "createTime": "2021-06-10T12:39:42.302338"
                 },
                 {
                     "originalText": "鶏皮",
@@ -2831,9 +2831,9 @@
                             "かわ"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -2844,7 +2844,7 @@
                         "炸蝦，炸蝦"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:04.808453"
+                    "createTime": "2021-06-10T12:39:43.302338"
                 },
                 {
                     "originalText": "チキンナゲット",
@@ -2862,9 +2862,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 4
                     },
-                    "accentIndex": 4,
                     "wordTypes": [
                         "noun"
                     ],
@@ -2875,7 +2875,7 @@
                         "炸雞肉塊"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:05.808453"
+                    "createTime": "2021-06-10T12:39:44.302338"
                 },
                 {
                     "originalText": "豚足",
@@ -2901,9 +2901,9 @@
                             "そく"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -2914,7 +2914,7 @@
                         "豬腳"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:06.808453"
+                    "createTime": "2021-06-10T12:39:45.302338"
                 },
                 {
                     "originalText": "鹿肉",
@@ -2940,9 +2940,9 @@
                             "にく"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -2953,7 +2953,7 @@
                         "炸蝦，炸蝦"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:07.808453"
+                    "createTime": "2021-06-10T12:39:46.302338"
                 },
                 {
                     "originalText": "牛肉",
@@ -2979,9 +2979,9 @@
                             "にく"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -3005,7 +3005,7 @@
                             "translated": "This beef is tender."
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:08.808453"
+                    "createTime": "2021-06-10T12:39:47.302338"
                 },
                 {
                     "originalText": "牛タン",
@@ -3026,9 +3026,9 @@
                             ""
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -3039,7 +3039,7 @@
                         "牛舌（仙台特產）、牛舌"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:09.808453"
+                    "createTime": "2021-06-10T12:39:48.302338"
                 },
                 {
                     "originalText": "とり肉",
@@ -3065,9 +3065,9 @@
                             "にく"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -3092,7 +3092,7 @@
                             "translated": "I like chicken."
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:10.808453"
+                    "createTime": "2021-06-10T12:39:49.302338"
                 },
                 {
                     "originalText": "豚のひき肉",
@@ -3121,9 +3121,9 @@
                             "にく"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 6
                     },
-                    "accentIndex": 6,
                     "wordTypes": [
                         "noun"
                     ],
@@ -3134,7 +3134,7 @@
                         "炸蝦，炸蝦"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:11.808453"
+                    "createTime": "2021-06-10T12:39:50.302338"
                 },
                 {
                     "originalText": "鴨肉",
@@ -3160,9 +3160,9 @@
                             "にく"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -3173,7 +3173,7 @@
                         "炸蝦，炸蝦"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:12.808453"
+                    "createTime": "2021-06-10T12:39:51.302338"
                 },
                 {
                     "originalText": "ステーキ",
@@ -3188,9 +3188,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 2
                     },
-                    "accentIndex": 2,
                     "wordTypes": [
                         "noun"
                     ],
@@ -3214,7 +3214,7 @@
                             "translated": "Steak lies heavy on the stomach."
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:13.808453"
+                    "createTime": "2021-06-10T12:39:52.302338"
                 },
                 {
                     "originalText": "手羽先",
@@ -3247,9 +3247,9 @@
                             "さき"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -3260,7 +3260,7 @@
                         "(尖部)雞翅，雞翅第二段"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:14.808453"
+                    "createTime": "2021-06-10T12:39:53.302338"
                 },
                 {
                     "originalText": "エビフライ",
@@ -3276,9 +3276,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 3
                     },
-                    "accentIndex": 3,
                     "wordTypes": [
                         "noun"
                     ],
@@ -3289,7 +3289,7 @@
                         "炸蝦，炸蝦"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:15.808453"
+                    "createTime": "2021-06-10T12:39:54.302338"
                 },
                 {
                     "originalText": "豚バラ",
@@ -3310,9 +3310,9 @@
                             ""
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 3
                     },
-                    "accentIndex": 3,
                     "wordTypes": [
                         "noun"
                     ],
@@ -3323,7 +3323,7 @@
                         "去骨排骨，去骨排骨"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:16.808453"
+                    "createTime": "2021-06-10T12:39:55.302338"
                 },
                 {
                     "originalText": "豚レバー",
@@ -3345,9 +3345,9 @@
                             ""
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 3
                     },
-                    "accentIndex": 3,
                     "wordTypes": [
                         "noun"
                     ],
@@ -3358,14 +3358,14 @@
                         "炸蝦，炸蝦"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:17.808453"
+                    "createTime": "2021-06-10T12:39:56.302338"
                 }
             ]
         },
         {
-            "id": "9004f82b-c9a1-11eb-b6e7-b46bfc8f52a9",
-            "createTime": "2021-06-10T12:08:50.809450",
-            "lastModifiedTime": "2021-06-10T12:08:50.809450",
+            "id": "d7d8dfc8-c9a5-11eb-b6e7-b46bfc8f52a9",
+            "createTime": "2021-06-10T12:39:29.303341",
+            "lastModifiedTime": "2021-06-10T12:39:29.303341",
             "title": "Meats",
             "tags": [
                 "Foods",
@@ -3404,9 +3404,9 @@
                             "さい"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 3
                     },
-                    "accentIndex": 3,
                     "wordTypes": [
                         "noun"
                     ],
@@ -3417,7 +3417,7 @@
                         "大白菜（Brassica rapa subsp. pekinensis），大白菜"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:08:50.809450"
+                    "createTime": "2021-06-10T12:39:29.303341"
                 },
                 {
                     "originalText": "トマト",
@@ -3431,9 +3431,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -3457,7 +3457,7 @@
                             "translated": "Tomatoes are sold by the pound."
                         }
                     ],
-                    "createTime": "2021-06-10T12:08:51.809450"
+                    "createTime": "2021-06-10T12:39:30.303341"
                 },
                 {
                     "originalText": "大根",
@@ -3483,9 +3483,9 @@
                             "こん"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -3497,7 +3497,7 @@
                         "火腿演員"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:08:52.809450"
+                    "createTime": "2021-06-10T12:39:31.303341"
                 },
                 {
                     "originalText": "キノコ",
@@ -3511,9 +3511,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -3524,7 +3524,7 @@
                         "雲耳菇（Auricularia auricula-judae），木耳菇"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:08:53.809450"
+                    "createTime": "2021-06-10T12:39:32.303341"
                 },
                 {
                     "originalText": "玉ねぎ",
@@ -3539,9 +3539,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 3
                     },
-                    "accentIndex": 3,
                     "wordTypes": [
                         "noun"
                     ],
@@ -3565,7 +3565,7 @@
                             "translated": "I don't like the taste of onions."
                         }
                     ],
-                    "createTime": "2021-06-10T12:08:54.809450"
+                    "createTime": "2021-06-10T12:39:33.303341"
                 },
                 {
                     "originalText": "きくらげ",
@@ -3580,9 +3580,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 2
                     },
-                    "accentIndex": 2,
                     "wordTypes": [
                         "noun"
                     ],
@@ -3593,7 +3593,7 @@
                         "雲耳菇（Auricularia auricula-judae），木耳菇"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:08:55.809450"
+                    "createTime": "2021-06-10T12:39:34.303341"
                 },
                 {
                     "originalText": "エリンギ",
@@ -3608,9 +3608,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -3621,7 +3621,7 @@
                         "杏鮑菇 (Pleurotus eryngii), 杏鮑菇"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:08:56.809450"
+                    "createTime": "2021-06-10T12:39:35.303341"
                 },
                 {
                     "originalText": "アスパラガス",
@@ -3638,9 +3638,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 4
                     },
-                    "accentIndex": 4,
                     "wordTypes": [
                         "noun"
                     ],
@@ -3656,7 +3656,7 @@
                             "translated": "You can still get asparagus in the winter."
                         }
                     ],
-                    "createTime": "2021-06-10T12:08:57.809450"
+                    "createTime": "2021-06-10T12:39:36.303341"
                 },
                 {
                     "originalText": "生姜",
@@ -3682,9 +3682,9 @@
                             "が"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -3695,7 +3695,7 @@
                         "姜 (Zingiber officinale)"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:08:58.809450"
+                    "createTime": "2021-06-10T12:39:37.303341"
                 },
                 {
                     "originalText": "ニンニク",
@@ -3710,9 +3710,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -3723,7 +3723,7 @@
                         "雲耳菇（Auricularia auricula-judae），木耳菇"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:08:59.809450"
+                    "createTime": "2021-06-10T12:39:38.303341"
                 },
                 {
                     "originalText": "カリフラワー",
@@ -3740,9 +3740,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 4
                     },
-                    "accentIndex": 4,
                     "wordTypes": [
                         "noun"
                     ],
@@ -3753,7 +3753,7 @@
                         "菜花"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:00.809450"
+                    "createTime": "2021-06-10T12:39:39.303341"
                 },
                 {
                     "originalText": "しめじ",
@@ -3767,9 +3767,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -3781,7 +3781,7 @@
                         "euagaric fungus（在雜貨店，usu。指栽培的田間蘑菇等）"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:01.809450"
+                    "createTime": "2021-06-10T12:39:40.303341"
                 },
                 {
                     "originalText": "インゲン豆",
@@ -3798,9 +3798,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 3
                     },
-                    "accentIndex": 3,
                     "wordTypes": [
                         "noun"
                     ],
@@ -3811,7 +3811,7 @@
                         "菜豆 (Phaseolus vulgaris), 芸豆"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:02.809450"
+                    "createTime": "2021-06-10T12:39:41.303341"
                 },
                 {
                     "originalText": "キャベツ",
@@ -3826,9 +3826,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -3852,7 +3852,7 @@
                             "translated": "He likes vegetables, especially cabbage."
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:03.809450"
+                    "createTime": "2021-06-10T12:39:42.303341"
                 },
                 {
                     "originalText": "セロリ",
@@ -3866,9 +3866,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -3879,7 +3879,7 @@
                         "芹菜"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:04.809450"
+                    "createTime": "2021-06-10T12:39:43.303341"
                 },
                 {
                     "originalText": "枝豆",
@@ -3905,9 +3905,9 @@
                             "まめ"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -3918,7 +3918,7 @@
                         "毛豆（綠豆）"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:05.809450"
+                    "createTime": "2021-06-10T12:39:44.303341"
                 },
                 {
                     "originalText": "レタス",
@@ -3932,9 +3932,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -3958,7 +3958,7 @@
                             "translated": "Snails have been eating our lettuces."
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:06.809450"
+                    "createTime": "2021-06-10T12:39:45.303341"
                 },
                 {
                     "originalText": "キュリー",
@@ -3973,9 +3973,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -3986,7 +3986,7 @@
                         "居里（放射性單位）"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:07.809450"
+                    "createTime": "2021-06-10T12:39:46.303341"
                 },
                 {
                     "originalText": "エノキタケ",
@@ -4002,9 +4002,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -4015,7 +4015,7 @@
                         "金針菇（金針菇），冬菇"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:08.809450"
+                    "createTime": "2021-06-10T12:39:47.303341"
                 },
                 {
                     "originalText": "松茸",
@@ -4041,9 +4041,9 @@
                             "たけ"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -4059,7 +4059,7 @@
                             "translated": "Matsutake mushrooms are in season now so they are cheap."
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:09.809450"
+                    "createTime": "2021-06-10T12:39:48.303341"
                 },
                 {
                     "originalText": "チンゲン菜",
@@ -4076,9 +4076,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 3
                     },
-                    "accentIndex": 3,
                     "wordTypes": [
                         "noun"
                     ],
@@ -4089,7 +4089,7 @@
                         "白菜（Brassica rapa subsp. chinensis，尤其是具有綠色莖的栽培品種）"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:10.809450"
+                    "createTime": "2021-06-10T12:39:49.303341"
                 },
                 {
                     "originalText": "大豆",
@@ -4115,9 +4115,9 @@
                             "ず"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -4128,7 +4128,7 @@
                         "大豆 (Glycine max)、大豆"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:11.809450"
+                    "createTime": "2021-06-10T12:39:50.303341"
                 },
                 {
                     "originalText": "カボチャ",
@@ -4143,9 +4143,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -4161,7 +4161,7 @@
                             "translated": "\"What're you making?\" \"It's pumpkin soup.\""
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:12.809450"
+                    "createTime": "2021-06-10T12:39:51.303341"
                 },
                 {
                     "originalText": "ほうれん草",
@@ -4184,9 +4184,9 @@
                             "そう"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 3
                     },
-                    "accentIndex": 3,
                     "wordTypes": [
                         "noun"
                     ],
@@ -4210,7 +4210,7 @@
                             "translated": "Children often hate spinach."
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:13.809450"
+                    "createTime": "2021-06-10T12:39:52.303341"
                 },
                 {
                     "originalText": "椎茸",
@@ -4225,9 +4225,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -4247,7 +4247,7 @@
                             "translated": "We keep shiitake mushrooms dry."
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:14.809450"
+                    "createTime": "2021-06-10T12:39:53.303341"
                 },
                 {
                     "originalText": "ナス",
@@ -4273,9 +4273,9 @@
                             "す"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -4287,7 +4287,7 @@
                         "那須"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:15.809450"
+                    "createTime": "2021-06-10T12:39:54.303341"
                 },
                 {
                     "originalText": "さやえんどう",
@@ -4304,9 +4304,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 3
                     },
-                    "accentIndex": 3,
                     "wordTypes": [
                         "noun"
                     ],
@@ -4317,7 +4317,7 @@
                         "豌豆，豌豆"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:16.809450"
+                    "createTime": "2021-06-10T12:39:55.303341"
                 },
                 {
                     "originalText": "人参",
@@ -4332,9 +4332,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -4359,7 +4359,7 @@
                             "translated": "I included onions, carrots, and potatoes."
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:17.809450"
+                    "createTime": "2021-06-10T12:39:56.303341"
                 },
                 {
                     "originalText": "ピーマン",
@@ -4374,9 +4374,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
-                    "accentIndex": 1,
                     "wordTypes": [
                         "noun"
                     ],
@@ -4400,7 +4400,7 @@
                             "translated": "I don't eat green peppers at all."
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:18.809450"
+                    "createTime": "2021-06-10T12:39:57.303341"
                 },
                 {
                     "originalText": "サツマイモ",
@@ -4416,9 +4416,9 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
-                    "accentIndex": 0,
                     "wordTypes": [
                         "noun"
                     ],
@@ -4429,7 +4429,7 @@
                         "紅薯（Ipomoea batatas）"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:19.809450"
+                    "createTime": "2021-06-10T12:39:58.303341"
                 }
             ]
         }

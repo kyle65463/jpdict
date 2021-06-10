@@ -4,9 +4,9 @@
     "isLeaf": true,
     "repos": [
         {
-            "id": "8bc64ad1-c9a1-11eb-985e-b46bfc8f52a9",
-            "createTime": "2021-06-10T12:08:43.687803",
-            "lastModifiedTime": "2021-06-10T12:08:43.687803",
+            "id": "d2811c41-c9a5-11eb-985e-b46bfc8f52a9",
+            "createTime": "2021-06-10T12:39:20.339564",
+            "lastModifiedTime": "2021-06-10T12:39:20.339564",
             "title": "レモン",
             "tags": [
                 "J-pop",
@@ -34,7 +34,8 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
                     "accentIndex": 1,
                     "wordTypes": [
@@ -60,7 +61,7 @@
                             "translated": "檸檬有它自己的味道。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:08:43.687803"
+                    "createTime": "2021-06-10T12:39:20.338567"
                 },
                 {
                     "originalText": "未だに",
@@ -81,7 +82,8 @@
                             ""
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
                     "accentIndex": 0,
                     "wordTypes": [
@@ -107,7 +109,7 @@
                             "translated": "他的死因仍然是個謎。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:08:44.687803"
+                    "createTime": "2021-06-10T12:39:21.338567"
                 },
                 {
                     "originalText": "古びる",
@@ -128,7 +130,8 @@
                             ""
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 3
                     },
                     "accentIndex": 3,
                     "wordTypes": [
@@ -151,7 +154,7 @@
                             "translated": "他穿著舊鞋。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:08:45.687803"
+                    "createTime": "2021-06-10T12:39:22.338567"
                 },
                 {
                     "originalText": "思い出",
@@ -178,7 +181,8 @@
                             "で"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
                     "accentIndex": 0,
                     "wordTypes": [
@@ -204,7 +208,7 @@
                             "translated": "她沉浸在懷舊的回憶中。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:08:46.687803"
+                    "createTime": "2021-06-10T12:39:23.338567"
                 },
                 {
                     "originalText": "埃",
@@ -223,7 +227,8 @@
                             "ほこり"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
                     "accentIndex": 0,
                     "wordTypes": [
@@ -250,7 +255,7 @@
                             "translated": "桌子上堆積了灰塵。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:08:47.687803"
+                    "createTime": "2021-06-10T12:39:24.338567"
                 },
                 {
                     "originalText": "払う",
@@ -270,7 +275,8 @@
                             ""
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 2
                     },
                     "accentIndex": 2,
                     "wordTypes": [
@@ -299,7 +305,7 @@
                             "translated": "請讓我付錢。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:08:48.687803"
+                    "createTime": "2021-06-10T12:39:25.338567"
                 },
                 {
                     "originalText": "戻る",
@@ -319,7 +325,8 @@
                             ""
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 2
                     },
                     "accentIndex": 2,
                     "wordTypes": [
@@ -347,7 +354,7 @@
                             "translated": "她已經回來了。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:08:49.687803"
+                    "createTime": "2021-06-10T12:39:26.338567"
                 },
                 {
                     "originalText": "幸せ",
@@ -367,7 +374,8 @@
                             ""
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
                     "accentIndex": 0,
                     "wordTypes": [
@@ -394,7 +402,7 @@
                             "translated": "她一定很開心。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:08:50.687803"
+                    "createTime": "2021-06-10T12:39:27.338567"
                 },
                 {
                     "originalText": "最後",
@@ -420,7 +428,8 @@
                             "ご"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
                     "accentIndex": 1,
                     "wordTypes": [
@@ -447,7 +456,7 @@
                             "translated": "她是最後一個衝過終點線的人。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:08:51.687803"
+                    "createTime": "2021-06-10T12:39:28.338567"
                 },
                 {
                     "originalText": "言える",
@@ -468,7 +477,8 @@
                             ""
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
                     "accentIndex": 0,
                     "wordTypes": [
@@ -496,7 +506,7 @@
                             "translated": "他是個學者嗎？"
                         }
                     ],
-                    "createTime": "2021-06-10T12:08:52.687803"
+                    "createTime": "2021-06-10T12:39:29.338567"
                 },
                 {
                     "originalText": "隠す",
@@ -516,7 +526,8 @@
                             ""
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 2
                     },
                     "accentIndex": 2,
                     "wordTypes": [
@@ -543,7 +554,7 @@
                             "translated": "她隱瞞了對他的感情變化。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:08:53.687803"
+                    "createTime": "2021-06-10T12:39:30.338567"
                 },
                 {
                     "originalText": "昏い",
@@ -563,7 +574,8 @@
                             ""
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
                     "accentIndex": 0,
                     "wordTypes": [
@@ -590,7 +602,7 @@
                             "translated": "天空頓時變得漆黑一片。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:08:54.687803"
+                    "createTime": "2021-06-10T12:39:31.338567"
                 },
                 {
                     "originalText": "過去",
@@ -616,7 +628,8 @@
                             "こ"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
                     "accentIndex": 1,
                     "wordTypes": [
@@ -643,7 +656,7 @@
                             "translated": "他冥想了他過去的痛苦生活。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:08:55.687803"
+                    "createTime": "2021-06-10T12:39:32.338567"
                 },
                 {
                     "originalText": "永遠",
@@ -669,7 +682,8 @@
                             "えん"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
                     "accentIndex": 0,
                     "wordTypes": [
@@ -695,7 +709,7 @@
                             "translated": "肯永遠離開日本了嗎？"
                         }
                     ],
-                    "createTime": "2021-06-10T12:08:56.687803"
+                    "createTime": "2021-06-10T12:39:33.338567"
                 },
                 {
                     "originalText": "きっと",
@@ -709,7 +723,8 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
                     "accentIndex": 0,
                     "wordTypes": [
@@ -736,7 +751,7 @@
                             "translated": "她一定會成功的。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:08:57.687803"
+                    "createTime": "2021-06-10T12:39:34.338567"
                 },
                 {
                     "originalText": "これ以上",
@@ -764,7 +779,8 @@
                             "じょう"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 3
                     },
                     "accentIndex": 3,
                     "wordTypes": [
@@ -777,7 +793,7 @@
                         "再進一步"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:08:58.687803"
+                    "createTime": "2021-06-10T12:39:35.338567"
                 },
                 {
                     "originalText": "傷つく",
@@ -798,7 +814,8 @@
                             ""
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 3
                     },
                     "accentIndex": 3,
                     "wordTypes": [
@@ -826,7 +843,7 @@
                             "translated": "受傷的鳥倒在地上。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:08:59.687803"
+                    "createTime": "2021-06-10T12:39:36.338567"
                 },
                 {
                     "originalText": "悲しみ",
@@ -847,7 +864,8 @@
                             ""
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
                     "accentIndex": 0,
                     "wordTypes": [
@@ -874,7 +892,7 @@
                             "translated": "悲傷充滿了他的胸膛。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:00.687803"
+                    "createTime": "2021-06-10T12:39:37.338567"
                 },
                 {
                     "originalText": "苦しみ",
@@ -895,7 +913,8 @@
                             ""
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
                     "accentIndex": 0,
                     "wordTypes": [
@@ -921,7 +940,7 @@
                             "translated": "沒有痛苦就沒有收穫。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:01.687803"
+                    "createTime": "2021-06-10T12:39:38.338567"
                 },
                 {
                     "originalText": "胸",
@@ -940,7 +959,8 @@
                             "むね"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 2
                     },
                     "accentIndex": 2,
                     "wordTypes": [
@@ -967,7 +987,7 @@
                             "translated": "她的心裡充滿了喜悅。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:02.687803"
+                    "createTime": "2021-06-10T12:39:39.338567"
                 },
                 {
                     "originalText": "残り",
@@ -987,7 +1007,8 @@
                             ""
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 3
                     },
                     "accentIndex": 3,
                     "wordTypes": [
@@ -1013,7 +1034,7 @@
                             "translated": "剩下的留給自己。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:03.687803"
+                    "createTime": "2021-06-10T12:39:40.338567"
                 },
                 {
                     "originalText": "離れる",
@@ -1034,7 +1055,8 @@
                             ""
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 3
                     },
                     "accentIndex": 3,
                     "wordTypes": [
@@ -1058,7 +1080,7 @@
                             "translated": "她去年離開了日本。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:04.687803"
+                    "createTime": "2021-06-10T12:39:41.338567"
                 },
                 {
                     "originalText": "匂い",
@@ -1078,7 +1100,8 @@
                             ""
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 2
                     },
                     "accentIndex": 2,
                     "wordTypes": [
@@ -1105,7 +1128,7 @@
                             "translated": "“納豆”聞起來很糟糕，但味道卻很棒。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:05.687803"
+                    "createTime": "2021-06-10T12:39:42.338567"
                 },
                 {
                     "originalText": "降り止む",
@@ -1133,7 +1156,8 @@
                             ""
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 3
                     },
                     "accentIndex": 3,
                     "wordTypes": [
@@ -1156,7 +1180,7 @@
                             "translated": "一個小時前，雪停了。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:06.687803"
+                    "createTime": "2021-06-10T12:39:43.338567"
                 },
                 {
                     "originalText": "暗闇",
@@ -1182,7 +1206,8 @@
                             "やみ"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
                     "accentIndex": 0,
                     "wordTypes": [
@@ -1208,7 +1233,7 @@
                             "translated": "燈滅了，我們被留在黑暗中。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:07.687803"
+                    "createTime": "2021-06-10T12:39:44.338567"
                 },
                 {
                     "originalText": "なぞる",
@@ -1222,7 +1247,8 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 2
                     },
                     "accentIndex": 2,
                     "wordTypes": [
@@ -1237,7 +1263,7 @@
                         "模仿，複製"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:08.687803"
+                    "createTime": "2021-06-10T12:39:45.338567"
                 },
                 {
                     "originalText": "輪郭",
@@ -1263,7 +1289,8 @@
                             "かく"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
                     "accentIndex": 0,
                     "wordTypes": [
@@ -1282,7 +1309,7 @@
                             "translated": "他勾勒出機器的輪廓。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:09.687803"
+                    "createTime": "2021-06-10T12:39:46.338567"
                 },
                 {
                     "originalText": "鮮明",
@@ -1308,7 +1335,8 @@
                             "めい"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
                     "accentIndex": 0,
                     "wordTypes": [
@@ -1326,7 +1354,7 @@
                             "translated": "沒有什麼比圖片更生動。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:10.687803"
+                    "createTime": "2021-06-10T12:39:47.338567"
                 },
                 {
                     "originalText": "受け止める",
@@ -1355,7 +1383,8 @@
                             ""
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 4
                     },
                     "accentIndex": 4,
                     "wordTypes": [
@@ -1380,7 +1409,7 @@
                             "translated": "他很難接受失敗。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:11.687803"
+                    "createTime": "2021-06-10T12:39:48.338567"
                 },
                 {
                     "originalText": "溢れる",
@@ -1401,7 +1430,8 @@
                             ""
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 3
                     },
                     "accentIndex": 3,
                     "wordTypes": [
@@ -1420,7 +1450,7 @@
                             "translated": "淚水充滿了她的眼睛。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:12.687803"
+                    "createTime": "2021-06-10T12:39:49.338567"
                 },
                 {
                     "originalText": "止まない",
@@ -1435,7 +1465,8 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 3
                     },
                     "accentIndex": 3,
                     "wordTypes": [
@@ -1449,7 +1480,7 @@
                         "非常非常（尤其是希望和願望）"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:13.687803"
+                    "createTime": "2021-06-10T12:39:50.338567"
                 },
                 {
                     "originalText": "涙",
@@ -1468,7 +1499,8 @@
                             "なみだ"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
                     "accentIndex": 1,
                     "wordTypes": [
@@ -1495,7 +1527,7 @@
                             "translated": "她擦乾眼淚。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:14.687803"
+                    "createTime": "2021-06-10T12:39:51.338567"
                 },
                 {
                     "originalText": "横顔",
@@ -1521,7 +1553,8 @@
                             "がお"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
                     "accentIndex": 0,
                     "wordTypes": [
@@ -1540,7 +1573,7 @@
                             "translated": "肖像畫裡顯示了一個美麗的女人的側臉。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:15.687803"
+                    "createTime": "2021-06-10T12:39:52.338567"
                 },
                 {
                     "originalText": "願う",
@@ -1560,7 +1593,8 @@
                             ""
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 2
                     },
                     "accentIndex": 2,
                     "wordTypes": [
@@ -1588,7 +1622,7 @@
                             "translated": "他不為名氣著急。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:16.687803"
+                    "createTime": "2021-06-10T12:39:53.338567"
                 },
                 {
                     "originalText": "光",
@@ -1607,7 +1641,8 @@
                             "ひかり"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 3
                     },
                     "accentIndex": 3,
                     "wordTypes": [
@@ -1635,7 +1670,7 @@
                             "translated": "我喜歡在白天閱讀。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:17.687803"
+                    "createTime": "2021-06-10T12:39:54.338567"
                 },
                 {
                     "originalText": "恋",
@@ -1654,7 +1689,8 @@
                             "こい"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
                     "accentIndex": 1,
                     "wordTypes": [
@@ -1680,7 +1716,7 @@
                             "translated": "愛情和戰爭都是公平的。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:18.687803"
+                    "createTime": "2021-06-10T12:39:55.338567"
                 },
                 {
                     "originalText": "側",
@@ -1699,7 +1735,8 @@
                             "がわ"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
                     "accentIndex": 0,
                     "wordTypes": [
@@ -1726,7 +1763,7 @@
                             "translated": "我昨晚10點左右路過你家。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:19.687803"
+                    "createTime": "2021-06-10T12:39:56.338567"
                 },
                 {
                     "originalText": "まるで",
@@ -1740,7 +1777,8 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
                     "accentIndex": 0,
                     "wordTypes": [
@@ -1767,7 +1805,7 @@
                             "translated": "她一點也不像她媽媽。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:20.687803"
+                    "createTime": "2021-06-10T12:39:57.338567"
                 },
                 {
                     "originalText": "嘘",
@@ -1786,7 +1824,8 @@
                             "うそ"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
                     "accentIndex": 1,
                     "wordTypes": [
@@ -1813,7 +1852,7 @@
                             "translated": "她去世的消息是假的。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:21.687803"
+                    "createTime": "2021-06-10T12:39:58.338567"
                 },
                 {
                     "originalText": "確か",
@@ -1833,7 +1872,8 @@
                             ""
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
                     "accentIndex": 1,
                     "wordTypes": [
@@ -1861,7 +1901,7 @@
                             "translated": "他的信息是肯定的。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:22.687803"
+                    "createTime": "2021-06-10T12:39:59.338567"
                 },
                 {
                     "originalText": "切り分ける",
@@ -1890,7 +1930,8 @@
                             ""
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 4
                     },
                     "accentIndex": 4,
                     "wordTypes": [
@@ -1909,7 +1950,7 @@
                             "translated": "主人為客人切火雞。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:23.687803"
+                    "createTime": "2021-06-10T12:40:00.338567"
                 },
                 {
                     "originalText": "果実",
@@ -1935,7 +1976,8 @@
                             "じつ"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
                     "accentIndex": 1,
                     "wordTypes": [
@@ -1962,7 +2004,7 @@
                             "translated": "那是你努力的成果。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:24.687803"
+                    "createTime": "2021-06-10T12:40:01.338567"
                 },
                 {
                     "originalText": "片方",
@@ -1988,7 +2030,8 @@
                             "ほう"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 2
                     },
                     "accentIndex": 2,
                     "wordTypes": [
@@ -2015,7 +2058,7 @@
                             "translated": "我們每隻手上有五個手指。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:25.687803"
+                    "createTime": "2021-06-10T12:40:02.338567"
                 },
                 {
                     "originalText": "息",
@@ -2034,7 +2077,8 @@
                             "いき"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
                     "accentIndex": 1,
                     "wordTypes": [
@@ -2061,7 +2105,7 @@
                             "translated": "他躺著呼吸非常微弱。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:26.687803"
+                    "createTime": "2021-06-10T12:40:03.338567"
                 },
                 {
                     "originalText": "あんなに",
@@ -2076,7 +2120,8 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
                     "accentIndex": 0,
                     "wordTypes": [
@@ -2102,7 +2147,7 @@
                             "translated": "給他們添了這麼多麻煩，我感到非常抱歉。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:27.687803"
+                    "createTime": "2021-06-10T12:40:04.338567"
                 }
             ]
         }

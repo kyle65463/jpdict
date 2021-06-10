@@ -4,9 +4,9 @@
     "isLeaf": true,
     "repos": [
         {
-            "id": "8e7a6b22-c9a1-11eb-b665-b46bfc8f52a9",
-            "createTime": "2021-06-10T12:08:48.213266",
-            "lastModifiedTime": "2021-06-10T12:08:48.213266",
+            "id": "d68c95c5-c9a5-11eb-b665-b46bfc8f52a9",
+            "createTime": "2021-06-10T12:39:27.115673",
+            "lastModifiedTime": "2021-06-10T12:39:27.115673",
             "title": "水果",
             "tags": [
                 "食物",
@@ -38,7 +38,8 @@
                             "なし"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
                     "accentIndex": 1,
                     "wordTypes": [
@@ -56,7 +57,7 @@
                             "translated": "花園裡的梨樹結了很多果子。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:08:48.213266"
+                    "createTime": "2021-06-10T12:39:27.115673"
                 },
                 {
                     "originalText": "りんご",
@@ -70,7 +71,8 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
                     "accentIndex": 0,
                     "wordTypes": [
@@ -97,7 +99,7 @@
                             "translated": "她挑了三個漂亮的蘋果。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:08:49.213266"
+                    "createTime": "2021-06-10T12:39:28.115673"
                 },
                 {
                     "originalText": "グレープフルーツ",
@@ -116,7 +118,8 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 6
                     },
                     "accentIndex": 6,
                     "wordTypes": [
@@ -129,7 +132,7 @@
                         "柚子"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:08:50.213266"
+                    "createTime": "2021-06-10T12:39:29.115673"
                 },
                 {
                     "originalText": "メロン",
@@ -143,7 +146,8 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
                     "accentIndex": 1,
                     "wordTypes": [
@@ -169,7 +173,7 @@
                             "translated": "一半的瓜被吃掉了。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:08:51.213266"
+                    "createTime": "2021-06-10T12:39:30.115673"
                 },
                 {
                     "originalText": "レンブ",
@@ -183,7 +187,8 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
                     "accentIndex": 1,
                     "wordTypes": [
@@ -194,7 +199,7 @@
                     ],
                     "jishoDefinitions": [],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:08:52.213266"
+                    "createTime": "2021-06-10T12:39:31.115673"
                 },
                 {
                     "originalText": "ぶどう",
@@ -220,7 +225,8 @@
                             "どう"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
                     "accentIndex": 0,
                     "wordTypes": [
@@ -247,7 +253,7 @@
                             "translated": "葡萄被製成酒。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:08:53.213266"
+                    "createTime": "2021-06-10T12:39:32.115673"
                 },
                 {
                     "originalText": "マスカット",
@@ -263,7 +269,8 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 3
                     },
                     "accentIndex": 3,
                     "wordTypes": [
@@ -277,7 +284,7 @@
                         "馬斯喀特（阿曼）"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:08:54.213266"
+                    "createTime": "2021-06-10T12:39:33.115673"
                 },
                 {
                     "originalText": "パイナップル",
@@ -294,7 +301,8 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 3
                     },
                     "accentIndex": 3,
                     "wordTypes": [
@@ -312,7 +320,7 @@
                             "translated": "請給我最大的鳳梨。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:08:55.213266"
+                    "createTime": "2021-06-10T12:39:34.115673"
                 },
                 {
                     "originalText": "ココナッツ",
@@ -328,7 +336,8 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
                     "accentIndex": 1,
                     "wordTypes": [
@@ -350,7 +359,7 @@
                             "translated": "真嗣吃了九個椰子。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:08:56.213266"
+                    "createTime": "2021-06-10T12:39:35.115673"
                 },
                 {
                     "originalText": "マンゴー",
@@ -365,7 +374,8 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
                     "accentIndex": 1,
                     "wordTypes": [
@@ -391,7 +401,7 @@
                             "translated": "我想吃芒果。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:08:57.213266"
+                    "createTime": "2021-06-10T12:39:36.115673"
                 },
                 {
                     "originalText": "スターフルーツ",
@@ -409,7 +419,8 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 5
                     },
                     "accentIndex": 5,
                     "wordTypes": [
@@ -420,7 +431,7 @@
                     ],
                     "jishoDefinitions": [],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:08:58.213266"
+                    "createTime": "2021-06-10T12:39:37.115673"
                 },
                 {
                     "originalText": "みかん",
@@ -434,7 +445,8 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
                     "accentIndex": 1,
                     "wordTypes": [
@@ -453,7 +465,7 @@
                             "translated": "這些橙子很好吃。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:08:59.213266"
+                    "createTime": "2021-06-10T12:39:38.115673"
                 },
                 {
                     "originalText": "レモン",
@@ -467,7 +479,8 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
                     "accentIndex": 1,
                     "wordTypes": [
@@ -493,7 +506,7 @@
                             "translated": "檸檬是一種酸的水果。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:00.213266"
+                    "createTime": "2021-06-10T12:39:39.115673"
                 },
                 {
                     "originalText": "ブルーベリー",
@@ -510,7 +523,8 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 4
                     },
                     "accentIndex": 4,
                     "wordTypes": [
@@ -528,7 +542,7 @@
                             "translated": "在我摘了一些藍莓之後，我做了一個餡餅。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:01.213266"
+                    "createTime": "2021-06-10T12:39:40.115673"
                 },
                 {
                     "originalText": "クランベリー",
@@ -545,7 +559,8 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 4
                     },
                     "accentIndex": 4,
                     "wordTypes": [
@@ -558,7 +573,7 @@
                         "酸果蔓"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:02.213266"
+                    "createTime": "2021-06-10T12:39:41.115673"
                 },
                 {
                     "originalText": "ドリアン",
@@ -573,7 +588,8 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
                     "accentIndex": 1,
                     "wordTypes": [
@@ -592,7 +608,7 @@
                             "translated": "第一次吃榴槤。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:03.213266"
+                    "createTime": "2021-06-10T12:39:42.115673"
                 },
                 {
                     "originalText": "キウイ",
@@ -606,7 +622,8 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
                     "accentIndex": 1,
                     "wordTypes": [
@@ -625,7 +642,7 @@
                             "translated": "湯姆說他不喜歡奇異果，即使他從未吃過。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:04.213266"
+                    "createTime": "2021-06-10T12:39:43.115673"
                 },
                 {
                     "originalText": "文旦",
@@ -651,7 +668,8 @@
                             "たん"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
                     "accentIndex": 0,
                     "wordTypes": [
@@ -664,7 +682,7 @@
                         "柚子（Citrus maxima），柚子"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:05.213266"
+                    "createTime": "2021-06-10T12:39:44.115673"
                 },
                 {
                     "originalText": "ライチ",
@@ -678,7 +696,8 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
                     "accentIndex": 1,
                     "wordTypes": [
@@ -691,7 +710,7 @@
                         "荔枝（Nephelium litchi），荔枝"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:06.213266"
+                    "createTime": "2021-06-10T12:39:45.115673"
                 },
                 {
                     "originalText": "柿",
@@ -710,7 +729,8 @@
                             "かき"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
                     "accentIndex": 0,
                     "wordTypes": [
@@ -728,7 +748,7 @@
                             "translated": "隔壁鄰居的客人是一個吃很多柿子的客人。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:07.213266"
+                    "createTime": "2021-06-10T12:39:46.115673"
                 },
                 {
                     "originalText": "いちご",
@@ -742,7 +762,8 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
                     "accentIndex": 0,
                     "wordTypes": [
@@ -768,7 +789,7 @@
                             "translated": "籃子裡裝滿了草莓。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:08.213266"
+                    "createTime": "2021-06-10T12:39:47.115673"
                 },
                 {
                     "originalText": "桃",
@@ -787,7 +808,8 @@
                             "もも"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
                     "accentIndex": 0,
                     "wordTypes": [
@@ -813,7 +835,7 @@
                             "translated": "這桃子是個美人。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:09.213266"
+                    "createTime": "2021-06-10T12:39:48.115673"
                 },
                 {
                     "originalText": "アボカド",
@@ -828,7 +850,8 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
                     "accentIndex": 0,
                     "wordTypes": [
@@ -841,7 +864,7 @@
                         "鱷梨（美洲鱷梨）"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:10.213266"
+                    "createTime": "2021-06-10T12:39:49.115673"
                 },
                 {
                     "originalText": "パパイヤ",
@@ -856,7 +879,8 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
                     "accentIndex": 0,
                     "wordTypes": [
@@ -869,7 +893,7 @@
                         "木瓜（Carica papaya），木瓜"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:11.213266"
+                    "createTime": "2021-06-10T12:39:50.115673"
                 },
                 {
                     "originalText": "スイカ",
@@ -883,7 +907,8 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
                     "accentIndex": 0,
                     "wordTypes": [
@@ -909,7 +934,7 @@
                             "translated": "我喜歡吃西瓜。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:12.213266"
+                    "createTime": "2021-06-10T12:39:51.115673"
                 },
                 {
                     "originalText": "ライム",
@@ -923,7 +948,8 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
                     "accentIndex": 1,
                     "wordTypes": [
@@ -942,7 +968,7 @@
                             "translated": "檸檬和酸橙是酸性水果。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:13.213266"
+                    "createTime": "2021-06-10T12:39:52.115673"
                 },
                 {
                     "originalText": "オレンジ",
@@ -957,7 +983,8 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 2
                     },
                     "accentIndex": 2,
                     "wordTypes": [
@@ -976,7 +1003,7 @@
                             "translated": "她喜歡橘子嗎？"
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:14.213266"
+                    "createTime": "2021-06-10T12:39:53.115673"
                 },
                 {
                     "originalText": "パッションフルーツ",
@@ -996,7 +1023,8 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 6
                     },
                     "accentIndex": 6,
                     "wordTypes": [
@@ -1009,7 +1037,7 @@
                         "西番蓮（Passiflora edulis）"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:15.213266"
+                    "createTime": "2021-06-10T12:39:54.115673"
                 },
                 {
                     "originalText": "バナナ",
@@ -1023,7 +1051,8 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
                     "accentIndex": 1,
                     "wordTypes": [
@@ -1050,14 +1079,14 @@
                             "translated": "但比爾打斷了故事說：“香蕉”。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:16.213266"
+                    "createTime": "2021-06-10T12:39:55.115673"
                 }
             ]
         },
         {
-            "id": "8e7a9257-c9a1-11eb-afd7-b46bfc8f52a9",
-            "createTime": "2021-06-10T12:08:48.224725",
-            "lastModifiedTime": "2021-06-10T12:08:48.224725",
+            "id": "d68d7fad-c9a5-11eb-afd7-b46bfc8f52a9",
+            "createTime": "2021-06-10T12:39:27.131639",
+            "lastModifiedTime": "2021-06-10T12:39:27.131639",
             "title": "日本料理",
             "tags": [
                 "食物",
@@ -1104,7 +1133,8 @@
                             ""
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
                     "accentIndex": 0,
                     "wordTypes": [
@@ -1117,7 +1147,7 @@
                         "chawanmushi, savoury steamed egg custard with chicken, mushrooms, etc. (savory)"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:08:48.224725"
+                    "createTime": "2021-06-10T12:39:27.131639"
                 },
                 {
                     "originalText": "卵焼き",
@@ -1144,7 +1174,8 @@
                             ""
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
                     "accentIndex": 0,
                     "wordTypes": [
@@ -1158,7 +1189,7 @@
                         "fried egg"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:08:49.224725"
+                    "createTime": "2021-06-10T12:39:28.131639"
                 },
                 {
                     "originalText": "しゃぶしゃぶ",
@@ -1175,7 +1206,8 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
                     "accentIndex": 0,
                     "wordTypes": [
@@ -1188,7 +1220,7 @@
                         "shabu-shabu, thinly sliced meat boiled quickly with vegetables, and dipped in sauce"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:08:50.224725"
+                    "createTime": "2021-06-10T12:39:29.131639"
                 },
                 {
                     "originalText": "おでん",
@@ -1202,7 +1234,8 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 2
                     },
                     "accentIndex": 2,
                     "wordTypes": [
@@ -1220,7 +1253,7 @@
                             "translated": "即使是冷關東煮也不錯。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:08:51.224725"
+                    "createTime": "2021-06-10T12:39:30.131639"
                 },
                 {
                     "originalText": "天ぷら",
@@ -1241,7 +1274,8 @@
                             ""
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
                     "accentIndex": 0,
                     "wordTypes": [
@@ -1267,7 +1301,7 @@
                             "translated": "我在一本書上讀到如何製作天婦羅。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:08:52.224725"
+                    "createTime": "2021-06-10T12:39:31.131639"
                 },
                 {
                     "originalText": "たこ焼き",
@@ -1289,7 +1323,8 @@
                             ""
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
                     "accentIndex": 0,
                     "wordTypes": [
@@ -1302,7 +1337,7 @@
                         "takoyaki, octopus dumplings"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:08:53.224725"
+                    "createTime": "2021-06-10T12:39:32.131639"
                 },
                 {
                     "originalText": "照焼き",
@@ -1330,7 +1365,8 @@
                             ""
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
                     "accentIndex": 0,
                     "wordTypes": [
@@ -1343,7 +1379,7 @@
                         "teriyaki (meat or fish marinated in sweet soy sauce and broiled)"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:08:54.224725"
+                    "createTime": "2021-06-10T12:39:33.131639"
                 },
                 {
                     "originalText": "すき焼き",
@@ -1365,7 +1401,8 @@
                             ""
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
                     "accentIndex": 0,
                     "wordTypes": [
@@ -1378,7 +1415,7 @@
                         "sukiyaki, thin slices of beef, cooked with various vegetables in a table-top cast-iron pan"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:08:55.224725"
+                    "createTime": "2021-06-10T12:39:34.131639"
                 },
                 {
                     "originalText": "お弁当",
@@ -1405,7 +1442,8 @@
                             "とう"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
                     "accentIndex": 0,
                     "wordTypes": [
@@ -1427,7 +1465,7 @@
                             "translated": "我們在公園吃便當怎麼樣？"
                         }
                     ],
-                    "createTime": "2021-06-10T12:08:56.224725"
+                    "createTime": "2021-06-10T12:39:35.131639"
                 },
                 {
                     "originalText": "天丼",
@@ -1453,7 +1491,8 @@
                             "どん"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
                     "accentIndex": 0,
                     "wordTypes": [
@@ -1467,7 +1506,7 @@
                         "(in comedy) repeating the same gag or silly line"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:08:57.224725"
+                    "createTime": "2021-06-10T12:39:36.131639"
                 },
                 {
                     "originalText": "刺し身",
@@ -1493,7 +1532,8 @@
                             "み"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 3
                     },
                     "accentIndex": 3,
                     "wordTypes": [
@@ -1519,7 +1559,7 @@
                             "translated": "我受不了生魚。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:08:58.224725"
+                    "createTime": "2021-06-10T12:39:37.131639"
                 },
                 {
                     "originalText": "うな重",
@@ -1545,7 +1585,8 @@
                             "じゅう"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 2
                     },
                     "accentIndex": 2,
                     "wordTypes": [
@@ -1558,7 +1599,7 @@
                         "broiled eel served over rice in a lacquered box, broiled eel and rice served in two separate stacked boxes, with eel in top box and rice in bottom box"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:08:59.224725"
+                    "createTime": "2021-06-10T12:39:38.131639"
                 },
                 {
                     "originalText": "懐石料理",
@@ -1598,7 +1639,8 @@
                             "り"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 5
                     },
                     "accentIndex": 5,
                     "wordTypes": [
@@ -1612,7 +1654,7 @@
                         "tea-ceremony dishes"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:00.224725"
+                    "createTime": "2021-06-10T12:39:39.131639"
                 },
                 {
                     "originalText": "お握り",
@@ -1627,7 +1669,8 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 2
                     },
                     "accentIndex": 2,
                     "wordTypes": [
@@ -1640,7 +1683,7 @@
                         "onigiri, rice ball (often triangular, sometimes with a filling and wrapped in nori)"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:01.224725"
+                    "createTime": "2021-06-10T12:39:40.131639"
                 },
                 {
                     "originalText": "味噌汁",
@@ -1673,7 +1716,8 @@
                             "しる"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 3
                     },
                     "accentIndex": 3,
                     "wordTypes": [
@@ -1699,7 +1743,7 @@
                             "translated": "你最喜歡在味噌湯裡放什麼配料？"
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:02.224725"
+                    "createTime": "2021-06-10T12:39:41.131639"
                 },
                 {
                     "originalText": "親子丼",
@@ -1732,7 +1776,8 @@
                             "どん"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
                     "accentIndex": 0,
                     "wordTypes": [
@@ -1746,7 +1791,7 @@
                         "threesome including a mother and her daughter"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:03.224725"
+                    "createTime": "2021-06-10T12:39:42.131639"
                 },
                 {
                     "originalText": "牛丼",
@@ -1772,7 +1817,8 @@
                             "どん"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
                     "accentIndex": 0,
                     "wordTypes": [
@@ -1785,7 +1831,7 @@
                         "gyudon, rice covered with sliced beef, usu. with vegetables"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:04.224725"
+                    "createTime": "2021-06-10T12:39:43.131639"
                 },
                 {
                     "originalText": "ラーメン",
@@ -1800,7 +1846,8 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
                     "accentIndex": 1,
                     "wordTypes": [
@@ -1822,7 +1869,7 @@
                             "translated": "我想吃拉麵。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:05.224725"
+                    "createTime": "2021-06-10T12:39:44.131639"
                 },
                 {
                     "originalText": "定食",
@@ -1848,7 +1895,8 @@
                             "しょく"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
                     "accentIndex": 0,
                     "wordTypes": [
@@ -1866,7 +1914,7 @@
                             "translated": "他點了一份烤魚定食。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:06.224725"
+                    "createTime": "2021-06-10T12:39:45.131639"
                 },
                 {
                     "originalText": "蕎麦",
@@ -1892,7 +1940,8 @@
                             "ば"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
                     "accentIndex": 1,
                     "wordTypes": [
@@ -1911,7 +1960,7 @@
                             "translated": "我在附近的一條街上吃了一碗蕎麥麵。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:07.224725"
+                    "createTime": "2021-06-10T12:39:46.131639"
                 },
                 {
                     "originalText": "うどん",
@@ -1925,7 +1974,8 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
                     "accentIndex": 0,
                     "wordTypes": [
@@ -1943,7 +1993,7 @@
                             "translated": "你想吃烏龍麵嗎？"
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:08.224725"
+                    "createTime": "2021-06-10T12:39:47.131639"
                 },
                 {
                     "originalText": "餃子",
@@ -1958,7 +2008,8 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
                     "accentIndex": 0,
                     "wordTypes": [
@@ -1971,7 +2022,7 @@
                         "gyoza, pot sticker"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:09.224725"
+                    "createTime": "2021-06-10T12:39:48.131639"
                 },
                 {
                     "originalText": "お菓子",
@@ -1998,7 +2049,8 @@
                             "し"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 2
                     },
                     "accentIndex": 2,
                     "wordTypes": [
@@ -2016,7 +2068,7 @@
                             "translated": "請自己取用蛋糕。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:10.224725"
+                    "createTime": "2021-06-10T12:39:49.131639"
                 },
                 {
                     "originalText": "カレーライス",
@@ -2033,7 +2085,8 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 4
                     },
                     "accentIndex": 4,
                     "wordTypes": [
@@ -2046,7 +2099,7 @@
                         "rice and curry, curry rice"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:11.224725"
+                    "createTime": "2021-06-10T12:39:50.131639"
                 },
                 {
                     "originalText": "コロッケ",
@@ -2061,7 +2114,8 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
                     "accentIndex": 1,
                     "wordTypes": [
@@ -2074,7 +2128,7 @@
                         "croquette"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:12.224725"
+                    "createTime": "2021-06-10T12:39:51.131639"
                 },
                 {
                     "originalText": "カツどん",
@@ -2095,7 +2149,8 @@
                             "どん"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
                     "accentIndex": 0,
                     "wordTypes": [
@@ -2108,7 +2163,7 @@
                         "katsudon, pork cutlet served on top of a bowl of rice"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:13.224725"
+                    "createTime": "2021-06-10T12:39:52.131639"
                 },
                 {
                     "originalText": "オムライス",
@@ -2124,7 +2179,8 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 3
                     },
                     "accentIndex": 3,
                     "wordTypes": [
@@ -2142,7 +2198,7 @@
                             "translated": "我吃了一個蛋包飯。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:14.224725"
+                    "createTime": "2021-06-10T12:39:53.131639"
                 },
                 {
                     "originalText": "唐揚げ",
@@ -2169,7 +2225,8 @@
                             ""
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
                     "accentIndex": 0,
                     "wordTypes": [
@@ -2182,7 +2239,7 @@
                         "deep-fried food (esp. chicken)"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:15.224725"
+                    "createTime": "2021-06-10T12:39:54.131639"
                 },
                 {
                     "originalText": "寿司",
@@ -2208,7 +2265,8 @@
                             "し"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 2
                     },
                     "accentIndex": 2,
                     "wordTypes": [
@@ -2234,7 +2292,7 @@
                             "translated": "這種壽司用大量的辣根調味。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:16.224725"
+                    "createTime": "2021-06-10T12:39:55.131639"
                 },
                 {
                     "originalText": "お好み焼き",
@@ -2263,7 +2321,8 @@
                             ""
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
                     "accentIndex": 0,
                     "wordTypes": [
@@ -2289,14 +2348,14 @@
                             "translated": "在日本，我經常吃御好燒。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:17.224725"
+                    "createTime": "2021-06-10T12:39:56.131639"
                 }
             ]
         },
         {
-            "id": "8e7ab918-c9a1-11eb-a8fc-b46bfc8f52a9",
-            "createTime": "2021-06-10T12:08:48.225717",
-            "lastModifiedTime": "2021-06-10T12:08:48.225717",
+            "id": "d68e3157-c9a5-11eb-a8fc-b46bfc8f52a9",
+            "createTime": "2021-06-10T12:39:27.136187",
+            "lastModifiedTime": "2021-06-10T12:39:27.136187",
             "title": "肉類",
             "tags": [
                 "食物",
@@ -2325,7 +2384,8 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 3
                     },
                     "accentIndex": 3,
                     "wordTypes": [
@@ -2343,7 +2403,7 @@
                             "translated": "我做了太多的漢堡排。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:08:48.225717"
+                    "createTime": "2021-06-10T12:39:27.136187"
                 },
                 {
                     "originalText": "ささみ",
@@ -2357,7 +2417,8 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
                     "accentIndex": 0,
                     "wordTypes": [
@@ -2370,7 +2431,7 @@
                         "雞肉嫩，雞里脊肉"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:08:49.225717"
+                    "createTime": "2021-06-10T12:39:28.136187"
                 },
                 {
                     "originalText": "マトン",
@@ -2384,7 +2445,8 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
                     "accentIndex": 1,
                     "wordTypes": [
@@ -2397,7 +2459,7 @@
                         "羊肉"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:08:50.225717"
+                    "createTime": "2021-06-10T12:39:29.136187"
                 },
                 {
                     "originalText": "ハム",
@@ -2410,7 +2472,8 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
                     "accentIndex": 1,
                     "wordTypes": [
@@ -2423,7 +2486,7 @@
                         "炸蝦，炸蝦"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:08:51.225717"
+                    "createTime": "2021-06-10T12:39:30.136187"
                 },
                 {
                     "originalText": "七面鳥",
@@ -2456,7 +2519,8 @@
                             "ちょう"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
                     "accentIndex": 0,
                     "wordTypes": [
@@ -2469,7 +2533,7 @@
                         "火雞（Meleagris gallopavo）"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:08:52.225717"
+                    "createTime": "2021-06-10T12:39:31.136187"
                 },
                 {
                     "originalText": "ベーコン",
@@ -2484,7 +2548,8 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
                     "accentIndex": 1,
                     "wordTypes": [
@@ -2506,7 +2571,7 @@
                             "translated": "我以為我聞到了培根的味道。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:08:53.225717"
+                    "createTime": "2021-06-10T12:39:32.136187"
                 },
                 {
                     "originalText": "ビーフジャーキー",
@@ -2525,7 +2590,8 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 4
                     },
                     "accentIndex": 4,
                     "wordTypes": [
@@ -2538,7 +2604,7 @@
                         "牛肉乾"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:08:54.225717"
+                    "createTime": "2021-06-10T12:39:33.136187"
                 },
                 {
                     "originalText": "合い挽き肉",
@@ -2573,7 +2639,8 @@
                             "にく"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 5
                     },
                     "accentIndex": 5,
                     "wordTypes": [
@@ -2586,7 +2653,7 @@
                         "炸蝦，炸蝦"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:08:55.225717"
+                    "createTime": "2021-06-10T12:39:34.136187"
                 },
                 {
                     "originalText": "ビーフシチュー",
@@ -2604,7 +2671,8 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 4
                     },
                     "accentIndex": 4,
                     "wordTypes": [
@@ -2622,7 +2690,7 @@
                             "translated": "你覺得你的燉牛肉怎麼樣？"
                         }
                     ],
-                    "createTime": "2021-06-10T12:08:56.225717"
+                    "createTime": "2021-06-10T12:39:35.136187"
                 },
                 {
                     "originalText": "サーロイン",
@@ -2638,7 +2706,8 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 3
                     },
                     "accentIndex": 3,
                     "wordTypes": [
@@ -2651,7 +2720,7 @@
                         "牛腩"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:08:57.225717"
+                    "createTime": "2021-06-10T12:39:36.136187"
                 },
                 {
                     "originalText": "豚肉",
@@ -2677,7 +2746,8 @@
                             "にく"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
                     "accentIndex": 0,
                     "wordTypes": [
@@ -2699,7 +2769,7 @@
                             "translated": "這個豬肉多少錢一公斤？"
                         }
                     ],
-                    "createTime": "2021-06-10T12:08:58.225717"
+                    "createTime": "2021-06-10T12:39:37.136187"
                 },
                 {
                     "originalText": "牛カルビ",
@@ -2721,7 +2791,8 @@
                             ""
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 2
                     },
                     "accentIndex": 2,
                     "wordTypes": [
@@ -2734,7 +2805,7 @@
                         "炸蝦，炸蝦"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:08:59.225717"
+                    "createTime": "2021-06-10T12:39:38.136187"
                 },
                 {
                     "originalText": "ソーセージ",
@@ -2750,7 +2821,8 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 3
                     },
                     "accentIndex": 3,
                     "wordTypes": [
@@ -2763,7 +2835,7 @@
                         "香腸"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:00.225717"
+                    "createTime": "2021-06-10T12:39:39.136187"
                 },
                 {
                     "originalText": "砂肝",
@@ -2789,7 +2861,8 @@
                             "ぎも"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 3
                     },
                     "accentIndex": 3,
                     "wordTypes": [
@@ -2802,7 +2875,7 @@
                         "肫"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:01.225717"
+                    "createTime": "2021-06-10T12:39:40.136187"
                 },
                 {
                     "originalText": "鶏皮",
@@ -2828,7 +2901,8 @@
                             "かわ"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
                     "accentIndex": 0,
                     "wordTypes": [
@@ -2841,7 +2915,7 @@
                         "炸蝦，炸蝦"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:02.225717"
+                    "createTime": "2021-06-10T12:39:41.136187"
                 },
                 {
                     "originalText": "チキンナゲット",
@@ -2859,7 +2933,8 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 4
                     },
                     "accentIndex": 4,
                     "wordTypes": [
@@ -2872,7 +2947,7 @@
                         "炸雞肉塊"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:03.225717"
+                    "createTime": "2021-06-10T12:39:42.136187"
                 },
                 {
                     "originalText": "豚足",
@@ -2898,7 +2973,8 @@
                             "そく"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
                     "accentIndex": 0,
                     "wordTypes": [
@@ -2911,7 +2987,7 @@
                         "豬腳"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:04.225717"
+                    "createTime": "2021-06-10T12:39:43.136187"
                 },
                 {
                     "originalText": "鹿肉",
@@ -2937,7 +3013,8 @@
                             "にく"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
                     "accentIndex": 0,
                     "wordTypes": [
@@ -2950,7 +3027,7 @@
                         "炸蝦，炸蝦"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:05.225717"
+                    "createTime": "2021-06-10T12:39:44.136187"
                 },
                 {
                     "originalText": "牛肉",
@@ -2976,7 +3053,8 @@
                             "にく"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
                     "accentIndex": 0,
                     "wordTypes": [
@@ -3002,7 +3080,7 @@
                             "translated": "神戶以其優質的牛肉而聞名。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:06.225717"
+                    "createTime": "2021-06-10T12:39:45.136187"
                 },
                 {
                     "originalText": "牛タン",
@@ -3023,7 +3101,8 @@
                             ""
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
                     "accentIndex": 0,
                     "wordTypes": [
@@ -3036,7 +3115,7 @@
                         "牛舌（仙台特產）、牛舌"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:07.225717"
+                    "createTime": "2021-06-10T12:39:46.136187"
                 },
                 {
                     "originalText": "とり肉",
@@ -3062,7 +3141,8 @@
                             "にく"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
                     "accentIndex": 0,
                     "wordTypes": [
@@ -3089,7 +3169,7 @@
                             "translated": "我喜歡雞肉。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:08.225717"
+                    "createTime": "2021-06-10T12:39:47.136187"
                 },
                 {
                     "originalText": "豚のひき肉",
@@ -3118,7 +3198,8 @@
                             "にく"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 6
                     },
                     "accentIndex": 6,
                     "wordTypes": [
@@ -3131,7 +3212,7 @@
                         "炸蝦，炸蝦"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:09.225717"
+                    "createTime": "2021-06-10T12:39:48.136187"
                 },
                 {
                     "originalText": "鴨肉",
@@ -3157,7 +3238,8 @@
                             "にく"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
                     "accentIndex": 0,
                     "wordTypes": [
@@ -3170,7 +3252,7 @@
                         "炸蝦，炸蝦"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:10.225717"
+                    "createTime": "2021-06-10T12:39:49.136187"
                 },
                 {
                     "originalText": "ステーキ",
@@ -3185,7 +3267,8 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 2
                     },
                     "accentIndex": 2,
                     "wordTypes": [
@@ -3207,7 +3290,7 @@
                             "translated": "我想要更多的牛排。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:11.225717"
+                    "createTime": "2021-06-10T12:39:50.136187"
                 },
                 {
                     "originalText": "手羽先",
@@ -3240,7 +3323,8 @@
                             "さき"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
                     "accentIndex": 0,
                     "wordTypes": [
@@ -3253,7 +3337,7 @@
                         "(尖部)雞翅，雞翅第二段"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:12.225717"
+                    "createTime": "2021-06-10T12:39:51.136187"
                 },
                 {
                     "originalText": "エビフライ",
@@ -3269,7 +3353,8 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 3
                     },
                     "accentIndex": 3,
                     "wordTypes": [
@@ -3282,7 +3367,7 @@
                         "炸蝦，炸蝦"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:13.225717"
+                    "createTime": "2021-06-10T12:39:52.136187"
                 },
                 {
                     "originalText": "豚バラ",
@@ -3303,7 +3388,8 @@
                             ""
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 3
                     },
                     "accentIndex": 3,
                     "wordTypes": [
@@ -3316,7 +3402,7 @@
                         "去骨排骨，去骨排骨"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:14.225717"
+                    "createTime": "2021-06-10T12:39:53.136187"
                 },
                 {
                     "originalText": "豚レバー",
@@ -3338,7 +3424,8 @@
                             ""
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 3
                     },
                     "accentIndex": 3,
                     "wordTypes": [
@@ -3351,14 +3438,14 @@
                         "炸蝦，炸蝦"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:15.225717"
+                    "createTime": "2021-06-10T12:39:54.136187"
                 }
             ]
         },
         {
-            "id": "8e7ae00a-c9a1-11eb-b6e7-b46bfc8f52a9",
-            "createTime": "2021-06-10T12:08:48.226714",
-            "lastModifiedTime": "2021-06-10T12:08:48.226714",
+            "id": "d68ecd72-c9a5-11eb-b6e7-b46bfc8f52a9",
+            "createTime": "2021-06-10T12:39:27.140184",
+            "lastModifiedTime": "2021-06-10T12:39:27.140184",
             "title": "蔬菜",
             "tags": [
                 "食物",
@@ -3397,7 +3484,8 @@
                             "さい"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 3
                     },
                     "accentIndex": 3,
                     "wordTypes": [
@@ -3410,7 +3498,7 @@
                         "大白菜（Brassica rapa subsp. pekinensis），大白菜"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:08:48.225717"
+                    "createTime": "2021-06-10T12:39:27.140184"
                 },
                 {
                     "originalText": "トマト",
@@ -3424,7 +3512,8 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
                     "accentIndex": 1,
                     "wordTypes": [
@@ -3450,7 +3539,7 @@
                             "translated": "西紅柿按磅出售。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:08:49.225717"
+                    "createTime": "2021-06-10T12:39:28.140184"
                 },
                 {
                     "originalText": "大根",
@@ -3476,7 +3565,8 @@
                             "こん"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
                     "accentIndex": 0,
                     "wordTypes": [
@@ -3490,7 +3580,7 @@
                         "火腿演員"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:08:50.225717"
+                    "createTime": "2021-06-10T12:39:29.140184"
                 },
                 {
                     "originalText": "キノコ",
@@ -3504,7 +3594,8 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
                     "accentIndex": 1,
                     "wordTypes": [
@@ -3517,7 +3608,7 @@
                         "雲耳菇（Auricularia auricula-judae），木耳菇"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:08:51.225717"
+                    "createTime": "2021-06-10T12:39:30.140184"
                 },
                 {
                     "originalText": "玉ねぎ",
@@ -3532,7 +3623,8 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 3
                     },
                     "accentIndex": 3,
                     "wordTypes": [
@@ -3558,7 +3650,7 @@
                             "translated": "啊，它們是洋蔥味的百吉餅。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:08:52.225717"
+                    "createTime": "2021-06-10T12:39:31.140184"
                 },
                 {
                     "originalText": "きくらげ",
@@ -3573,7 +3665,8 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 2
                     },
                     "accentIndex": 2,
                     "wordTypes": [
@@ -3586,7 +3679,7 @@
                         "雲耳菇（Auricularia auricula-judae），木耳菇"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:08:53.225717"
+                    "createTime": "2021-06-10T12:39:32.140184"
                 },
                 {
                     "originalText": "エリンギ",
@@ -3601,7 +3694,8 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
                     "accentIndex": 0,
                     "wordTypes": [
@@ -3614,7 +3708,7 @@
                         "杏鮑菇 (Pleurotus eryngii), 杏鮑菇"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:08:54.225717"
+                    "createTime": "2021-06-10T12:39:33.140184"
                 },
                 {
                     "originalText": "アスパラガス",
@@ -3631,7 +3725,8 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 4
                     },
                     "accentIndex": 4,
                     "wordTypes": [
@@ -3649,7 +3744,7 @@
                             "translated": "冬天你仍然可以買到蘆筍。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:08:55.225717"
+                    "createTime": "2021-06-10T12:39:34.140184"
                 },
                 {
                     "originalText": "生姜",
@@ -3675,7 +3770,8 @@
                             "が"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
                     "accentIndex": 0,
                     "wordTypes": [
@@ -3688,7 +3784,7 @@
                         "姜 (Zingiber officinale)"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:08:56.225717"
+                    "createTime": "2021-06-10T12:39:35.140184"
                 },
                 {
                     "originalText": "ニンニク",
@@ -3703,7 +3799,8 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
                     "accentIndex": 0,
                     "wordTypes": [
@@ -3716,7 +3813,7 @@
                         "雲耳菇（Auricularia auricula-judae），木耳菇"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:08:57.225717"
+                    "createTime": "2021-06-10T12:39:36.140184"
                 },
                 {
                     "originalText": "カリフラワー",
@@ -3733,7 +3830,8 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 4
                     },
                     "accentIndex": 4,
                     "wordTypes": [
@@ -3746,7 +3844,7 @@
                         "菜花"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:08:58.225717"
+                    "createTime": "2021-06-10T12:39:37.140184"
                 },
                 {
                     "originalText": "しめじ",
@@ -3760,7 +3858,8 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
                     "accentIndex": 0,
                     "wordTypes": [
@@ -3774,7 +3873,7 @@
                         "euagaric fungus（在雜貨店，usu。指栽培的田間蘑菇等）"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:08:59.225717"
+                    "createTime": "2021-06-10T12:39:38.140184"
                 },
                 {
                     "originalText": "インゲン豆",
@@ -3791,7 +3890,8 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 3
                     },
                     "accentIndex": 3,
                     "wordTypes": [
@@ -3804,7 +3904,7 @@
                         "菜豆 (Phaseolus vulgaris), 芸豆"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:00.225717"
+                    "createTime": "2021-06-10T12:39:39.140184"
                 },
                 {
                     "originalText": "キャベツ",
@@ -3819,7 +3919,8 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
                     "accentIndex": 1,
                     "wordTypes": [
@@ -3845,7 +3946,7 @@
                             "translated": "他喜歡蔬菜，尤其是捲心菜。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:01.225717"
+                    "createTime": "2021-06-10T12:39:40.140184"
                 },
                 {
                     "originalText": "セロリ",
@@ -3859,7 +3960,8 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
                     "accentIndex": 1,
                     "wordTypes": [
@@ -3872,7 +3974,7 @@
                         "芹菜"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:02.225717"
+                    "createTime": "2021-06-10T12:39:41.140184"
                 },
                 {
                     "originalText": "枝豆",
@@ -3898,7 +4000,8 @@
                             "まめ"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
                     "accentIndex": 0,
                     "wordTypes": [
@@ -3911,7 +4014,7 @@
                         "毛豆（綠豆）"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:03.225717"
+                    "createTime": "2021-06-10T12:39:42.140184"
                 },
                 {
                     "originalText": "レタス",
@@ -3925,7 +4028,8 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
                     "accentIndex": 1,
                     "wordTypes": [
@@ -3951,7 +4055,7 @@
                             "translated": "蝸牛一直在吃我們的生菜。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:04.225717"
+                    "createTime": "2021-06-10T12:39:43.140184"
                 },
                 {
                     "originalText": "キュリー",
@@ -3966,7 +4070,8 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
                     "accentIndex": 1,
                     "wordTypes": [
@@ -3979,7 +4084,7 @@
                         "居里（放射性單位）"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:05.225717"
+                    "createTime": "2021-06-10T12:39:44.140184"
                 },
                 {
                     "originalText": "エノキタケ",
@@ -3995,7 +4100,8 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
                     "accentIndex": 0,
                     "wordTypes": [
@@ -4008,7 +4114,7 @@
                         "金針菇（金針菇），冬菇"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:06.225717"
+                    "createTime": "2021-06-10T12:39:45.140184"
                 },
                 {
                     "originalText": "松茸",
@@ -4034,7 +4140,8 @@
                             "たけ"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
                     "accentIndex": 0,
                     "wordTypes": [
@@ -4052,7 +4159,7 @@
                             "translated": "松茸現在是時令，所以它們很便宜。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:07.225717"
+                    "createTime": "2021-06-10T12:39:46.140184"
                 },
                 {
                     "originalText": "チンゲン菜",
@@ -4069,7 +4176,8 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 3
                     },
                     "accentIndex": 3,
                     "wordTypes": [
@@ -4082,7 +4190,7 @@
                         "白菜（Brassica rapa subsp. chinensis，尤其是具有綠色莖的栽培品種）"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:08.225717"
+                    "createTime": "2021-06-10T12:39:47.140184"
                 },
                 {
                     "originalText": "大豆",
@@ -4108,7 +4216,8 @@
                             "ず"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
                     "accentIndex": 0,
                     "wordTypes": [
@@ -4121,7 +4230,7 @@
                         "大豆 (Glycine max)、大豆"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:09.225717"
+                    "createTime": "2021-06-10T12:39:48.140184"
                 },
                 {
                     "originalText": "カボチャ",
@@ -4136,7 +4245,8 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
                     "accentIndex": 0,
                     "wordTypes": [
@@ -4154,7 +4264,7 @@
                             "translated": "“你在做什麼？” “是南瓜湯。”"
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:10.225717"
+                    "createTime": "2021-06-10T12:39:49.140184"
                 },
                 {
                     "originalText": "ほうれん草",
@@ -4177,7 +4287,8 @@
                             "そう"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 3
                     },
                     "accentIndex": 3,
                     "wordTypes": [
@@ -4203,7 +4314,7 @@
                             "translated": "孩子們經常討厭菠菜。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:11.225717"
+                    "createTime": "2021-06-10T12:39:50.140184"
                 },
                 {
                     "originalText": "椎茸",
@@ -4218,7 +4329,8 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
                     "accentIndex": 1,
                     "wordTypes": [
@@ -4236,7 +4348,7 @@
                             "translated": "我們保持香菇乾燥。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:12.225717"
+                    "createTime": "2021-06-10T12:39:51.140184"
                 },
                 {
                     "originalText": "ナス",
@@ -4262,7 +4374,8 @@
                             "す"
                         ],
                         "hasFurigana": true,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
                     "accentIndex": 1,
                     "wordTypes": [
@@ -4276,7 +4389,7 @@
                         "那須"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:13.225717"
+                    "createTime": "2021-06-10T12:39:52.140184"
                 },
                 {
                     "originalText": "さやえんどう",
@@ -4293,7 +4406,8 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 3
                     },
                     "accentIndex": 3,
                     "wordTypes": [
@@ -4306,7 +4420,7 @@
                         "豌豆，豌豆"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:14.225717"
+                    "createTime": "2021-06-10T12:39:53.140184"
                 },
                 {
                     "originalText": "人参",
@@ -4321,7 +4435,8 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
                     "accentIndex": 0,
                     "wordTypes": [
@@ -4348,7 +4463,7 @@
                             "translated": "我加入了洋蔥、胡蘿蔔和土豆。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:15.225717"
+                    "createTime": "2021-06-10T12:39:54.140184"
                 },
                 {
                     "originalText": "ピーマン",
@@ -4363,7 +4478,8 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 1
                     },
                     "accentIndex": 1,
                     "wordTypes": [
@@ -4389,7 +4505,7 @@
                             "translated": "我根本不吃青椒。"
                         }
                     ],
-                    "createTime": "2021-06-10T12:09:16.225717"
+                    "createTime": "2021-06-10T12:39:55.140184"
                 },
                 {
                     "originalText": "サツマイモ",
@@ -4405,7 +4521,8 @@
                             ""
                         ],
                         "hasFurigana": false,
-                        "jishoHasError": false
+                        "jishoHasError": false,
+                        "accentIndex": 0
                     },
                     "accentIndex": 0,
                     "wordTypes": [
@@ -4418,7 +4535,7 @@
                         "紅薯（Ipomoea batatas）"
                     ],
                     "sentences": [],
-                    "createTime": "2021-06-10T12:09:17.225717"
+                    "createTime": "2021-06-10T12:39:56.140184"
                 }
             ]
         }
