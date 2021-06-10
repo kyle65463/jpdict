@@ -5,19 +5,23 @@
     "subfolders": [
         {
             "title": "JLPT",
-            "value": "jlpt"
+            "value": "jlpt",
+            "category": "featured"
         },
         {
             "title": "Foods",
-            "value": "foods"
+            "value": "foods",
+            "category": "topic"
         },
         {
             "title": "Animals",
-            "value": "animals"
+            "value": "animals",
+            "category": "topic"
         },
         {
             "title": "J-pop",
-            "value": "jpop"
+            "value": "jpop",
+            "category": "featured"
         }
     ]
 }

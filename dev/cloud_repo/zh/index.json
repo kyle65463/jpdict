@@ -4,20 +4,24 @@
     "isLeaf": false,
     "subfolders": [
         {
-            "title": "JLPT",
-            "value": "jlpt"
-        },
-        {
-            "title": "食物",
-            "value": "foods"
-        },
-        {
-            "title": "動物",
-            "value": "animals"
+            "title": "日文檢定",
+            "value": "jlpt",
+            "category": "featured"
         },
         {
             "title": "J-pop",
-            "value": "jpop"
+            "value": "jpop",
+            "category": "featured"
+        },
+        {
+            "title": "食物",
+            "value": "foods",
+            "category": "topic"
+        },
+        {
+            "title": "動物",
+            "value": "animals",
+            "category": "topic"
         }
     ]
 }
