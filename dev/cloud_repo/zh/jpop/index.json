@@ -1,0 +1,19 @@
+{
+    "title": "J-pop",
+    "value": "jpop",
+    "isLeaf": false,
+    "subfolders": [
+        {
+            "title": "YOASOBI",
+            "value": "yoasobi"
+        },
+        {
+            "title": "米津玄師",
+            "value": "yonezu"
+        },
+        {
+            "title": "ヨルシカ",
+            "value": "yorusika"
+        }
+    ]
+}

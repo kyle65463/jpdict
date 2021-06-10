@@ -1,0 +1,23 @@
+{
+    "title": "Download",
+    "value": "download",
+    "isLeaf": false,
+    "subfolders": [
+        {
+            "title": "JLPT",
+            "value": "jlpt"
+        },
+        {
+            "title": "Foods",
+            "value": "foods"
+        },
+        {
+            "title": "Animals",
+            "value": "animals"
+        },
+        {
+            "title": "J-pop",
+            "value": "jpop"
+        }
+    ]
+}

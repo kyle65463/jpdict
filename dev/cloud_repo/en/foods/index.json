@@ -1,0 +1,4437 @@
+{
+    "title": "Foods",
+    "value": "foods",
+    "isLeaf": true,
+    "repos": [
+        {
+            "id": "9004aa52-c9a1-11eb-b665-b46bfc8f52a9",
+            "createTime": "2021-06-10T12:08:50.795833",
+            "lastModifiedTime": "2021-06-10T12:08:50.795833",
+            "title": "Fruits",
+            "tags": [
+                "Foods",
+                "Intermediate"
+            ],
+            "price": {
+                "isFree": false,
+                "discount": 1.0,
+                "prices": {
+                    "Coin": 50
+                }
+            },
+            "numFlashcards": 28,
+            "flashcards": [
+                {
+                    "originalText": "文旦",
+                    "word": {
+                        "text": "文旦",
+                        "kana": "ぶんたん",
+                        "kanjis": [
+                            {
+                                "text": "文",
+                                "furigana": "ぶん",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "旦",
+                                "furigana": "たん",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "ぶん",
+                            "たん"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "pomelo"
+                    ],
+                    "jishoDefinitions": [
+                        "柚子（Citrus maxima），柚子"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-06-10T12:08:50.795833"
+                },
+                {
+                    "originalText": "りんご",
+                    "word": {
+                        "text": "りんご",
+                        "kana": "りんご",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "apple"
+                    ],
+                    "jishoDefinitions": [
+                        "蘋果（水果）",
+                        "蘋果樹（Malus pumila）"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "彼らはりんごを大きさで特級別にした。",
+                            "translated": "They graded apples according to their size."
+                        },
+                        {
+                            "jp": "彼女は自分のバッグをりんごで満たした。",
+                            "translated": "She filled her bag with apples."
+                        },
+                        {
+                            "jp": "彼女は３個の奇麗なりんごを選んだ。",
+                            "translated": "She picked out three beautiful apples."
+                        }
+                    ],
+                    "createTime": "2021-06-10T12:08:51.795833"
+                },
+                {
+                    "originalText": "マンゴー",
+                    "word": {
+                        "text": "マンゴー",
+                        "kana": "マンゴー",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "mango"
+                    ],
+                    "jishoDefinitions": [
+                        "芒果（Mangifera indica）"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "僕はまだマンゴーを食べたことがない。",
+                            "translated": "I have never eaten a mango before."
+                        },
+                        {
+                            "jp": "ほらマンゴーがたくさんなっているよ。",
+                            "translated": "Look at all the mangoes growing on that tree."
+                        },
+                        {
+                            "jp": "マンゴーが食べたい。",
+                            "translated": "I want to eat a mango."
+                        }
+                    ],
+                    "createTime": "2021-06-10T12:08:52.795833"
+                },
+                {
+                    "originalText": "メロン",
+                    "word": {
+                        "text": "メロン",
+                        "kana": "メロン",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "melon"
+                    ],
+                    "jishoDefinitions": [
+                        "甜瓜（尤其是甜瓜、甜瓜）"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "このかぼちゃ、メロンの匂いがする。",
+                            "translated": "This squash smells like melon."
+                        },
+                        {
+                            "jp": "このメロンは明日あたりが食べごろだ。",
+                            "translated": "This melon will be good to eat tomorrow."
+                        },
+                        {
+                            "jp": "メロンが半分食べられた。",
+                            "translated": "Half of the melon was eaten."
+                        }
+                    ],
+                    "createTime": "2021-06-10T12:08:53.795833"
+                },
+                {
+                    "originalText": "いちご",
+                    "word": {
+                        "text": "いちご",
+                        "kana": "いちご",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "strawberry"
+                    ],
+                    "jishoDefinitions": [
+                        "草莓（尤其是花園草莓，Fragaria x ananassa）"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "私はいちごを摘みに行った。",
+                            "translated": "We went picking strawberries."
+                        },
+                        {
+                            "jp": "私はクリスマスケーキの苺が好きです。",
+                            "translated": "I love strawberries on Christmas cake."
+                        },
+                        {
+                            "jp": "そのかごは苺でいっぱいでした。",
+                            "translated": "The basket was filled with strawberries."
+                        }
+                    ],
+                    "createTime": "2021-06-10T12:08:54.795833"
+                },
+                {
+                    "originalText": "ライム",
+                    "word": {
+                        "text": "ライム",
+                        "kana": "ライム",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "lime"
+                    ],
+                    "jishoDefinitions": [
+                        "韻",
+                        "酸橙（樹，水果）（Citrus aurantifolia）"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "レモンやライムはすっぱい果物である。",
+                            "translated": "Lemons and limes are acidic fruits."
+                        }
+                    ],
+                    "createTime": "2021-06-10T12:08:55.795833"
+                },
+                {
+                    "originalText": "バナナ",
+                    "word": {
+                        "text": "バナナ",
+                        "kana": "バナナ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "banana"
+                    ],
+                    "jishoDefinitions": [
+                        "香蕉",
+                        "香蕉（剛果民主共和國）"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "おかんはバナナダイエットをしている。",
+                            "translated": "My mother is on a banana diet."
+                        },
+                        {
+                            "jp": "猫はバナナを食べません。",
+                            "translated": "Cats don't eat bananas."
+                        },
+                        {
+                            "jp": "だが、ビルは「バナナ」と言った。",
+                            "translated": "But Bill interrupted the story saying: \"Banana\"."
+                        }
+                    ],
+                    "createTime": "2021-06-10T12:08:56.795833"
+                },
+                {
+                    "originalText": "ココナッツ",
+                    "word": {
+                        "text": "ココナッツ",
+                        "kana": "ココナッツ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "coconut"
+                    ],
+                    "jishoDefinitions": [
+                        "椰子"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "ココナッツミルクが飲みたい。",
+                            "translated": "I want to drink coconut milk."
+                        },
+                        {
+                            "jp": "新二は九つのココナッツを食べました。",
+                            "translated": "Shinji ate nine coconuts."
+                        }
+                    ],
+                    "createTime": "2021-06-10T12:08:57.795833"
+                },
+                {
+                    "originalText": "スターフルーツ",
+                    "word": {
+                        "text": "スターフルーツ",
+                        "kana": "スターフルーツ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 5,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "starfruit"
+                    ],
+                    "jishoDefinitions": [],
+                    "sentences": [],
+                    "createTime": "2021-06-10T12:08:58.795833"
+                },
+                {
+                    "originalText": "レモン",
+                    "word": {
+                        "text": "レモン",
+                        "kana": "レモン",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "lemon"
+                    ],
+                    "jishoDefinitions": [
+                        "檸檬"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "このサラダはレモンの風味がある。",
+                            "translated": "This salad tastes of lemon."
+                        },
+                        {
+                            "jp": "彼女は御茶にレモンの汁をたらした。",
+                            "translated": "She dropped lemon juice into her tea."
+                        },
+                        {
+                            "jp": "レモンはすっぱいフルーツだ。",
+                            "translated": "The lemon is a sour fruit."
+                        }
+                    ],
+                    "createTime": "2021-06-10T12:08:59.795833"
+                },
+                {
+                    "originalText": "ドリアン",
+                    "word": {
+                        "text": "ドリアン",
+                        "kana": "ドリアン",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "durian"
+                    ],
+                    "jishoDefinitions": [
+                        "榴蓮（水果）",
+                        "多里安（模式，列）"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "初めてドリアンを食べました。",
+                            "translated": "I ate durian for the first time."
+                        }
+                    ],
+                    "createTime": "2021-06-10T12:09:00.795833"
+                },
+                {
+                    "originalText": "ブルーベリー",
+                    "word": {
+                        "text": "ブルーベリー",
+                        "kana": "ブルーベリー",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 4,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "blueberry"
+                    ],
+                    "jishoDefinitions": [
+                        "藍莓"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "ブルーベリーをとった後、タルトを作る。",
+                            "translated": "After I pick some blueberries, I make a tart."
+                        }
+                    ],
+                    "createTime": "2021-06-10T12:09:01.795833"
+                },
+                {
+                    "originalText": "桃",
+                    "word": {
+                        "text": "桃",
+                        "kana": "もも",
+                        "kanjis": [
+                            {
+                                "text": "桃",
+                                "furigana": "もも",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "もも"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "peach"
+                    ],
+                    "jishoDefinitions": [
+                        "桃（Prunus persica）"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "モモも皮は痛みやすい。",
+                            "translated": "The skin of peaches bruises easily."
+                        },
+                        {
+                            "jp": "この桃は芸術品だよ。",
+                            "translated": "This peach is a work of art."
+                        },
+                        {
+                            "jp": "この桃はじつに見事なものだ。",
+                            "translated": "This peach is a beauty."
+                        }
+                    ],
+                    "createTime": "2021-06-10T12:09:02.795833"
+                },
+                {
+                    "originalText": "マスカット",
+                    "word": {
+                        "text": "マスカット",
+                        "kana": "マスカット",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 3,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "Muscat"
+                    ],
+                    "jishoDefinitions": [
+                        "馬斯喀特（釀酒葡萄品種）",
+                        "馬斯喀特（阿曼）"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-06-10T12:09:03.795833"
+                },
+                {
+                    "originalText": "グレープフルーツ",
+                    "word": {
+                        "text": "グレープフルーツ",
+                        "kana": "グレープフルーツ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 6,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "grapefruit"
+                    ],
+                    "jishoDefinitions": [
+                        "柚子"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-06-10T12:09:04.795833"
+                },
+                {
+                    "originalText": "ぶどう",
+                    "word": {
+                        "text": "葡萄",
+                        "kana": "ぶどう",
+                        "kanjis": [
+                            {
+                                "text": "葡",
+                                "furigana": "ぶ",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "萄",
+                                "furigana": "どう",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "ぶ",
+                            "どう"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "grape"
+                    ],
+                    "jishoDefinitions": [
+                        "葡萄，葡萄藤",
+                        "他們會"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "私は葡萄や桃のような果物が好きだ。",
+                            "translated": "I like such fruits as grapes and peaches."
+                        },
+                        {
+                            "jp": "ブドウは房になってできる。",
+                            "translated": "Grapes grow in bunches."
+                        },
+                        {
+                            "jp": "ブドウはワインになります。",
+                            "translated": "Grapes are made into wine."
+                        }
+                    ],
+                    "createTime": "2021-06-10T12:09:05.795833"
+                },
+                {
+                    "originalText": "梨",
+                    "word": {
+                        "text": "梨",
+                        "kana": "なし",
+                        "kanjis": [
+                            {
+                                "text": "梨",
+                                "furigana": "なし",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "なし"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "Japanese pear"
+                    ],
+                    "jishoDefinitions": [
+                        "nashi (Pyrus pyrifolia, esp. var. culta)，日本梨"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-06-10T12:09:06.795833"
+                },
+                {
+                    "originalText": "ライチ",
+                    "word": {
+                        "text": "ライチ",
+                        "kana": "ライチ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "litchi"
+                    ],
+                    "jishoDefinitions": [
+                        "荔枝（Nephelium litchi），荔枝"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-06-10T12:09:07.795833"
+                },
+                {
+                    "originalText": "みかん",
+                    "word": {
+                        "text": "みかん",
+                        "kana": "みかん",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "orange"
+                    ],
+                    "jishoDefinitions": [
+                        "橘子（尤其是蜜柑（Citrus unshiu））、橘子",
+                        "柑橘（柑橘屬）"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "そのみかんは中が腐っているようだ。",
+                            "translated": "The orange appears rotten inside."
+                        },
+                        {
+                            "jp": "このみかんは食べ頃だ。",
+                            "translated": "These oranges are good to eat."
+                        }
+                    ],
+                    "createTime": "2021-06-10T12:09:08.795833"
+                },
+                {
+                    "originalText": "クランベリー",
+                    "word": {
+                        "text": "クランベリー",
+                        "kana": "クランベリー",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 4,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "cranberry"
+                    ],
+                    "jishoDefinitions": [
+                        "酸果蔓"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-06-10T12:09:09.795833"
+                },
+                {
+                    "originalText": "スイカ",
+                    "word": {
+                        "text": "スイカ",
+                        "kana": "スイカ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "watermelon"
+                    ],
+                    "jishoDefinitions": [
+                        "西瓜（Citrullus lanatus）"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "スイカは今が出盛りだ。",
+                            "translated": "Watermelons are in season now."
+                        },
+                        {
+                            "jp": "こんな大きなスイカは見たことがない。",
+                            "translated": "I've never seen such a giant watermelon!"
+                        },
+                        {
+                            "jp": "私はスイカを食べるのが好きです。",
+                            "translated": "I like to eat watermelon."
+                        }
+                    ],
+                    "createTime": "2021-06-10T12:09:10.795833"
+                },
+                {
+                    "originalText": "アボカド",
+                    "word": {
+                        "text": "アボカド",
+                        "kana": "アボカド",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "avocado"
+                    ],
+                    "jishoDefinitions": [
+                        "鱷梨（美洲鱷梨）"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-06-10T12:09:11.795833"
+                },
+                {
+                    "originalText": "柿",
+                    "word": {
+                        "text": "柿",
+                        "kana": "かき",
+                        "kanjis": [
+                            {
+                                "text": "柿",
+                                "furigana": "かき",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "かき"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "Japanese persimmon"
+                    ],
+                    "jishoDefinitions": [
+                        "柿子，日本柿子（Diospyros kaki）"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "となりの客はよく柿食う客だ。",
+                            "translated": "The next-door neighbour's guest is a guest who eats lots of persimmons."
+                        }
+                    ],
+                    "createTime": "2021-06-10T12:09:12.795833"
+                },
+                {
+                    "originalText": "オレンジ",
+                    "word": {
+                        "text": "オレンジ",
+                        "kana": "オレンジ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 2,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "orange"
+                    ],
+                    "jishoDefinitions": [
+                        "橙色（水果，顏色）",
+                        "橙子"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "緑が最も多くオレンジを食べた。",
+                            "translated": "Midori ate the most oranges."
+                        },
+                        {
+                            "jp": "林檎とオレンジとどちらが好きですか。",
+                            "translated": "Which do you like better, apples or oranges?"
+                        },
+                        {
+                            "jp": "彼女はオレンジが好きですか。",
+                            "translated": "Does she like oranges?"
+                        }
+                    ],
+                    "createTime": "2021-06-10T12:09:13.795833"
+                },
+                {
+                    "originalText": "キウイ",
+                    "word": {
+                        "text": "キウイ",
+                        "kana": "キウイ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "kiwi"
+                    ],
+                    "jishoDefinitions": [
+                        "獼猴桃（Apteryx spp.）",
+                        "獼猴桃（獼猴桃好吃）"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "トムはキウイを食わず嫌いしている。",
+                            "translated": "Even though Tom has never even tried eating one, he says he doesn't like kiwifruit."
+                        }
+                    ],
+                    "createTime": "2021-06-10T12:09:14.795833"
+                },
+                {
+                    "originalText": "パパイヤ",
+                    "word": {
+                        "text": "パパイヤ",
+                        "kana": "パパイヤ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "papaya"
+                    ],
+                    "jishoDefinitions": [
+                        "木瓜（Carica papaya），木瓜"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-06-10T12:09:15.795833"
+                },
+                {
+                    "originalText": "パッションフルーツ",
+                    "word": {
+                        "text": "パッションフルーツ",
+                        "kana": "パッションフルーツ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 6,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "passionfruit"
+                    ],
+                    "jishoDefinitions": [
+                        "西番蓮（Passiflora edulis）"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-06-10T12:09:16.795833"
+                },
+                {
+                    "originalText": "パイナップル",
+                    "word": {
+                        "text": "パイナップル",
+                        "kana": "パイナップル",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 3,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "pineapple"
+                    ],
+                    "jishoDefinitions": [
+                        "菠蘿（Ananas comosus）"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "一番大きいパイナップルをください。",
+                            "translated": "Please, give me the biggest pineapple."
+                        },
+                        {
+                            "jp": "パイナップルシャーベットを食べます。",
+                            "translated": "I eat pineapple sherbert."
+                        }
+                    ],
+                    "createTime": "2021-06-10T12:09:17.795833"
+                }
+            ]
+        },
+        {
+            "id": "9004d137-c9a1-11eb-afd7-b46bfc8f52a9",
+            "createTime": "2021-06-10T12:08:50.808453",
+            "lastModifiedTime": "2021-06-10T12:08:50.808453",
+            "title": "Japanese Foods",
+            "tags": [
+                "Foods",
+                "Easy"
+            ],
+            "price": {
+                "isFree": false,
+                "discount": 1.0,
+                "prices": {
+                    "Coin": 50
+                }
+            },
+            "numFlashcards": 30,
+            "flashcards": [
+                {
+                    "originalText": "茶碗蒸し",
+                    "word": {
+                        "text": "茶碗蒸し",
+                        "kana": "ちゃわんむし",
+                        "kanjis": [
+                            {
+                                "text": "茶",
+                                "furigana": "ちゃ",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "碗",
+                                "furigana": "わん",
+                                "index": 1,
+                                "length": 1
+                            },
+                            {
+                                "text": "蒸",
+                                "furigana": "む",
+                                "index": 2,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "ちゃ",
+                            "わん",
+                            "む",
+                            ""
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "chawanmushi, savoury steamed egg"
+                    ],
+                    "jishoDefinitions": [
+                        "chawanmushi, savoury steamed egg custard with chicken, mushrooms, etc. (savory)"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-06-10T12:08:50.807457"
+                },
+                {
+                    "originalText": "卵焼き",
+                    "word": {
+                        "text": "卵焼き",
+                        "kana": "たまごやき",
+                        "kanjis": [
+                            {
+                                "text": "卵",
+                                "furigana": "たまご",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "焼",
+                                "furigana": "や",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "たまご",
+                            "や",
+                            ""
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "rolled egg"
+                    ],
+                    "jishoDefinitions": [
+                        "rolled egg, rolled omelette (omelet)",
+                        "fried egg"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-06-10T12:08:51.807457"
+                },
+                {
+                    "originalText": "しゃぶしゃぶ",
+                    "word": {
+                        "text": "しゃぶしゃぶ",
+                        "kana": "しゃぶしゃぶ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "shabu-shabu, thinly sliced meat boiled quickly with vegetables"
+                    ],
+                    "jishoDefinitions": [
+                        "shabu-shabu, thinly sliced meat boiled quickly with vegetables, and dipped in sauce"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-06-10T12:08:52.807457"
+                },
+                {
+                    "originalText": "おでん",
+                    "word": {
+                        "text": "おでん",
+                        "kana": "おでん",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 2,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "oden, dish of various ingredients stewed in soy-flavored dashi"
+                    ],
+                    "jishoDefinitions": [
+                        "oden, dish of various ingredients, e.g. egg, daikon, potato, chikuwa, konnyaku, etc. stewed in soy-flavored dashi"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "冷たいおでんも、なかなかいけるね。",
+                            "translated": "Even cold oden are pretty good."
+                        }
+                    ],
+                    "createTime": "2021-06-10T12:08:53.807457"
+                },
+                {
+                    "originalText": "天ぷら",
+                    "word": {
+                        "text": "天ぷら",
+                        "kana": "てんぷら",
+                        "kanjis": [
+                            {
+                                "text": "天",
+                                "furigana": "てん",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "てん",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "tempura, deep-fried fish and vegetables"
+                    ],
+                    "jishoDefinitions": [
+                        "tempura, deep-fried fish and vegetables in a light batter"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "私達はその時天ぷらを作っていました。",
+                            "translated": "We were cooking tempura at that time."
+                        },
+                        {
+                            "jp": "あなたは寿司と天ぷら、どっちが好き。",
+                            "translated": "Which do you like better, sushi or tempura?"
+                        },
+                        {
+                            "jp": "天ぷらの作りかたを本で読みました。",
+                            "translated": "I read about how to make tempura in a book."
+                        }
+                    ],
+                    "createTime": "2021-06-10T12:08:54.807457"
+                },
+                {
+                    "originalText": "たこ焼き",
+                    "word": {
+                        "text": "たこ焼き",
+                        "kana": "たこやき",
+                        "kanjis": [
+                            {
+                                "text": "焼",
+                                "furigana": "や",
+                                "index": 2,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "",
+                            "",
+                            "や",
+                            ""
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "takoyaki, octopus dumplings"
+                    ],
+                    "jishoDefinitions": [
+                        "takoyaki, octopus dumplings"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-06-10T12:08:55.807457"
+                },
+                {
+                    "originalText": "照焼き",
+                    "word": {
+                        "text": "照り焼き",
+                        "kana": "てりやき",
+                        "kanjis": [
+                            {
+                                "text": "照",
+                                "furigana": "て",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "焼",
+                                "furigana": "や",
+                                "index": 2,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "て",
+                            "",
+                            "や",
+                            ""
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "teriyaki"
+                    ],
+                    "jishoDefinitions": [
+                        "teriyaki (meat or fish marinated in sweet soy sauce and broiled)"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-06-10T12:08:56.807457"
+                },
+                {
+                    "originalText": "すき焼き",
+                    "word": {
+                        "text": "すき焼き",
+                        "kana": "すきやき",
+                        "kanjis": [
+                            {
+                                "text": "焼",
+                                "furigana": "や",
+                                "index": 2,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "",
+                            "",
+                            "や",
+                            ""
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "sukiyaki, thin slices of beef, cooked with various vegetables in an iron pan"
+                    ],
+                    "jishoDefinitions": [
+                        "sukiyaki, thin slices of beef, cooked with various vegetables in a table-top cast-iron pan"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-06-10T12:08:57.807457"
+                },
+                {
+                    "originalText": "お弁当",
+                    "word": {
+                        "text": "お弁当",
+                        "kana": "おべんとう",
+                        "kanjis": [
+                            {
+                                "text": "弁",
+                                "furigana": "べん",
+                                "index": 1,
+                                "length": 1
+                            },
+                            {
+                                "text": "当",
+                                "furigana": "とう",
+                                "index": 2,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "",
+                            "べん",
+                            "とう"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "bento, Japanese box lunch"
+                    ],
+                    "jishoDefinitions": [
+                        "bento, Japanese box lunch"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "彼は今日、お弁当を持って来た。",
+                            "translated": "He brought his lunch today."
+                        },
+                        {
+                            "jp": "公園でお弁当を食べませんか。",
+                            "translated": "How about having our lunch in the park?"
+                        },
+                        {
+                            "jp": "彼女は今日、お弁当を持って来た。",
+                            "translated": "She brought his lunch today."
+                        }
+                    ],
+                    "createTime": "2021-06-10T12:08:58.807457"
+                },
+                {
+                    "originalText": "天丼",
+                    "word": {
+                        "text": "天丼",
+                        "kana": "てんどん",
+                        "kanjis": [
+                            {
+                                "text": "天",
+                                "furigana": "てん",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "丼",
+                                "furigana": "どん",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "てん",
+                            "どん"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "tempura served over a bowl of rice"
+                    ],
+                    "jishoDefinitions": [
+                        "tempura served over a bowl of rice",
+                        "(in comedy) repeating the same gag or silly line"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-06-10T12:08:59.807457"
+                },
+                {
+                    "originalText": "刺し身",
+                    "word": {
+                        "text": "刺身",
+                        "kana": "さしみ",
+                        "kanjis": [
+                            {
+                                "text": "刺",
+                                "furigana": "さし",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "身",
+                                "furigana": "み",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "さし",
+                            "み"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 3,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "sashimi, raw sliced fish"
+                    ],
+                    "jishoDefinitions": [
+                        "sashimi (raw sliced fish, shellfish or crustaceans)"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "私は日本に来て初めて刺身を食べた。",
+                            "translated": "It was not until I came to Japan that I ate sashimi."
+                        },
+                        {
+                            "jp": "刺身もこう毎日だと飽きるな。",
+                            "translated": "If you eat it every day like this, then you become tired even of sashimi."
+                        },
+                        {
+                            "jp": "私は刺身が大嫌いです。",
+                            "translated": "I can't stand raw fish."
+                        }
+                    ],
+                    "createTime": "2021-06-10T12:09:00.807457"
+                },
+                {
+                    "originalText": "うな重",
+                    "word": {
+                        "text": "鰻重",
+                        "kana": "うなじゅう",
+                        "kanjis": [
+                            {
+                                "text": "鰻",
+                                "furigana": "うな",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "重",
+                                "furigana": "じゅう",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "うな",
+                            "じゅう"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 2,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "broiled eel served over rice"
+                    ],
+                    "jishoDefinitions": [
+                        "broiled eel served over rice in a lacquered box, broiled eel and rice served in two separate stacked boxes, with eel in top box and rice in bottom box"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-06-10T12:09:01.807457"
+                },
+                {
+                    "originalText": "懐石料理",
+                    "word": {
+                        "text": "懐石料理",
+                        "kana": "かいせきりょうり",
+                        "kanjis": [
+                            {
+                                "text": "懐",
+                                "furigana": "かい",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "石",
+                                "furigana": "せき",
+                                "index": 1,
+                                "length": 1
+                            },
+                            {
+                                "text": "料",
+                                "furigana": "りょう",
+                                "index": 2,
+                                "length": 1
+                            },
+                            {
+                                "text": "理",
+                                "furigana": "り",
+                                "index": 3,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "かい",
+                            "せき",
+                            "りょう",
+                            "り"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 5,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "traditional Japanese meal brought in courses"
+                    ],
+                    "jishoDefinitions": [
+                        "traditional Japanese meal brought in courses",
+                        "tea-ceremony dishes"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-06-10T12:09:02.807457"
+                },
+                {
+                    "originalText": "お握り",
+                    "word": {
+                        "text": "おにぎり",
+                        "kana": "おにぎり",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 2,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "onigiri, rice ball"
+                    ],
+                    "jishoDefinitions": [
+                        "onigiri, rice ball (often triangular, sometimes with a filling and wrapped in nori)"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-06-10T12:09:03.807457"
+                },
+                {
+                    "originalText": "味噌汁",
+                    "word": {
+                        "text": "味噌汁",
+                        "kana": "みそしる",
+                        "kanjis": [
+                            {
+                                "text": "味",
+                                "furigana": "み",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "噌",
+                                "furigana": "そ",
+                                "index": 1,
+                                "length": 1
+                            },
+                            {
+                                "text": "汁",
+                                "furigana": "しる",
+                                "index": 2,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "み",
+                            "そ",
+                            "しる"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 3,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "miso soup"
+                    ],
+                    "jishoDefinitions": [
+                        "miso soup"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "この味噌汁は熱くて飲めない。",
+                            "translated": "This miso soup is too hot to drink."
+                        },
+                        {
+                            "jp": "ご飯に味噌汁と納豆です。",
+                            "translated": "I'll have rice, miso soup and natto."
+                        },
+                        {
+                            "jp": "好きな味噌汁の具は何ですか？",
+                            "translated": "What are your favorite ingredients to put into Miso soup?"
+                        }
+                    ],
+                    "createTime": "2021-06-10T12:09:04.807457"
+                },
+                {
+                    "originalText": "親子丼",
+                    "word": {
+                        "text": "親子丼",
+                        "kana": "おやこどん",
+                        "kanjis": [
+                            {
+                                "text": "親",
+                                "furigana": "おや",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "子",
+                                "furigana": "こ",
+                                "index": 1,
+                                "length": 1
+                            },
+                            {
+                                "text": "丼",
+                                "furigana": "どん",
+                                "index": 2,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "おや",
+                            "こ",
+                            "どん"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "oyakodon, chicken and egg on rice"
+                    ],
+                    "jishoDefinitions": [
+                        "oyakodon, chicken and egg on rice",
+                        "threesome including a mother and her daughter"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-06-10T12:09:05.807457"
+                },
+                {
+                    "originalText": "牛丼",
+                    "word": {
+                        "text": "牛丼",
+                        "kana": "ぎゅうどん",
+                        "kanjis": [
+                            {
+                                "text": "牛",
+                                "furigana": "ぎゅう",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "丼",
+                                "furigana": "どん",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "ぎゅう",
+                            "どん"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "gyudon, rice covered with sliced beef"
+                    ],
+                    "jishoDefinitions": [
+                        "gyudon, rice covered with sliced beef, usu. with vegetables"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-06-10T12:09:06.807457"
+                },
+                {
+                    "originalText": "ラーメン",
+                    "word": {
+                        "text": "ラーメン",
+                        "kana": "ラーメン",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "ramen, Chinese-style noodles"
+                    ],
+                    "jishoDefinitions": [
+                        "ramen, Chinese-style noodles"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "私はラーメンを食べます。",
+                            "translated": "I am eating noodles."
+                        },
+                        {
+                            "jp": "ラーメン食べたい。",
+                            "translated": "I want to eat Chinese noodles."
+                        }
+                    ],
+                    "createTime": "2021-06-10T12:09:07.807457"
+                },
+                {
+                    "originalText": "定食",
+                    "word": {
+                        "text": "定食",
+                        "kana": "ていしょく",
+                        "kanjis": [
+                            {
+                                "text": "定",
+                                "furigana": "てい",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "食",
+                                "furigana": "しょく",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "てい",
+                            "しょく"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "set meal"
+                    ],
+                    "jishoDefinitions": [
+                        "set meal, special (of the day)"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "彼は焼き魚定食一人前を注文した。",
+                            "translated": "He ordered one grilled fish dinner."
+                        },
+                        {
+                            "jp": "日替わり定食にしませんか。",
+                            "translated": "How about getting the special of the day?"
+                        }
+                    ],
+                    "createTime": "2021-06-10T12:09:08.807457"
+                },
+                {
+                    "originalText": "蕎麦",
+                    "word": {
+                        "text": "蕎麦",
+                        "kana": "そば",
+                        "kanjis": [
+                            {
+                                "text": "蕎",
+                                "furigana": "そ",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "麦",
+                                "furigana": "ば",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "そ",
+                            "ば"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "buckwheat (Fagopyrum esculentum)",
+                        "soba, Japanese buckwheat noodles"
+                    ],
+                    "jishoDefinitions": [
+                        "buckwheat (Fagopyrum esculentum)",
+                        "soba, Japanese buckwheat noodles"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "すぐそこでそばを立ち食いしてきた。",
+                            "translated": "I had a bowl of noodles at a street nearby."
+                        }
+                    ],
+                    "createTime": "2021-06-10T12:09:09.807457"
+                },
+                {
+                    "originalText": "うどん",
+                    "word": {
+                        "text": "うどん",
+                        "kana": "うどん",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "udon, thick Japanese wheat noodles"
+                    ],
+                    "jishoDefinitions": [
+                        "udon, thick Japanese wheat noodles"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "うどんでも食べませんか？",
+                            "translated": "Would you like to eat some udon?"
+                        }
+                    ],
+                    "createTime": "2021-06-10T12:09:10.807457"
+                },
+                {
+                    "originalText": "餃子",
+                    "word": {
+                        "text": "ギョーザ",
+                        "kana": "ギョーザ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "gyoza, pot sticker"
+                    ],
+                    "jishoDefinitions": [
+                        "gyoza, pot sticker"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-06-10T12:09:11.807457"
+                },
+                {
+                    "originalText": "お菓子",
+                    "word": {
+                        "text": "お菓子",
+                        "kana": "おかし",
+                        "kanjis": [
+                            {
+                                "text": "菓",
+                                "furigana": "か",
+                                "index": 1,
+                                "length": 1
+                            },
+                            {
+                                "text": "子",
+                                "furigana": "し",
+                                "index": 2,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "",
+                            "か",
+                            "し"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 2,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "confections, sweets"
+                    ],
+                    "jishoDefinitions": [
+                        "confections, sweets"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "このお菓子をご自由におとり下さい。",
+                            "translated": "Help yourself to these cakes."
+                        },
+                        {
+                            "jp": "自由にお菓子をお取りください。",
+                            "translated": "Please help yourself to the cake."
+                        },
+                        {
+                            "jp": "どうぞ、お菓子を自由にお取り下さい。",
+                            "translated": "Help yourself to the cake, please."
+                        }
+                    ],
+                    "createTime": "2021-06-10T12:09:12.807457"
+                },
+                {
+                    "originalText": "カレーライス",
+                    "word": {
+                        "text": "カレーライス",
+                        "kana": "カレーライス",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 4,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "curry rice"
+                    ],
+                    "jishoDefinitions": [
+                        "rice and curry, curry rice"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-06-10T12:09:13.807457"
+                },
+                {
+                    "originalText": "コロッケ",
+                    "word": {
+                        "text": "コロッケ",
+                        "kana": "コロッケ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "croquette"
+                    ],
+                    "jishoDefinitions": [
+                        "croquette"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-06-10T12:09:14.807457"
+                },
+                {
+                    "originalText": "カツどん",
+                    "word": {
+                        "text": "カツ丼",
+                        "kana": "カツどん",
+                        "kanjis": [
+                            {
+                                "text": "丼",
+                                "furigana": "どん",
+                                "index": 2,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "",
+                            "",
+                            "どん"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "katsudon, pork cutlet served on top of a bowl of rice"
+                    ],
+                    "jishoDefinitions": [
+                        "katsudon, pork cutlet served on top of a bowl of rice"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-06-10T12:09:15.807457"
+                },
+                {
+                    "originalText": "オムライス",
+                    "word": {
+                        "text": "オムライス",
+                        "kana": "オムライス",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 3,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "omurice, fried rice wrapped in omelette"
+                    ],
+                    "jishoDefinitions": [
+                        "omurice, fried rice wrapped in or topped with omelette"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "オムライスを食べた。",
+                            "translated": "I ate a Japanese rice omelette."
+                        }
+                    ],
+                    "createTime": "2021-06-10T12:09:16.807457"
+                },
+                {
+                    "originalText": "唐揚げ",
+                    "word": {
+                        "text": "唐揚げ",
+                        "kana": "からあげ",
+                        "kanjis": [
+                            {
+                                "text": "唐",
+                                "furigana": "から",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "揚",
+                                "furigana": "あ",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "から",
+                            "あ",
+                            ""
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "deep-fried chicken"
+                    ],
+                    "jishoDefinitions": [
+                        "deep-fried food (esp. chicken)"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-06-10T12:09:17.807457"
+                },
+                {
+                    "originalText": "寿司",
+                    "word": {
+                        "text": "寿司",
+                        "kana": "すし",
+                        "kanjis": [
+                            {
+                                "text": "寿",
+                                "furigana": "す",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "司",
+                                "furigana": "し",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "す",
+                            "し"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 2,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "sushi, anything made with vinegared rice"
+                    ],
+                    "jishoDefinitions": [
+                        "sushi, anything made with vinegared rice (may also contain vegetables, spices, fish, or other delicacies)"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "寿司はおいしいです。",
+                            "translated": "Sushi is delicious."
+                        },
+                        {
+                            "jp": "彼女は寿司が好きではありません。",
+                            "translated": "She does not like sushi."
+                        },
+                        {
+                            "jp": "このすしはわさびがよく効いている。",
+                            "translated": "This sushi is seasoned with plenty of horse-radish."
+                        }
+                    ],
+                    "createTime": "2021-06-10T12:09:18.807457"
+                },
+                {
+                    "originalText": "お好み焼き",
+                    "word": {
+                        "text": "お好み焼き",
+                        "kana": "おこのみやき",
+                        "kanjis": [
+                            {
+                                "text": "好",
+                                "furigana": "この",
+                                "index": 1,
+                                "length": 1
+                            },
+                            {
+                                "text": "焼",
+                                "furigana": "や",
+                                "index": 3,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "",
+                            "この",
+                            "",
+                            "や",
+                            ""
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "okonomiyaki, savoury pancake containing meat and vegetables"
+                    ],
+                    "jishoDefinitions": [
+                        "okonomiyaki, savoury pancake containing meat or seafood and vegetables"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "きのう、お好み焼きを料理しました。",
+                            "translated": "Yesterday, I cooked Okonomiyaki."
+                        },
+                        {
+                            "jp": "お好み焼きはとても美味しかったです。",
+                            "translated": "The Okonomiyaki was very delicious."
+                        },
+                        {
+                            "jp": "日本でお好み焼きよく食べました。",
+                            "translated": "In Japan, I often ate okonomiyaki."
+                        }
+                    ],
+                    "createTime": "2021-06-10T12:09:19.807457"
+                }
+            ]
+        },
+        {
+            "id": "9004d138-c9a1-11eb-a8fc-b46bfc8f52a9",
+            "createTime": "2021-06-10T12:08:50.808453",
+            "lastModifiedTime": "2021-06-10T12:08:50.808453",
+            "title": "Vegetables",
+            "tags": [
+                "Foods",
+                "Intermediate"
+            ],
+            "price": {
+                "isFree": false,
+                "discount": 1.0,
+                "prices": {
+                    "Coin": 50
+                }
+            },
+            "numFlashcards": 28,
+            "flashcards": [
+                {
+                    "originalText": "ハンバーグ",
+                    "word": {
+                        "text": "ハンバーグ",
+                        "kana": "ハンバーグ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 3,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "hamburger steak"
+                    ],
+                    "jishoDefinitions": [
+                        "漢堡牛排、漢堡牛排"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "ハンバーグ作りすぎちゃった。",
+                            "translated": "I made too many hamburger steaks."
+                        }
+                    ],
+                    "createTime": "2021-06-10T12:08:50.808453"
+                },
+                {
+                    "originalText": "ささみ",
+                    "word": {
+                        "text": "ささみ",
+                        "kana": "ささみ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "chicken tender"
+                    ],
+                    "jishoDefinitions": [
+                        "雞肉嫩，雞里脊肉"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-06-10T12:08:51.808453"
+                },
+                {
+                    "originalText": "マトン",
+                    "word": {
+                        "text": "マトン",
+                        "kana": "マトン",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "mutton"
+                    ],
+                    "jishoDefinitions": [
+                        "羊肉"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-06-10T12:08:52.808453"
+                },
+                {
+                    "originalText": "ハム",
+                    "word": {
+                        "text": "ハム",
+                        "kana": "ハム",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "ham"
+                    ],
+                    "jishoDefinitions": [
+                        "炸蝦，炸蝦"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-06-10T12:08:53.808453"
+                },
+                {
+                    "originalText": "七面鳥",
+                    "word": {
+                        "text": "七面鳥",
+                        "kana": "しちめんちょう",
+                        "kanjis": [
+                            {
+                                "text": "七",
+                                "furigana": "しち",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "面",
+                                "furigana": "めん",
+                                "index": 1,
+                                "length": 1
+                            },
+                            {
+                                "text": "鳥",
+                                "furigana": "ちょう",
+                                "index": 2,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "しち",
+                            "めん",
+                            "ちょう"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "turkey"
+                    ],
+                    "jishoDefinitions": [
+                        "火雞（Meleagris gallopavo）"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-06-10T12:08:54.808453"
+                },
+                {
+                    "originalText": "ベーコン",
+                    "word": {
+                        "text": "ベーコン",
+                        "kana": "ベーコン",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "bacon"
+                    ],
+                    "jishoDefinitions": [
+                        "培根"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "ベーコンかソーセージはいかがか。",
+                            "translated": "Would you like bacon or sausage?"
+                        },
+                        {
+                            "jp": "ベーコンの匂いがしたと思いました。",
+                            "translated": "I thought I smelled bacon."
+                        }
+                    ],
+                    "createTime": "2021-06-10T12:08:55.808453"
+                },
+                {
+                    "originalText": "ビーフジャーキー",
+                    "word": {
+                        "text": "ビーフジャーキー",
+                        "kana": "ビーフジャーキー",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 4,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "beef jerky"
+                    ],
+                    "jishoDefinitions": [
+                        "牛肉乾"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-06-10T12:08:56.808453"
+                },
+                {
+                    "originalText": "合い挽き肉",
+                    "word": {
+                        "text": "合い挽き肉",
+                        "kana": "あいびきにく",
+                        "kanjis": [
+                            {
+                                "text": "合",
+                                "furigana": "あ",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "挽",
+                                "furigana": "び",
+                                "index": 2,
+                                "length": 1
+                            },
+                            {
+                                "text": "肉",
+                                "furigana": "にく",
+                                "index": 4,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "あ",
+                            "",
+                            "び",
+                            "",
+                            "にく"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 5,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "ground meat"
+                    ],
+                    "jishoDefinitions": [
+                        "炸蝦，炸蝦"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-06-10T12:08:57.808453"
+                },
+                {
+                    "originalText": "ビーフシチュー",
+                    "word": {
+                        "text": "ビーフシチュー",
+                        "kana": "ビーフシチュー",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 4,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "beef stew"
+                    ],
+                    "jishoDefinitions": [
+                        "燉牛肉"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "ビーフシチューはいかがですか。",
+                            "translated": "How do you like your beef stew?"
+                        }
+                    ],
+                    "createTime": "2021-06-10T12:08:58.808453"
+                },
+                {
+                    "originalText": "サーロイン",
+                    "word": {
+                        "text": "サーロイン",
+                        "kana": "サーロイン",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 3,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "sirloin"
+                    ],
+                    "jishoDefinitions": [
+                        "牛腩"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-06-10T12:08:59.808453"
+                },
+                {
+                    "originalText": "豚肉",
+                    "word": {
+                        "text": "豚肉",
+                        "kana": "ぶたにく",
+                        "kanjis": [
+                            {
+                                "text": "豚",
+                                "furigana": "ぶた",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "肉",
+                                "furigana": "にく",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "ぶた",
+                            "にく"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "pork"
+                    ],
+                    "jishoDefinitions": [
+                        "豬肉"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "この豚肉は少しいたんでいる。",
+                            "translated": "This pork is a bit off."
+                        },
+                        {
+                            "jp": "この豚肉は１キロいくらですか。",
+                            "translated": "How much is this pork a kilo?"
+                        }
+                    ],
+                    "createTime": "2021-06-10T12:09:00.808453"
+                },
+                {
+                    "originalText": "牛カルビ",
+                    "word": {
+                        "text": "牛カルビ",
+                        "kana": "ぎゅうカルビ",
+                        "kanjis": [
+                            {
+                                "text": "牛",
+                                "furigana": "ぎゅう",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "ぎゅう",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 2,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "beaf brisket"
+                    ],
+                    "jishoDefinitions": [
+                        "炸蝦，炸蝦"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-06-10T12:09:01.808453"
+                },
+                {
+                    "originalText": "ソーセージ",
+                    "word": {
+                        "text": "ソーセージ",
+                        "kana": "ソーセージ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 3,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "sausage"
+                    ],
+                    "jishoDefinitions": [
+                        "香腸"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-06-10T12:09:02.808453"
+                },
+                {
+                    "originalText": "砂肝",
+                    "word": {
+                        "text": "砂肝",
+                        "kana": "すなぎも",
+                        "kanjis": [
+                            {
+                                "text": "砂",
+                                "furigana": "すな",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "肝",
+                                "furigana": "ぎも",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "すな",
+                            "ぎも"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 3,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "gizzard"
+                    ],
+                    "jishoDefinitions": [
+                        "肫"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-06-10T12:09:03.808453"
+                },
+                {
+                    "originalText": "鶏皮",
+                    "word": {
+                        "text": "鶏皮",
+                        "kana": "とりかわ",
+                        "kanjis": [
+                            {
+                                "text": "鶏",
+                                "furigana": "とり",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "皮",
+                                "furigana": "かわ",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "とり",
+                            "かわ"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "雞皮"
+                    ],
+                    "jishoDefinitions": [
+                        "炸蝦，炸蝦"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-06-10T12:09:04.808453"
+                },
+                {
+                    "originalText": "チキンナゲット",
+                    "word": {
+                        "text": "チキンナゲット",
+                        "kana": "チキンナゲット",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 4,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "chicken nugget"
+                    ],
+                    "jishoDefinitions": [
+                        "炸雞肉塊"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-06-10T12:09:05.808453"
+                },
+                {
+                    "originalText": "豚足",
+                    "word": {
+                        "text": "豚足",
+                        "kana": "とんそく",
+                        "kanjis": [
+                            {
+                                "text": "豚",
+                                "furigana": "とん",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "足",
+                                "furigana": "そく",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "とん",
+                            "そく"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "pig's feet"
+                    ],
+                    "jishoDefinitions": [
+                        "豬腳"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-06-10T12:09:06.808453"
+                },
+                {
+                    "originalText": "鹿肉",
+                    "word": {
+                        "text": "鹿肉",
+                        "kana": "しかにく",
+                        "kanjis": [
+                            {
+                                "text": "鹿",
+                                "furigana": "しか",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "肉",
+                                "furigana": "にく",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "しか",
+                            "にく"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "venison"
+                    ],
+                    "jishoDefinitions": [
+                        "炸蝦，炸蝦"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-06-10T12:09:07.808453"
+                },
+                {
+                    "originalText": "牛肉",
+                    "word": {
+                        "text": "牛肉",
+                        "kana": "ぎゅうにく",
+                        "kanjis": [
+                            {
+                                "text": "牛",
+                                "furigana": "ぎゅう",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "肉",
+                                "furigana": "にく",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "ぎゅう",
+                            "にく"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "beef"
+                    ],
+                    "jishoDefinitions": [
+                        "牛肉"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "牛肉にしてください。",
+                            "translated": "Beef, please."
+                        },
+                        {
+                            "jp": "神戸は良質の牛肉で有名だ。",
+                            "translated": "Kobe is famous for its good beef."
+                        },
+                        {
+                            "jp": "この牛肉は柔らかい。",
+                            "translated": "This beef is tender."
+                        }
+                    ],
+                    "createTime": "2021-06-10T12:09:08.808453"
+                },
+                {
+                    "originalText": "牛タン",
+                    "word": {
+                        "text": "牛タン",
+                        "kana": "ぎゅうタン",
+                        "kanjis": [
+                            {
+                                "text": "牛",
+                                "furigana": "ぎゅう",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "ぎゅう",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "beef tongue"
+                    ],
+                    "jishoDefinitions": [
+                        "牛舌（仙台特產）、牛舌"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-06-10T12:09:09.808453"
+                },
+                {
+                    "originalText": "とり肉",
+                    "word": {
+                        "text": "鶏肉",
+                        "kana": "とりにく",
+                        "kanjis": [
+                            {
+                                "text": "鶏",
+                                "furigana": "とり",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "肉",
+                                "furigana": "にく",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "とり",
+                            "にく"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "chicken meat"
+                    ],
+                    "jishoDefinitions": [
+                        "雞肉",
+                        "家禽，家禽"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "鶏肉と魚ではどちらの方がすきですか。",
+                            "translated": "Which do you like better, chicken or fish?"
+                        },
+                        {
+                            "jp": "彼女は鶏肉を買った。",
+                            "translated": "She bought chicken."
+                        },
+                        {
+                            "jp": "僕は鶏肉が好きです。",
+                            "translated": "I like chicken."
+                        }
+                    ],
+                    "createTime": "2021-06-10T12:09:10.808453"
+                },
+                {
+                    "originalText": "豚のひき肉",
+                    "word": {
+                        "text": "豚のひき肉",
+                        "kana": "ぶたのひきにく",
+                        "kanjis": [
+                            {
+                                "text": "豚",
+                                "furigana": "ぶた",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "肉",
+                                "furigana": "にく",
+                                "index": 4,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "ぶた",
+                            "",
+                            "",
+                            "",
+                            "にく"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 6,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "ground pork"
+                    ],
+                    "jishoDefinitions": [
+                        "炸蝦，炸蝦"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-06-10T12:09:11.808453"
+                },
+                {
+                    "originalText": "鴨肉",
+                    "word": {
+                        "text": "鴨肉",
+                        "kana": "かもにく",
+                        "kanjis": [
+                            {
+                                "text": "鴨",
+                                "furigana": "かも",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "肉",
+                                "furigana": "にく",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "かも",
+                            "にく"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "chicken skin"
+                    ],
+                    "jishoDefinitions": [
+                        "炸蝦，炸蝦"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-06-10T12:09:12.808453"
+                },
+                {
+                    "originalText": "ステーキ",
+                    "word": {
+                        "text": "ステーキ",
+                        "kana": "ステーキ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 2,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "steak"
+                    ],
+                    "jishoDefinitions": [
+                        "牛扒"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "ステーキはレアが好きです。",
+                            "translated": "I like my steak rare."
+                        },
+                        {
+                            "jp": "僕はステーキをもっと欲しい。",
+                            "translated": "I want more of the steak."
+                        },
+                        {
+                            "jp": "ステーキは胃にもたれる。",
+                            "translated": "Steak lies heavy on the stomach."
+                        }
+                    ],
+                    "createTime": "2021-06-10T12:09:13.808453"
+                },
+                {
+                    "originalText": "手羽先",
+                    "word": {
+                        "text": "手羽先",
+                        "kana": "てばさき",
+                        "kanjis": [
+                            {
+                                "text": "手",
+                                "furigana": "て",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "羽",
+                                "furigana": "ば",
+                                "index": 1,
+                                "length": 1
+                            },
+                            {
+                                "text": "先",
+                                "furigana": "さき",
+                                "index": 2,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "て",
+                            "ば",
+                            "さき"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "chicken wing"
+                    ],
+                    "jishoDefinitions": [
+                        "(尖部)雞翅，雞翅第二段"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-06-10T12:09:14.808453"
+                },
+                {
+                    "originalText": "エビフライ",
+                    "word": {
+                        "text": "エビフライ",
+                        "kana": "エビフライ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 3,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "fried shrimp"
+                    ],
+                    "jishoDefinitions": [
+                        "炸蝦，炸蝦"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-06-10T12:09:15.808453"
+                },
+                {
+                    "originalText": "豚バラ",
+                    "word": {
+                        "text": "豚バラ",
+                        "kana": "ぶたバラ",
+                        "kanjis": [
+                            {
+                                "text": "豚",
+                                "furigana": "ぶた",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "ぶた",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 3,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "boneless pork rib"
+                    ],
+                    "jishoDefinitions": [
+                        "去骨排骨，去骨排骨"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-06-10T12:09:16.808453"
+                },
+                {
+                    "originalText": "豚レバー",
+                    "word": {
+                        "text": "豚レバー",
+                        "kana": "ぶたレバー",
+                        "kanjis": [
+                            {
+                                "text": "豚",
+                                "furigana": "ぶた",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "ぶた",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 3,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "pork liver"
+                    ],
+                    "jishoDefinitions": [
+                        "炸蝦，炸蝦"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-06-10T12:09:17.808453"
+                }
+            ]
+        },
+        {
+            "id": "9004f82b-c9a1-11eb-b6e7-b46bfc8f52a9",
+            "createTime": "2021-06-10T12:08:50.809450",
+            "lastModifiedTime": "2021-06-10T12:08:50.809450",
+            "title": "Meats",
+            "tags": [
+                "Foods",
+                "Intermediate"
+            ],
+            "price": {
+                "isFree": false,
+                "discount": 1.0,
+                "prices": {
+                    "Coin": 50
+                }
+            },
+            "numFlashcards": 30,
+            "flashcards": [
+                {
+                    "originalText": "白菜",
+                    "word": {
+                        "text": "白菜",
+                        "kana": "はくさい",
+                        "kanjis": [
+                            {
+                                "text": "白",
+                                "furigana": "はく",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "菜",
+                                "furigana": "さい",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "はく",
+                            "さい"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 3,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "napa cabbage"
+                    ],
+                    "jishoDefinitions": [
+                        "大白菜（Brassica rapa subsp. pekinensis），大白菜"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-06-10T12:08:50.809450"
+                },
+                {
+                    "originalText": "トマト",
+                    "word": {
+                        "text": "トマト",
+                        "kana": "トマト",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "tomato"
+                    ],
+                    "jishoDefinitions": [
+                        "番茄（Solanum lycopersicum）"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "彼女は庭でトマトを栽培している。",
+                            "translated": "She grows tomatoes in her garden."
+                        },
+                        {
+                            "jp": "メグはトマトの缶詰を買った。",
+                            "translated": "Meg bought a can of tomatoes."
+                        },
+                        {
+                            "jp": "トマトは１ポンド単位で売られる。",
+                            "translated": "Tomatoes are sold by the pound."
+                        }
+                    ],
+                    "createTime": "2021-06-10T12:08:51.809450"
+                },
+                {
+                    "originalText": "大根",
+                    "word": {
+                        "text": "大根",
+                        "kana": "だいこん",
+                        "kanjis": [
+                            {
+                                "text": "大",
+                                "furigana": "だい",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "根",
+                                "furigana": "こん",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "だい",
+                            "こん"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "daikon"
+                    ],
+                    "jishoDefinitions": [
+                        "daikon（大白蘿蔔品種，Raphanus sativus var. longipinnatus）",
+                        "火腿演員"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-06-10T12:08:52.809450"
+                },
+                {
+                    "originalText": "キノコ",
+                    "word": {
+                        "text": "キノコ",
+                        "kana": "キノコ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "mushroom"
+                    ],
+                    "jishoDefinitions": [
+                        "雲耳菇（Auricularia auricula-judae），木耳菇"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-06-10T12:08:53.809450"
+                },
+                {
+                    "originalText": "玉ねぎ",
+                    "word": {
+                        "text": "たまねぎ",
+                        "kana": "たまねぎ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 3,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "onion"
+                    ],
+                    "jishoDefinitions": [
+                        "洋蔥 (Allium cepa)"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "トムは玉ねぎを薄切りにした。",
+                            "translated": "Tom sliced the onion."
+                        },
+                        {
+                            "jp": "わぁ、たまねぎ味の、ベーグルだ。",
+                            "translated": "Aah, they're onion-flavoured bagels."
+                        },
+                        {
+                            "jp": "私は玉ねぎの味が嫌いだ。",
+                            "translated": "I don't like the taste of onions."
+                        }
+                    ],
+                    "createTime": "2021-06-10T12:08:54.809450"
+                },
+                {
+                    "originalText": "きくらげ",
+                    "word": {
+                        "text": "きくらげ",
+                        "kana": "きくらげ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 2,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "cloud ear mushroom"
+                    ],
+                    "jishoDefinitions": [
+                        "雲耳菇（Auricularia auricula-judae），木耳菇"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-06-10T12:08:55.809450"
+                },
+                {
+                    "originalText": "エリンギ",
+                    "word": {
+                        "text": "エリンギ",
+                        "kana": "エリンギ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "king trumpet mushroom"
+                    ],
+                    "jishoDefinitions": [
+                        "杏鮑菇 (Pleurotus eryngii), 杏鮑菇"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-06-10T12:08:56.809450"
+                },
+                {
+                    "originalText": "アスパラガス",
+                    "word": {
+                        "text": "アスパラガス",
+                        "kana": "アスパラガス",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 4,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "asparagus"
+                    ],
+                    "jishoDefinitions": [
+                        "蘆筍"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "冬でもなおアスパラガスが食べられる。",
+                            "translated": "You can still get asparagus in the winter."
+                        }
+                    ],
+                    "createTime": "2021-06-10T12:08:57.809450"
+                },
+                {
+                    "originalText": "生姜",
+                    "word": {
+                        "text": "生姜",
+                        "kana": "しょうが",
+                        "kanjis": [
+                            {
+                                "text": "生",
+                                "furigana": "しょう",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "姜",
+                                "furigana": "が",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "しょう",
+                            "が"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "ginger"
+                    ],
+                    "jishoDefinitions": [
+                        "姜 (Zingiber officinale)"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-06-10T12:08:58.809450"
+                },
+                {
+                    "originalText": "ニンニク",
+                    "word": {
+                        "text": "ニンニク",
+                        "kana": "ニンニク",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "garlic"
+                    ],
+                    "jishoDefinitions": [
+                        "雲耳菇（Auricularia auricula-judae），木耳菇"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-06-10T12:08:59.809450"
+                },
+                {
+                    "originalText": "カリフラワー",
+                    "word": {
+                        "text": "カリフラワー",
+                        "kana": "カリフラワー",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 4,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "cauliflower"
+                    ],
+                    "jishoDefinitions": [
+                        "菜花"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-06-10T12:09:00.809450"
+                },
+                {
+                    "originalText": "しめじ",
+                    "word": {
+                        "text": "しめじ",
+                        "kana": "しめじ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "shimeji mushroom"
+                    ],
+                    "jishoDefinitions": [
+                        "Lyophyllum shimeji（食用菌種）",
+                        "euagaric fungus（在雜貨店，usu。指栽培的田間蘑菇等）"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-06-10T12:09:01.809450"
+                },
+                {
+                    "originalText": "インゲン豆",
+                    "word": {
+                        "text": "いんげんまめ",
+                        "kana": "いんげんまめ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 3,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "common bean"
+                    ],
+                    "jishoDefinitions": [
+                        "菜豆 (Phaseolus vulgaris), 芸豆"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-06-10T12:09:02.809450"
+                },
+                {
+                    "originalText": "キャベツ",
+                    "word": {
+                        "text": "キャベツ",
+                        "kana": "キャベツ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "cabbage"
+                    ],
+                    "jishoDefinitions": [
+                        "捲心菜（Brassica oleracea）"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "キャベツとレタスって何が違うの？",
+                            "translated": "What's the difference between cabbage and lettuce?"
+                        },
+                        {
+                            "jp": "塩漬けキャベツを細かく切る。",
+                            "translated": "Chop the pickled cabbage finely."
+                        },
+                        {
+                            "jp": "彼は野菜、とりわけキャベツが好きだ。",
+                            "translated": "He likes vegetables, especially cabbage."
+                        }
+                    ],
+                    "createTime": "2021-06-10T12:09:03.809450"
+                },
+                {
+                    "originalText": "セロリ",
+                    "word": {
+                        "text": "セロリ",
+                        "kana": "セロリ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "celery"
+                    ],
+                    "jishoDefinitions": [
+                        "芹菜"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-06-10T12:09:04.809450"
+                },
+                {
+                    "originalText": "枝豆",
+                    "word": {
+                        "text": "枝豆",
+                        "kana": "えだまめ",
+                        "kanjis": [
+                            {
+                                "text": "枝",
+                                "furigana": "えだ",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "豆",
+                                "furigana": "まめ",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "えだ",
+                            "まめ"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "green soybeans"
+                    ],
+                    "jishoDefinitions": [
+                        "毛豆（綠豆）"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-06-10T12:09:05.809450"
+                },
+                {
+                    "originalText": "レタス",
+                    "word": {
+                        "text": "レタス",
+                        "kana": "レタス",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "lettuce"
+                    ],
+                    "jishoDefinitions": [
+                        "生菜（Lactuca sativa）"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "トムはレタスを千切りにした。",
+                            "translated": "Tom shredded the lettuce."
+                        },
+                        {
+                            "jp": "キャベツとレタスって何が違うの？",
+                            "translated": "What's the difference between cabbage and lettuce?"
+                        },
+                        {
+                            "jp": "カタツムリは私達のレタスを食べている。",
+                            "translated": "Snails have been eating our lettuces."
+                        }
+                    ],
+                    "createTime": "2021-06-10T12:09:06.809450"
+                },
+                {
+                    "originalText": "キュリー",
+                    "word": {
+                        "text": "キュリー",
+                        "kana": "キュリー",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "curie"
+                    ],
+                    "jishoDefinitions": [
+                        "居里（放射性單位）"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-06-10T12:09:07.809450"
+                },
+                {
+                    "originalText": "エノキタケ",
+                    "word": {
+                        "text": "エノキタケ",
+                        "kana": "エノキタケ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "enoki mushroom"
+                    ],
+                    "jishoDefinitions": [
+                        "金針菇（金針菇），冬菇"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-06-10T12:09:08.809450"
+                },
+                {
+                    "originalText": "松茸",
+                    "word": {
+                        "text": "松茸",
+                        "kana": "まつたけ",
+                        "kanjis": [
+                            {
+                                "text": "松",
+                                "furigana": "まつ",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "茸",
+                                "furigana": "たけ",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "まつ",
+                            "たけ"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "matsutake mushroom"
+                    ],
+                    "jishoDefinitions": [
+                        "松茸（Tricholoma matsutake）"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "今は松茸が旬でお安いですよ。",
+                            "translated": "Matsutake mushrooms are in season now so they are cheap."
+                        }
+                    ],
+                    "createTime": "2021-06-10T12:09:09.809450"
+                },
+                {
+                    "originalText": "チンゲン菜",
+                    "word": {
+                        "text": "チンゲンサイ",
+                        "kana": "チンゲンサイ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 3,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "bok choy"
+                    ],
+                    "jishoDefinitions": [
+                        "白菜（Brassica rapa subsp. chinensis，尤其是具有綠色莖的栽培品種）"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-06-10T12:09:10.809450"
+                },
+                {
+                    "originalText": "大豆",
+                    "word": {
+                        "text": "大豆",
+                        "kana": "だいず",
+                        "kanjis": [
+                            {
+                                "text": "大",
+                                "furigana": "だい",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "豆",
+                                "furigana": "ず",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "だい",
+                            "ず"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "soybean"
+                    ],
+                    "jishoDefinitions": [
+                        "大豆 (Glycine max)、大豆"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-06-10T12:09:11.809450"
+                },
+                {
+                    "originalText": "カボチャ",
+                    "word": {
+                        "text": "カボチャ",
+                        "kana": "カボチャ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "pumpkin"
+                    ],
+                    "jishoDefinitions": [
+                        "南瓜 (Cucurbita sp.), 南瓜"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "「何作ってるの？」「カボチャのスープ」",
+                            "translated": "\"What're you making?\" \"It's pumpkin soup.\""
+                        }
+                    ],
+                    "createTime": "2021-06-10T12:09:12.809450"
+                },
+                {
+                    "originalText": "ほうれん草",
+                    "word": {
+                        "text": "ほうれん草",
+                        "kana": "ほうれんそう",
+                        "kanjis": [
+                            {
+                                "text": "草",
+                                "furigana": "そう",
+                                "index": 4,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "そう"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 3,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "spinach"
+                    ],
+                    "jishoDefinitions": [
+                        "菠菜"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "ほうれん草を嫌いな人もいる。",
+                            "translated": "There are people who don't like spinach."
+                        },
+                        {
+                            "jp": "ほうれん草をのこさずにたべなさい。",
+                            "translated": "Eat up all your spinach!"
+                        },
+                        {
+                            "jp": "子供はほうれん草が嫌いなことが多い。",
+                            "translated": "Children often hate spinach."
+                        }
+                    ],
+                    "createTime": "2021-06-10T12:09:13.809450"
+                },
+                {
+                    "originalText": "椎茸",
+                    "word": {
+                        "text": "しいたけ",
+                        "kana": "しいたけ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "shiitake mushroom"
+                    ],
+                    "jishoDefinitions": [
+                        "香菇（Lentinula edodes）"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "「椎茸」はキノコの一種だ。",
+                            "translated": "A \"shiitake\" is a type of mushroom."
+                        },
+                        {
+                            "jp": "椎茸を乾燥させて保存します。",
+                            "translated": "We keep shiitake mushrooms dry."
+                        }
+                    ],
+                    "createTime": "2021-06-10T12:09:14.809450"
+                },
+                {
+                    "originalText": "ナス",
+                    "word": {
+                        "text": "茄子",
+                        "kana": "なす",
+                        "kanjis": [
+                            {
+                                "text": "茄",
+                                "furigana": "な",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "子",
+                                "furigana": "す",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "な",
+                            "す"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "eggplant"
+                    ],
+                    "jishoDefinitions": [
+                        "茄子（Solanum melongena），茄子",
+                        "那須"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-06-10T12:09:15.809450"
+                },
+                {
+                    "originalText": "さやえんどう",
+                    "word": {
+                        "text": "さやえんどう",
+                        "kana": "さやえんどう",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 3,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "peas"
+                    ],
+                    "jishoDefinitions": [
+                        "豌豆，豌豆"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-06-10T12:09:16.809450"
+                },
+                {
+                    "originalText": "人参",
+                    "word": {
+                        "text": "にんじん",
+                        "kana": "にんじん",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "carrot"
+                    ],
+                    "jishoDefinitions": [
+                        "胡蘿蔔（Daucus carota）",
+                        "亞洲人參（Panax ginseng）"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "人参はビタミンＡをたくさん含んでいる。",
+                            "translated": "Carrots contain a lot of vitamin A."
+                        },
+                        {
+                            "jp": "彼は人参が嫌いです。",
+                            "translated": "He hates carrots."
+                        },
+                        {
+                            "jp": "じゃが芋と人参とネギを入れました。",
+                            "translated": "I included onions, carrots, and potatoes."
+                        }
+                    ],
+                    "createTime": "2021-06-10T12:09:17.809450"
+                },
+                {
+                    "originalText": "ピーマン",
+                    "word": {
+                        "text": "ピーマン",
+                        "kana": "ピーマン",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "green pepper"
+                    ],
+                    "jishoDefinitions": [
+                        "青椒，青椒"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "お弁当にピーマンは入れないでね。",
+                            "translated": "Don't put bell peppers in the bento."
+                        },
+                        {
+                            "jp": "彼女はピーマンが大嫌いだ。",
+                            "translated": "She hates green peppers."
+                        },
+                        {
+                            "jp": "ピーマンは全く食べない。",
+                            "translated": "I don't eat green peppers at all."
+                        }
+                    ],
+                    "createTime": "2021-06-10T12:09:18.809450"
+                },
+                {
+                    "originalText": "サツマイモ",
+                    "word": {
+                        "text": "サツマイモ",
+                        "kana": "サツマイモ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "sweet potato"
+                    ],
+                    "jishoDefinitions": [
+                        "紅薯（Ipomoea batatas）"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-06-10T12:09:19.809450"
+                }
+            ]
+        }
+    ]
+}

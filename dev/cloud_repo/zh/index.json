@@ -1,0 +1,23 @@
+{
+    "title": "下載",
+    "value": "download",
+    "isLeaf": false,
+    "subfolders": [
+        {
+            "title": "JLPT",
+            "value": "jlpt"
+        },
+        {
+            "title": "食物",
+            "value": "foods"
+        },
+        {
+            "title": "動物",
+            "value": "animals"
+        },
+        {
+            "title": "J-pop",
+            "value": "jpop"
+        }
+    ]
+}

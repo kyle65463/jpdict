@@ -1,0 +1,1285 @@
+{
+    "title": "ヨルシカ",
+    "value": "yorusika",
+    "isLeaf": true,
+    "repos": [
+        {
+            "id": "8bc73492-c9a1-11eb-8cce-b46bfc8f52a9",
+            "createTime": "2021-06-10T12:08:43.693787",
+            "lastModifiedTime": "2021-06-10T12:08:43.693787",
+            "title": "又三郎",
+            "tags": [
+                "J-pop",
+                "ヨルシカ",
+                "簡單"
+            ],
+            "price": {
+                "isFree": false,
+                "discount": 1.0,
+                "prices": {
+                    "Coin": 50
+                }
+            },
+            "numFlashcards": 29,
+            "flashcards": [
+                {
+                    "originalText": "水溜り",
+                    "word": {
+                        "text": "水溜り",
+                        "kana": "みずたまり",
+                        "kanjis": [
+                            {
+                                "text": "水",
+                                "furigana": "みず",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "溜",
+                                "furigana": "たま",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "みず",
+                            "たま",
+                            ""
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "水坑，水窪"
+                    ],
+                    "jishoDefinitions": [
+                        "水坑，水池"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-06-10T12:08:43.693787"
+                },
+                {
+                    "originalText": "突っ込む",
+                    "word": {
+                        "text": "突っ込む",
+                        "kana": "つっこむ",
+                        "kanjis": [
+                            {
+                                "text": "突",
+                                "furigana": "つ",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "込",
+                                "furigana": "こ",
+                                "index": 2,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "つ",
+                            "",
+                            "こ",
+                            ""
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 3,
+                    "wordTypes": [
+                        "transitive verb",
+                        "group1 verb",
+                        "intransitive verb"
+                    ],
+                    "definitions": [
+                        "踩進，插入",
+                        "衝入，闖入"
+                    ],
+                    "jishoDefinitions": [
+                        "將（某物）推入（某物），塞進（某物）",
+                        "投入，投入"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "ベンは両手をポケットへつっこんだ。",
+                            "translated": "Ben把手伸進口袋裡。"
+                        },
+                        {
+                            "jp": "彼はポケットに手を突っ込んだ。",
+                            "translated": "他把手伸進口袋裡。"
+                        },
+                        {
+                            "jp": "車は木に突っ込んだ。",
+                            "translated": "汽車撞到了一棵樹上。"
+                        }
+                    ],
+                    "createTime": "2021-06-10T12:08:44.693787"
+                },
+                {
+                    "originalText": "あくび",
+                    "word": {
+                        "text": "あくび",
+                        "kana": "あくび",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "group3 verb",
+                        "intransitive verb"
+                    ],
+                    "definitions": [
+                        "哈欠"
+                    ],
+                    "jishoDefinitions": [
+                        "打哈欠打哈欠",
+                        "漢字“打哈欠”部首（部首 76）"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "聴衆は退屈してあくびをし始めた。",
+                            "translated": "由於無聊，觀眾開始打哈欠。"
+                        },
+                        {
+                            "jp": "彼を見るたびに彼はあくびをしていた。",
+                            "translated": "每次我看他，他都打哈欠。"
+                        }
+                    ],
+                    "createTime": "2021-06-10T12:08:45.693787"
+                },
+                {
+                    "originalText": "酷い",
+                    "word": {
+                        "text": "ひどい",
+                        "kana": "ひどい",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 2,
+                    "wordTypes": [
+                        "i-adjective"
+                    ],
+                    "definitions": [
+                        "劇烈的，嚴重的",
+                        "殘酷的，無情的"
+                    ],
+                    "jishoDefinitions": [
+                        "殘忍，無情",
+                        "暴力的，激烈的"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "友人がひどい怪我をしました。",
+                            "translated": "我的朋友受了重傷。"
+                        },
+                        {
+                            "jp": "嵐は作物にひどい損害を与えた。",
+                            "translated": "風暴對莊稼造成了嚴重破壞。"
+                        },
+                        {
+                            "jp": "僕はまったくひどいショックを受けた。",
+                            "translated": "這讓我非常震驚。"
+                        }
+                    ],
+                    "createTime": "2021-06-10T12:08:46.693787"
+                },
+                {
+                    "originalText": "嵐",
+                    "word": {
+                        "text": "嵐",
+                        "kana": "あらし",
+                        "kanjis": [
+                            {
+                                "text": "嵐",
+                                "furigana": "あらし",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "あらし"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "暴風雨，風暴"
+                    ],
+                    "jishoDefinitions": [
+                        "風暴，暴風雨",
+                        "喧囂，喧囂"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "嵐の日に山に登るのは危険だと思う。",
+                            "translated": "我認為在暴風雨的日子爬山很危險。"
+                        },
+                        {
+                            "jp": "嵐は作物にひどい損害を与えた。",
+                            "translated": "風暴對莊稼造成了嚴重破壞。"
+                        },
+                        {
+                            "jp": "嵐は多くの損害を引き起こした。",
+                            "translated": "風暴造成了很大的破壞。"
+                        }
+                    ],
+                    "createTime": "2021-06-10T12:08:47.693787"
+                },
+                {
+                    "originalText": "呼ぶ",
+                    "word": {
+                        "text": "呼ぶ",
+                        "kana": "よぶ",
+                        "kanjis": [
+                            {
+                                "text": "呼",
+                                "furigana": "よ",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "よ",
+                            ""
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "transitive verb",
+                        "group1 verb"
+                    ],
+                    "definitions": [
+                        "叫，喊"
+                    ],
+                    "jishoDefinitions": [
+                        "呼喚（對），呼喚",
+                        "召喚（醫生等）"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "ダメかな？下の名前で呼んじゃ。",
+                            "translated": "可以嗎？直呼你的名字？"
+                        },
+                        {
+                            "jp": "噛み合う犬は呼び難し。",
+                            "translated": "打架時你不能叫狗退場。"
+                        }
+                    ],
+                    "createTime": "2021-06-10T12:08:48.693787"
+                },
+                {
+                    "originalText": "吹き飛ばす",
+                    "word": {
+                        "text": "吹き飛ばす",
+                        "kana": "ふきとばす",
+                        "kanjis": [
+                            {
+                                "text": "吹",
+                                "furigana": "ふ",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "飛",
+                                "furigana": "と",
+                                "index": 2,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "ふ",
+                            "",
+                            "と",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "transitive verb",
+                        "group1 verb"
+                    ],
+                    "definitions": [
+                        "吹走"
+                    ],
+                    "jishoDefinitions": [
+                        "吹走，吹走",
+                        "驅散，驅散"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "彼女は昨日帽子を吹き飛ばされた。",
+                            "translated": "昨天她的帽子被吹掉了。"
+                        }
+                    ],
+                    "createTime": "2021-06-10T12:08:49.693787"
+                },
+                {
+                    "originalText": "ほど",
+                    "word": {
+                        "text": "ほど",
+                        "kana": "ほど",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun",
+                        "particle"
+                    ],
+                    "definitions": [
+                        "程度，情形"
+                    ],
+                    "jishoDefinitions": [
+                        "程度，程度",
+                        "限制，界限"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "眦が裂けるほど目を見張る。",
+                            "translated": "他睜得大大的眼睛，眼角都撕裂了。"
+                        },
+                        {
+                            "jp": "恵子は私ほど背が高くない。",
+                            "translated": "惠子沒有我高。"
+                        },
+                        {
+                            "jp": "私は人の世話を焼けるほど元気ではない。",
+                            "translated": "我不夠好，無法照顧別人。"
+                        }
+                    ],
+                    "createTime": "2021-06-10T12:08:50.693787"
+                },
+                {
+                    "originalText": "生活",
+                    "word": {
+                        "text": "生活",
+                        "kana": "せいかつ",
+                        "kanjis": [
+                            {
+                                "text": "生",
+                                "furigana": "せい",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "活",
+                                "furigana": "かつ",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "せい",
+                            "かつ"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "group3 verb",
+                        "intransitive verb"
+                    ],
+                    "definitions": [
+                        "生活"
+                    ],
+                    "jishoDefinitions": [
+                        "生活，生活（一個人的日常生活）"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "変化のない毎日の生活に飽きていた。",
+                            "translated": "我厭倦了單調的日常生活。"
+                        },
+                        {
+                            "jp": "米国では多くの民族が生活している。",
+                            "translated": "許多種族在美國生活在一起。"
+                        },
+                        {
+                            "jp": "僕は収入を越えた生活をしている。",
+                            "translated": "我過著入不敷出的生活。"
+                        }
+                    ],
+                    "createTime": "2021-06-10T12:08:51.693787"
+                },
+                {
+                    "originalText": "過ぎる",
+                    "word": {
+                        "text": "過ぎる",
+                        "kana": "すぎる",
+                        "kanjis": [
+                            {
+                                "text": "過",
+                                "furigana": "す",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "す",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 2,
+                    "wordTypes": [
+                        "intransitive verb",
+                        "group2 verb"
+                    ],
+                    "definitions": [
+                        "過，經過"
+                    ],
+                    "jishoDefinitions": [
+                        "經過，經過",
+                        "過去（時間），流逝"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "それからの日々は、飛ぶように過ぎた。",
+                            "translated": "之後的日子一晃而過。"
+                        }
+                    ],
+                    "createTime": "2021-06-10T12:08:52.693787"
+                },
+                {
+                    "originalText": "風",
+                    "word": {
+                        "text": "風",
+                        "kana": "かぜ",
+                        "kanjis": [
+                            {
+                                "text": "風",
+                                "furigana": "かぜ",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "かぜ"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "風"
+                    ],
+                    "jishoDefinitions": [
+                        "風，微風",
+                        "方式，行為"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "風がおだやかになった。",
+                            "translated": "風平靜了。"
+                        },
+                        {
+                            "jp": "冷たい風は海から吹いている。",
+                            "translated": "冷風從海上吹來。"
+                        }
+                    ],
+                    "createTime": "2021-06-10T12:08:53.693787"
+                },
+                {
+                    "originalText": "きっと",
+                    "word": {
+                        "text": "きっと",
+                        "kana": "きっと",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "adverb"
+                    ],
+                    "definitions": [
+                        "一定，必然"
+                    ],
+                    "jishoDefinitions": [
+                        "當然，毫無疑問",
+                        "嚴厲地，嚴厲地"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "明日きっと伺います。",
+                            "translated": "我明天一定會來。"
+                        },
+                        {
+                            "jp": "彼女はきっと正しいのだろう。",
+                            "translated": "她肯定是對的。"
+                        },
+                        {
+                            "jp": "彼女は最後にきっと勝つだろう。",
+                            "translated": "毫無疑問，她最終會獲勝。"
+                        }
+                    ],
+                    "createTime": "2021-06-10T12:08:54.693787"
+                },
+                {
+                    "originalText": "吹く",
+                    "word": {
+                        "text": "吹く",
+                        "kana": "ふく",
+                        "kanjis": [
+                            {
+                                "text": "吹",
+                                "furigana": "ふ",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "ふ",
+                            ""
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "transitive verb",
+                        "group1 verb",
+                        "intransitive verb"
+                    ],
+                    "definitions": [
+                        "吹"
+                    ],
+                    "jishoDefinitions": [
+                        "吹（風的）",
+                        "吹（一個人的呼吸），呼氣"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "風は帆に向かって吹く。",
+                            "translated": "風吹在船帆上。"
+                        },
+                        {
+                            "jp": "木は吹き倒された。",
+                            "translated": "樹被吹倒了。"
+                        }
+                    ],
+                    "createTime": "2021-06-10T12:08:55.693787"
+                },
+                {
+                    "originalText": "青嵐",
+                    "word": {
+                        "text": "青嵐",
+                        "kana": "あおあらし",
+                        "kanjis": [
+                            {
+                                "text": "青",
+                                "furigana": "あお",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "嵐",
+                                "furigana": "あらし",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "あお",
+                            "あらし"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "涼風，微風"
+                    ],
+                    "jishoDefinitions": [
+                        "風吹過新鮮的翠綠",
+                        "山間空氣"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-06-10T12:08:56.693787"
+                },
+                {
+                    "originalText": "言葉",
+                    "word": {
+                        "text": "言葉",
+                        "kana": "ことば",
+                        "kanjis": [
+                            {
+                                "text": "言",
+                                "furigana": "こと",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "葉",
+                                "furigana": "ば",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "こと",
+                            "ば"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 3,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "言語，話語"
+                    ],
+                    "jishoDefinitions": [
+                        "語言、方言",
+                        "詞，詞"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "理想は言葉によって表現される。",
+                            "translated": "思想是通過語言來表達的。"
+                        },
+                        {
+                            "jp": "乱暴な言葉を使ってはいけない。",
+                            "translated": "說話不要粗魯。"
+                        },
+                        {
+                            "jp": "よき言葉より、よき行いの方が勝る。",
+                            "translated": "說得好不如做得好。"
+                        }
+                    ],
+                    "createTime": "2021-06-10T12:08:57.693787"
+                },
+                {
+                    "originalText": "飛ばす",
+                    "word": {
+                        "text": "飛ばす",
+                        "kana": "とばす",
+                        "kanjis": [
+                            {
+                                "text": "飛",
+                                "furigana": "と",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "と",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "transitive verb",
+                        "group1 verb"
+                    ],
+                    "definitions": [
+                        "使飛翔"
+                    ],
+                    "jishoDefinitions": [
+                        "讓飛，讓飛",
+                        "跳過，離開"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "風で帽子を飛ばされた。",
+                            "translated": "我的帽子被風吹掉了。"
+                        }
+                    ],
+                    "createTime": "2021-06-10T12:08:58.693787"
+                },
+                {
+                    "originalText": "呑み込む",
+                    "word": {
+                        "text": "呑み込む",
+                        "kana": "のみこむ",
+                        "kanjis": [
+                            {
+                                "text": "呑",
+                                "furigana": "の",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "込",
+                                "furigana": "こ",
+                                "index": 2,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "の",
+                            "",
+                            "こ",
+                            ""
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 3,
+                    "wordTypes": [
+                        "transitive verb",
+                        "group1 verb"
+                    ],
+                    "definitions": [
+                        "吞下",
+                        "理解，掌握"
+                    ],
+                    "jishoDefinitions": [
+                        "吞下，深深地吞下",
+                        "理解，接受"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "食べ物を飲み込むとのどが痛みます。",
+                            "translated": "我吞嚥時喉嚨會痛。"
+                        },
+                        {
+                            "jp": "事の真相が彼に少しずつ飲み込めてきた。",
+                            "translated": "事情的真相正在他的腦海中浮現。"
+                        },
+                        {
+                            "jp": "こつが飲み込めましたか。",
+                            "translated": "掌握竅門了嗎？"
+                        }
+                    ],
+                    "createTime": "2021-06-10T12:08:59.693787"
+                },
+                {
+                    "originalText": "僕ら",
+                    "word": {
+                        "text": "僕ら",
+                        "kana": "ぼくら",
+                        "kanjis": [
+                            {
+                                "text": "僕",
+                                "furigana": "ぼく",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "ぼく",
+                            ""
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "pronoun"
+                    ],
+                    "definitions": [
+                        "我們"
+                    ],
+                    "jishoDefinitions": [
+                        "我們"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "僕らはいつ食事ができるのかな。",
+                            "translated": "我想知道我們什麼時候可以吃飯。"
+                        },
+                        {
+                            "jp": "僕らが勝利する見込みは十分ある。",
+                            "translated": "我們勝利的前景非常好。"
+                        }
+                    ],
+                    "createTime": "2021-06-10T12:09:00.693787"
+                },
+                {
+                    "originalText": "ぶっきら棒",
+                    "word": {
+                        "text": "ぶっきらぼう",
+                        "kana": "ぶっきらぼう",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 4,
+                    "wordTypes": [
+                        "noun",
+                        "na-adjective"
+                    ],
+                    "definitions": [
+                        "理直氣壯"
+                    ],
+                    "jishoDefinitions": [
+                        "生硬，生硬"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-06-10T12:09:01.693787"
+                },
+                {
+                    "originalText": "型",
+                    "word": {
+                        "text": "型",
+                        "kana": "かた",
+                        "kanjis": [
+                            {
+                                "text": "型",
+                                "furigana": "かた",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "かた"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 2,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "模型，模子",
+                        "姿勢，架式"
+                    ],
+                    "jishoDefinitions": [
+                        "型號、類型（例如機器、貨物等）",
+                        "類型，風格"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "私はこの型の家は好きではない。",
+                            "translated": "我不喜歡這種房子。"
+                        },
+                        {
+                            "jp": "型はいいですけど、色違いはありますか。",
+                            "translated": "款式不錯，但你有不同的顏色嗎？"
+                        },
+                        {
+                            "jp": "結婚生活の型は大いに変わりつつある。",
+                            "translated": "婚姻生活的模式正在發生很大變化。"
+                        }
+                    ],
+                    "createTime": "2021-06-10T12:09:02.693787"
+                },
+                {
+                    "originalText": "随分",
+                    "word": {
+                        "text": "随分",
+                        "kana": "ずいぶん",
+                        "kanjis": [
+                            {
+                                "text": "随",
+                                "furigana": "ずい",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "分",
+                                "furigana": "ぶん",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "ずい",
+                            "ぶん"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "adverb",
+                        "na-adjective"
+                    ],
+                    "definitions": [
+                        "非常，相當"
+                    ],
+                    "jishoDefinitions": [
+                        "非常非常",
+                        "可怕的，可怕的"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "彼は以前より随分体重が増えている。",
+                            "translated": "他比以前重了很多。"
+                        },
+                        {
+                            "jp": "彼女はこの前会った時から随分変わった。",
+                            "translated": "自從我上次見到她以來，她已經發生了很大的變化。"
+                        },
+                        {
+                            "jp": "彼はずいぶん変なやつだ。",
+                            "translated": "他真是個怪人！"
+                        }
+                    ],
+                    "createTime": "2021-06-10T12:09:03.693787"
+                },
+                {
+                    "originalText": "窮屈",
+                    "word": {
+                        "text": "窮屈",
+                        "kana": "きゅうくつ",
+                        "kanjis": [
+                            {
+                                "text": "窮",
+                                "furigana": "きゅう",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "屈",
+                                "furigana": "くつ",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "きゅう",
+                            "くつ"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "na-adjective"
+                    ],
+                    "definitions": [
+                        "不自由，拘束"
+                    ],
+                    "jishoDefinitions": [
+                        "窄，緊",
+                        "正式，僵硬"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-06-10T12:09:04.693787"
+                },
+                {
+                    "originalText": "社会",
+                    "word": {
+                        "text": "社会",
+                        "kana": "しゃかい",
+                        "kanjis": [
+                            {
+                                "text": "社",
+                                "furigana": "しゃ",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "会",
+                                "furigana": "かい",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "しゃ",
+                            "かい"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "社會"
+                    ],
+                    "jishoDefinitions": [
+                        "社會，公眾",
+                        "社會研究"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "彼は社会人としての自覚に欠ける。",
+                            "translated": "他缺乏自己是社會一員的意識。"
+                        },
+                        {
+                            "jp": "彼は社会人類学を専攻している。",
+                            "translated": "他的專業是社會人類學。"
+                        },
+                        {
+                            "jp": "法の尊重が我々の社会の基本だ。",
+                            "translated": "尊重法律是我們社會的基礎。"
+                        }
+                    ],
+                    "createTime": "2021-06-10T12:09:05.693787"
+                },
+                {
+                    "originalText": "胡桃",
+                    "word": {
+                        "text": "くるみ",
+                        "kana": "くるみ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "核桃，胡桃"
+                    ],
+                    "jishoDefinitions": [
+                        "核桃（Juglans spp.，尤其是 Juglans regia）"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "彼女のポケットはくるみで膨らんでいた。",
+                            "translated": "她的口袋裡裝滿了核桃。"
+                        }
+                    ],
+                    "createTime": "2021-06-10T12:09:06.693787"
+                },
+                {
+                    "originalText": "酸っぱい",
+                    "word": {
+                        "text": "酸っぱい",
+                        "kana": "すっぱい",
+                        "kanjis": [
+                            {
+                                "text": "酸",
+                                "furigana": "す",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "す",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 3,
+                    "wordTypes": [
+                        "i-adjective"
+                    ],
+                    "definitions": [
+                        "酸的"
+                    ],
+                    "jishoDefinitions": [
+                        "酸，酸"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "レモンはすっぱい。",
+                            "translated": "檸檬是酸的。"
+                        },
+                        {
+                            "jp": "この飲み物は酸っぱい味がする。",
+                            "translated": "這種飲料嘗起來很酸。"
+                        }
+                    ],
+                    "createTime": "2021-06-10T12:09:07.693787"
+                },
+                {
+                    "originalText": "かりん",
+                    "word": {
+                        "text": "かりん",
+                        "kana": "かりん",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "木瓜"
+                    ],
+                    "jishoDefinitions": [
+                        "緬甸紫檀 (Pterocarpus indicus), angsana",
+                        "開花木瓜（木瓜屬）（Pseudocydonia sinensis），中國木瓜（Chaenomeles sinensis）"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-06-10T12:09:08.693787"
+                },
+                {
+                    "originalText": "街",
+                    "word": {
+                        "text": "街",
+                        "kana": "まち",
+                        "kanjis": [
+                            {
+                                "text": "街",
+                                "furigana": "まち",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "まち"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 2,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "城鎮，鎮"
+                    ],
+                    "jishoDefinitions": [
+                        "城鎮，街區",
+                        "市中心, 主要街道"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-06-10T12:09:09.693787"
+                },
+                {
+                    "originalText": "壊す",
+                    "word": {
+                        "text": "壊す",
+                        "kana": "こわす",
+                        "kanjis": [
+                            {
+                                "text": "壊",
+                                "furigana": "こわ",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "こわ",
+                            ""
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 2,
+                    "wordTypes": [
+                        "transitive verb",
+                        "group1 verb"
+                    ],
+                    "definitions": [
+                        "毀壞，弄壞"
+                    ],
+                    "jishoDefinitions": [
+                        "破壞，破壞",
+                        "破壞，毀壞"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "彼は花瓶をわざと壊した。",
+                            "translated": "他故意打破了花瓶。"
+                        },
+                        {
+                            "jp": "彼らが古い建物を壊すのを見た。",
+                            "translated": "我看著他們摧毀了舊建築。"
+                        },
+                        {
+                            "jp": "誰が窓を壊したのですか。",
+                            "translated": "誰打破了窗戶？"
+                        }
+                    ],
+                    "createTime": "2021-06-10T12:09:10.693787"
+                },
+                {
+                    "originalText": "永い",
+                    "word": {
+                        "text": "永い",
+                        "kana": "ながい",
+                        "kanjis": [
+                            {
+                                "text": "永",
+                                "furigana": "なが",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "なが",
+                            ""
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 2,
+                    "wordTypes": [
+                        "i-adjective"
+                    ],
+                    "definitions": [
+                        "長久，永久"
+                    ],
+                    "jishoDefinitions": [
+                        "長（距離，長度）",
+                        "長（時間），曠日持久"
+                    ],
+                    "sentences": [],
+                    "createTime": "2021-06-10T12:09:11.693787"
+                }
+            ]
+        }
+    ]
+}

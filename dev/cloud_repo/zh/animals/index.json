@@ -1,0 +1,5425 @@
+{
+    "title": "動物",
+    "value": "Animals",
+    "isLeaf": true,
+    "repos": [
+        {
+            "id": "930bd6e7-c9a1-11eb-b665-b46bfc8f52a9",
+            "createTime": "2021-06-10T12:08:55.877642",
+            "lastModifiedTime": "2021-06-10T12:08:55.877642",
+            "title": "鳥類",
+            "tags": [
+                "動物",
+                "中級"
+            ],
+            "price": {
+                "isFree": false,
+                "discount": 1.0,
+                "prices": {
+                    "Coin": 50
+                }
+            },
+            "numFlashcards": 30,
+            "flashcards": [
+                {
+                    "word": {
+                        "text": "雀",
+                        "kana": "すずめ",
+                        "kanjis": [
+                            {
+                                "text": "雀",
+                                "furigana": "すずめ",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "すずめ"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "麻雀"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "雀は動作が非常にすばしこい。",
+                            "translated": "麻雀的動作非常警覺。"
+                        },
+                        {
+                            "jp": "スズメの鳴き声一つしなかった。",
+                            "translated": "一隻麻雀都聽不見了。"
+                        }
+                    ],
+                    "hasError": false,
+                    "originalText": "雀",
+                    "createTime": "2021-06-10T12:08:55.876616"
+                },
+                {
+                    "word": {
+                        "text": "鶴",
+                        "kana": "つる",
+                        "kanjis": [
+                            {
+                                "text": "鶴",
+                                "furigana": "つる",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "つる"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "鶴"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "ツルは大きくて美しい鳥だ。",
+                            "translated": "鶴是一種美麗的大鳥。"
+                        },
+                        {
+                            "jp": "私に鶴を折ってもらえますか。",
+                            "translated": "你會給我做一個紙鶴嗎？"
+                        }
+                    ],
+                    "hasError": false,
+                    "originalText": "鶴",
+                    "createTime": "2021-06-10T12:08:56.876616"
+                },
+                {
+                    "word": {
+                        "text": "隼",
+                        "kana": "はやぶさ",
+                        "kanjis": [
+                            {
+                                "text": "隼",
+                                "furigana": "はやぶさ",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "はやぶさ"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "隼，遊隼"
+                    ],
+                    "sentences": [],
+                    "hasError": true,
+                    "originalText": "隼",
+                    "createTime": "2021-06-10T12:08:57.876616"
+                },
+                {
+                    "word": {
+                        "text": "鷹",
+                        "kana": "たか",
+                        "kanjis": [
+                            {
+                                "text": "鷹",
+                                "furigana": "たか",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "老鷹"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "鷹は鋭い目を持っている。",
+                            "translated": "鷹有一雙銳利的眼睛。"
+                        }
+                    ],
+                    "hasError": true,
+                    "originalText": "鷹",
+                    "createTime": "2021-06-10T12:08:58.876616"
+                },
+                {
+                    "word": {
+                        "text": "アヒル",
+                        "kana": "アヒル",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "鴨子, 家鴨"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "アヒル達は池のあちこちを泳いでいた。",
+                            "translated": "鴨子在池塘里游來游去。"
+                        },
+                        {
+                            "jp": "醜いアヒルの子は優雅な白鳥となった。",
+                            "translated": "醜小鴨變成了優雅的天鵝。"
+                        },
+                        {
+                            "jp": "アヒルとガチョウの区別が付きますか。",
+                            "translated": "你能分辨出鴨子和鵝嗎？"
+                        }
+                    ],
+                    "hasError": true,
+                    "originalText": "アヒル",
+                    "createTime": "2021-06-10T12:08:59.876616"
+                },
+                {
+                    "word": {
+                        "text": "鳩",
+                        "kana": "はと",
+                        "kanjis": [
+                            {
+                                "text": "鳩",
+                                "furigana": "はと",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "はと"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "鴿子"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "その市の広場には鳩がたくさんいる。",
+                            "translated": "城市廣場有很多鴿子。"
+                        },
+                        {
+                            "jp": "彼はそれらをハトの目の後ろに見つけた。",
+                            "translated": "他在鴿子的腦袋裡，眼睛後面發現了它們。"
+                        },
+                        {
+                            "jp": "鳩は飛んでいった。",
+                            "translated": "鴿子飛走了。"
+                        }
+                    ],
+                    "hasError": false,
+                    "originalText": "鳩",
+                    "createTime": "2021-06-10T12:09:00.876616"
+                },
+                {
+                    "word": {
+                        "text": "禿鷹",
+                        "kana": "はげたか",
+                        "kanjis": [
+                            {
+                                "text": "禿",
+                                "furigana": "はげ",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "鷹",
+                                "furigana": "たか",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "はげ",
+                            "たか"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "禿鷹"
+                    ],
+                    "sentences": [],
+                    "hasError": true,
+                    "originalText": "禿鷹",
+                    "createTime": "2021-06-10T12:09:01.876616"
+                },
+                {
+                    "word": {
+                        "text": "めんどり",
+                        "kana": "めんどり",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "母雞"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "めんどりは卵がかえるまで抱く。",
+                            "translated": "母雞坐在她的蛋上直到它們孵化。"
+                        },
+                        {
+                            "jp": "あの狐がめん鳥を殺したに違いない。",
+                            "translated": "那隻狐狸一定殺了母雞。"
+                        },
+                        {
+                            "jp": "そのめんどりはほとんど毎日卵を産む。",
+                            "translated": "那些母雞幾乎每天都下蛋。"
+                        }
+                    ],
+                    "hasError": true,
+                    "originalText": "雌鶏",
+                    "createTime": "2021-06-10T12:09:02.876616"
+                },
+                {
+                    "word": {
+                        "text": "コマドリ",
+                        "kana": "コマドリ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 3,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "知更鳥"
+                    ],
+                    "sentences": [],
+                    "hasError": true,
+                    "originalText": "コマドリ",
+                    "createTime": "2021-06-10T12:09:03.876616"
+                },
+                {
+                    "word": {
+                        "text": "おんどり",
+                        "kana": "おんどり",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "公雞"
+                    ],
+                    "sentences": [],
+                    "hasError": true,
+                    "originalText": "雄鶏",
+                    "createTime": "2021-06-10T12:09:04.876616"
+                },
+                {
+                    "word": {
+                        "text": "ハチドリ",
+                        "kana": "ハチドリ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 2,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "蜂鳥"
+                    ],
+                    "sentences": [],
+                    "hasError": true,
+                    "originalText": "ハチドリ",
+                    "createTime": "2021-06-10T12:09:05.876616"
+                },
+                {
+                    "word": {
+                        "text": "フクロウ",
+                        "kana": "フクロウ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 3,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "貓頭鷹"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "フクロウは昼間は目が見えない。",
+                            "translated": "貓頭鷹白天看不見。"
+                        },
+                        {
+                            "jp": "フクロウは、ゆっくり歩く。",
+                            "translated": "貓頭鷹走路很慢。"
+                        },
+                        {
+                            "jp": "フクロウは昼間寝ていて夜間活動する。",
+                            "translated": "貓頭鷹白天睡覺，晚上捕獵。"
+                        }
+                    ],
+                    "hasError": true,
+                    "originalText": "フクロウ",
+                    "createTime": "2021-06-10T12:09:06.876616"
+                },
+                {
+                    "word": {
+                        "text": "ひよこ",
+                        "kana": "ひよこ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "小雞"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "彼女はひよこを買った。",
+                            "translated": "她買了一隻小雞。"
+                        },
+                        {
+                            "jp": "卵がかえる前にひよこの数を数えるな。",
+                            "translated": "不要在孵化之前數你的雞。"
+                        }
+                    ],
+                    "hasError": true,
+                    "originalText": "ひよこ",
+                    "createTime": "2021-06-10T12:09:07.876616"
+                },
+                {
+                    "word": {
+                        "text": "クジャク",
+                        "kana": "クジャク",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "孔雀"
+                    ],
+                    "sentences": [],
+                    "hasError": true,
+                    "originalText": "クジャク",
+                    "createTime": "2021-06-10T12:09:08.876616"
+                },
+                {
+                    "word": {
+                        "text": "フラミンゴ",
+                        "kana": "フラミンゴ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 3,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "紅鶴"
+                    ],
+                    "sentences": [],
+                    "hasError": true,
+                    "originalText": "フラミンゴ",
+                    "createTime": "2021-06-10T12:09:09.876616"
+                },
+                {
+                    "word": {
+                        "text": "燕",
+                        "kana": "つばめ",
+                        "kanjis": [
+                            {
+                                "text": "燕",
+                                "furigana": "つばめ",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "つばめ"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "燕子"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "ツバメは飛ぶのが速い。",
+                            "translated": "燕子飛得很快。"
+                        },
+                        {
+                            "jp": "つばめが空を飛んでいる。",
+                            "translated": "燕子在天上飛。"
+                        },
+                        {
+                            "jp": "ツバメ一羽で夏にはならぬ。",
+                            "translated": "一燕不成夏。"
+                        }
+                    ],
+                    "hasError": false,
+                    "originalText": "燕",
+                    "createTime": "2021-06-10T12:09:10.876616"
+                },
+                {
+                    "word": {
+                        "text": "駝鳥",
+                        "kana": "だちょう",
+                        "kanjis": [
+                            {
+                                "text": "駝",
+                                "furigana": "だ",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "鳥",
+                                "furigana": "ちょう",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "だ",
+                            "ちょう"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "鴕鳥"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "ダチョウは空中を飛ばない。",
+                            "translated": "鴕鳥不會飛。"
+                        },
+                        {
+                            "jp": "ダチョウは羽があるが飛べない。",
+                            "translated": "鴕鳥有翅膀，但不會飛。"
+                        }
+                    ],
+                    "hasError": false,
+                    "originalText": "駝鳥",
+                    "createTime": "2021-06-10T12:09:11.876616"
+                },
+                {
+                    "word": {
+                        "text": "ワシ",
+                        "kana": "ワシ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "鷲，老鷹"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "そのワシは飛ぼうとして羽を広げた。",
+                            "translated": "老鷹張開翅膀準備飛行。"
+                        },
+                        {
+                            "jp": "ワシは獲物めがけて急降下した。",
+                            "translated": "老鷹向獵物俯衝。"
+                        },
+                        {
+                            "jp": "ワシが空を飛んでいる。",
+                            "translated": "一隻老鷹在天上飛。"
+                        }
+                    ],
+                    "hasError": true,
+                    "originalText": "ワシ",
+                    "createTime": "2021-06-10T12:09:12.876616"
+                },
+                {
+                    "word": {
+                        "text": "白鳥",
+                        "kana": "はくちょう",
+                        "kanjis": [
+                            {
+                                "text": "白",
+                                "furigana": "はく",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "鳥",
+                                "furigana": "ちょう",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "はく",
+                            "ちょう"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "天鵝"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "白鳥は当地からフロリダに移動する。",
+                            "translated": "天鵝從這裡遷徙到佛羅里達。"
+                        },
+                        {
+                            "jp": "醜いアヒルの子は優雅な白鳥となった。",
+                            "translated": "醜小鴨變成了優雅的天鵝。"
+                        },
+                        {
+                            "jp": "湖は穏やかで、白鳥が何羽か泳いでいる。",
+                            "translated": "湖面很平靜，有幾隻天鵝在上面游泳。"
+                        }
+                    ],
+                    "hasError": false,
+                    "originalText": "白鳥",
+                    "createTime": "2021-06-10T12:09:13.876616"
+                },
+                {
+                    "word": {
+                        "text": "ぺンギン",
+                        "kana": "ぺンギン",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "企鵝"
+                    ],
+                    "sentences": [],
+                    "hasError": true,
+                    "originalText": "ぺンギン",
+                    "createTime": "2021-06-10T12:09:14.876616"
+                },
+                {
+                    "word": {
+                        "text": "鶉",
+                        "kana": "うずら",
+                        "kanjis": [
+                            {
+                                "text": "鶉",
+                                "furigana": "うずら",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "うずら"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "鵪鶉"
+                    ],
+                    "sentences": [],
+                    "hasError": false,
+                    "originalText": "ウズラ",
+                    "createTime": "2021-06-10T12:09:15.876616"
+                },
+                {
+                    "word": {
+                        "text": "カモメ",
+                        "kana": "カモメ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "海鷗"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "カモメが低空を飛んでいる。",
+                            "translated": "海鷗低飛。"
+                        },
+                        {
+                            "jp": "カモメは風に乗って滑空した。",
+                            "translated": "海鷗在風中滑翔。"
+                        }
+                    ],
+                    "hasError": false,
+                    "originalText": "カモメ",
+                    "createTime": "2021-06-10T12:09:16.876616"
+                },
+                {
+                    "word": {
+                        "text": "ガチョウ",
+                        "kana": "ガチョウ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "鵝"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "アヒルとガチョウの区別が付きますか。",
+                            "translated": "你能分辨出鴨子和鵝嗎？"
+                        },
+                        {
+                            "jp": "ガチョウは水鳥である。",
+                            "translated": "鵝是一種水鳥。"
+                        },
+                        {
+                            "jp": "金の卵を生むガチョウを殺すな。",
+                            "translated": "不要殺死下金蛋的鵝。"
+                        }
+                    ],
+                    "hasError": false,
+                    "originalText": "ガチョウ",
+                    "createTime": "2021-06-10T12:09:17.876616"
+                },
+                {
+                    "word": {
+                        "text": "コウノトリ",
+                        "kana": "コウノトリ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 3,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "鸛"
+                    ],
+                    "sentences": [],
+                    "hasError": true,
+                    "originalText": "コウノトリ",
+                    "createTime": "2021-06-10T12:09:18.876616"
+                },
+                {
+                    "word": {
+                        "text": "鶯",
+                        "kana": "うぐいす",
+                        "kanjis": [
+                            {
+                                "text": "鶯",
+                                "furigana": "うぐいす",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "うぐいす"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 2,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "鶯，黃鶯"
+                    ],
+                    "sentences": [],
+                    "hasError": false,
+                    "originalText": "鶯",
+                    "createTime": "2021-06-10T12:09:19.876616"
+                },
+                {
+                    "word": {
+                        "text": "カラス",
+                        "kana": "カラス",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "烏鴉"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "最近、あらゆる所でカラスを見かける。",
+                            "translated": "最近，我們到處都能看到烏鴉。"
+                        },
+                        {
+                            "jp": "カラスはよくゴミ漁りします。",
+                            "translated": "烏鴉經常在垃圾中捕魚。"
+                        }
+                    ],
+                    "hasError": false,
+                    "originalText": "カラス",
+                    "createTime": "2021-06-10T12:09:20.876616"
+                },
+                {
+                    "word": {
+                        "text": "キツツキ",
+                        "kana": "キツツキ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 2,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "啄木鳥"
+                    ],
+                    "sentences": [],
+                    "hasError": true,
+                    "originalText": "キツツキ",
+                    "createTime": "2021-06-10T12:09:21.876616"
+                },
+                {
+                    "word": {
+                        "text": "オウム",
+                        "kana": "オウム",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "鸚鵡"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "オウムは人間の言葉をまねる。",
+                            "translated": "鸚鵡會模仿人類的話。"
+                        },
+                        {
+                            "jp": "オウムは人の言葉をまねできる。",
+                            "translated": "鸚鵡可以模仿人類的語言。"
+                        },
+                        {
+                            "jp": "オウムはしばしば人の言葉をまねる。",
+                            "translated": "鸚鵡經常模仿人類的語言。"
+                        }
+                    ],
+                    "hasError": true,
+                    "originalText": "オウム",
+                    "createTime": "2021-06-10T12:09:22.876616"
+                },
+                {
+                    "word": {
+                        "text": "メジロ",
+                        "kana": "メジロ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "綠繡眼"
+                    ],
+                    "sentences": [],
+                    "hasError": true,
+                    "originalText": "メジロ",
+                    "createTime": "2021-06-10T12:09:23.876616"
+                },
+                {
+                    "word": {
+                        "text": "鶏",
+                        "kana": "にわとり",
+                        "kanjis": [
+                            {
+                                "text": "鶏",
+                                "furigana": "にわとり",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "にわとり"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "雞"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "七面鳥は鶏より少し大きい。",
+                            "translated": "火雞比雞大一點。"
+                        },
+                        {
+                            "jp": "犬か猫か鶏を飼うようにしなさい。",
+                            "translated": "嘗試養一隻狗、一隻貓或一隻雞。"
+                        },
+                        {
+                            "jp": "この鶏は近頃卵を産まない。",
+                            "translated": "這隻母雞這些天根本不下蛋。"
+                        }
+                    ],
+                    "hasError": false,
+                    "originalText": "にわとり",
+                    "createTime": "2021-06-10T12:09:24.876616"
+                }
+            ]
+        },
+        {
+            "id": "930bfec6-c9a1-11eb-8cd9-b46bfc8f52a9",
+            "createTime": "2021-06-10T12:08:55.888659",
+            "lastModifiedTime": "2021-06-10T12:08:55.888659",
+            "title": "陸地動物",
+            "tags": [
+                "動物",
+                "簡單"
+            ],
+            "price": {
+                "isFree": false,
+                "discount": 1.0,
+                "prices": {
+                    "Coin": 50
+                }
+            },
+            "numFlashcards": 59,
+            "flashcards": [
+                {
+                    "word": {
+                        "text": "プレーリードッグ",
+                        "kana": "プレーリードッグ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 6,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "土撥鼠"
+                    ],
+                    "sentences": [],
+                    "hasError": true,
+                    "originalText": "プレーリードッグ",
+                    "createTime": "2021-06-10T12:08:55.888659"
+                },
+                {
+                    "word": {
+                        "text": "ピューマ",
+                        "kana": "ピューマ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "美洲獅"
+                    ],
+                    "sentences": [],
+                    "hasError": true,
+                    "originalText": "ピューマ",
+                    "createTime": "2021-06-10T12:08:56.888659"
+                },
+                {
+                    "word": {
+                        "text": "モモンガ",
+                        "kana": "モモンガ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 2,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "飛鼠"
+                    ],
+                    "sentences": [],
+                    "hasError": false,
+                    "originalText": "モモンガ",
+                    "createTime": "2021-06-10T12:08:57.888659"
+                },
+                {
+                    "word": {
+                        "text": "鹿",
+                        "kana": "しか",
+                        "kanjis": [
+                            {
+                                "text": "鹿",
+                                "furigana": "しか",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "しか"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "鹿"
+                    ],
+                    "sentences": [],
+                    "hasError": true,
+                    "originalText": "鹿",
+                    "createTime": "2021-06-10T12:08:58.888659"
+                },
+                {
+                    "word": {
+                        "text": "北極熊",
+                        "kana": "ほっきょくぐま",
+                        "kanjis": [
+                            {
+                                "text": "北",
+                                "furigana": "ほっ",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "極",
+                                "furigana": "きょく",
+                                "index": 1,
+                                "length": 1
+                            },
+                            {
+                                "text": "熊",
+                                "furigana": "ぐま",
+                                "index": 2,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "ほっ",
+                            "きょく",
+                            "ぐま"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 5,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "北極熊"
+                    ],
+                    "sentences": [],
+                    "hasError": true,
+                    "originalText": "北極熊",
+                    "createTime": "2021-06-10T12:08:59.888659"
+                },
+                {
+                    "word": {
+                        "text": "リス",
+                        "kana": "リス",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "松鼠"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "リスは動きがすばやい。",
+                            "translated": "松鼠行動迅速。"
+                        },
+                        {
+                            "jp": "リスは枝の中に隠れた。",
+                            "translated": "一隻松鼠躲在樹枝間。"
+                        },
+                        {
+                            "jp": "リスは忙しく木の実を集めていた。",
+                            "translated": "松鼠正忙著收集堅果。"
+                        }
+                    ],
+                    "hasError": false,
+                    "originalText": "リス",
+                    "createTime": "2021-06-10T12:09:00.888659"
+                },
+                {
+                    "word": {
+                        "text": "ラクダ",
+                        "kana": "ラクダ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "駱駝"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "この国では、ラクダはなくてはならない。",
+                            "translated": "在這個國家，他們離不開駱駝。"
+                        },
+                        {
+                            "jp": "ラクダには一つか二つのこぶがある。",
+                            "translated": "駱駝有一個或兩個駝峰。"
+                        },
+                        {
+                            "jp": "ラクダの旅は全く素晴らしい体験だった。",
+                            "translated": "我們的駱駝之旅是一次非常棒的經歷。"
+                        }
+                    ],
+                    "hasError": false,
+                    "originalText": "ラクダ",
+                    "createTime": "2021-06-10T12:09:01.888659"
+                },
+                {
+                    "word": {
+                        "text": "ゴリラ",
+                        "kana": "ゴリラ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "大猩猩"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "ココは普通のゴリラではない。",
+                            "translated": "Koko不是一隻普通的大猩猩。"
+                        },
+                        {
+                            "jp": "そのゴリラはその時１歳であった。",
+                            "translated": "那時大猩猩才一歲。"
+                        }
+                    ],
+                    "hasError": false,
+                    "originalText": "ゴリラ",
+                    "createTime": "2021-06-10T12:09:02.888659"
+                },
+                {
+                    "word": {
+                        "text": "ヒグマ",
+                        "kana": "ヒグマ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "棕熊"
+                    ],
+                    "sentences": [],
+                    "hasError": true,
+                    "originalText": "ヒグマ",
+                    "createTime": "2021-06-10T12:09:03.888659"
+                },
+                {
+                    "word": {
+                        "text": "狼",
+                        "kana": "おおかみ",
+                        "kanjis": [
+                            {
+                                "text": "狼",
+                                "furigana": "おおかみ",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "おおかみ"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "狼"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "その少年は狼が来ると言った。",
+                            "translated": "男孩說狼來了。"
+                        },
+                        {
+                            "jp": "オオカミが羊の群れに忍び寄った。",
+                            "translated": "狼尾隨羊群。"
+                        }
+                    ],
+                    "hasError": false,
+                    "originalText": "狼",
+                    "createTime": "2021-06-10T12:09:04.888659"
+                },
+                {
+                    "word": {
+                        "text": "ヤマアラシ",
+                        "kana": "ヤマアラシ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 3,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "豪豬"
+                    ],
+                    "sentences": [],
+                    "hasError": false,
+                    "originalText": "ヤマアラシ",
+                    "createTime": "2021-06-10T12:09:05.888659"
+                },
+                {
+                    "word": {
+                        "text": "トナカイ",
+                        "kana": "トナカイ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 2,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "tonakkai",
+                        "馴鹿"
+                    ],
+                    "sentences": [],
+                    "hasError": true,
+                    "originalText": "トナカイ",
+                    "createTime": "2021-06-10T12:09:06.888659"
+                },
+                {
+                    "word": {
+                        "text": "ラマ",
+                        "kana": "ラマ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "駱馬"
+                    ],
+                    "sentences": [],
+                    "hasError": true,
+                    "originalText": "ラマ",
+                    "createTime": "2021-06-10T12:09:07.888659"
+                },
+                {
+                    "word": {
+                        "text": "豹",
+                        "kana": "ひょう",
+                        "kanjis": [
+                            {
+                                "text": "豹",
+                                "furigana": "ひょう",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "ひょう"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "豹"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "豹はその斑点を変えることはできない。",
+                            "translated": "豹不能改變他的斑點。"
+                        }
+                    ],
+                    "hasError": true,
+                    "originalText": "豹",
+                    "createTime": "2021-06-10T12:09:08.888659"
+                },
+                {
+                    "word": {
+                        "text": "ハイエナ",
+                        "kana": "ハイエナ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "鬣狗"
+                    ],
+                    "sentences": [],
+                    "hasError": true,
+                    "originalText": "ハイエナ",
+                    "createTime": "2021-06-10T12:09:09.888659"
+                },
+                {
+                    "word": {
+                        "text": "ミンク",
+                        "kana": "ミンク",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "貂"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "このミンクのコートは３０００ドルした。",
+                            "translated": "這只貂值 3,000 美元。"
+                        }
+                    ],
+                    "hasError": true,
+                    "originalText": "ミンク",
+                    "createTime": "2021-06-10T12:09:10.888659"
+                },
+                {
+                    "word": {
+                        "text": "シマウマ",
+                        "kana": "シマウマ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "斑馬"
+                    ],
+                    "sentences": [],
+                    "hasError": false,
+                    "originalText": "シマウマ",
+                    "createTime": "2021-06-10T12:09:11.888659"
+                },
+                {
+                    "word": {
+                        "text": "馬",
+                        "kana": "うま",
+                        "kanjis": [
+                            {
+                                "text": "馬",
+                                "furigana": "うま",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "うま"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 2,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "馬"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "彼は馬を急がせた。",
+                            "translated": "他催促著他的馬。"
+                        },
+                        {
+                            "jp": "彼女は最初その馬が気に入らなかった。",
+                            "translated": "起初她不喜歡這匹馬。"
+                        },
+                        {
+                            "jp": "僕が君ならその馬に賭けたりはしない。",
+                            "translated": "如果我是你，我就不會賭那匹馬。"
+                        }
+                    ],
+                    "hasError": false,
+                    "originalText": "馬",
+                    "createTime": "2021-06-10T12:09:12.888659"
+                },
+                {
+                    "word": {
+                        "text": "野良猫",
+                        "kana": "のらねこ",
+                        "kanjis": [
+                            {
+                                "text": "野",
+                                "furigana": "の",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "良",
+                                "furigana": "ら",
+                                "index": 1,
+                                "length": 1
+                            },
+                            {
+                                "text": "猫",
+                                "furigana": "ねこ",
+                                "index": 2,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "の",
+                            "ら",
+                            "ねこ"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "野貓"
+                    ],
+                    "sentences": [],
+                    "hasError": true,
+                    "originalText": "野良猫",
+                    "createTime": "2021-06-10T12:09:13.888659"
+                },
+                {
+                    "word": {
+                        "text": "カバ",
+                        "kana": "カバ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "河馬"
+                    ],
+                    "sentences": [],
+                    "hasError": false,
+                    "originalText": "カバ",
+                    "createTime": "2021-06-10T12:09:14.888659"
+                },
+                {
+                    "word": {
+                        "text": "ワラビー",
+                        "kana": "ワラビー",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "小袋鼠"
+                    ],
+                    "sentences": [],
+                    "hasError": true,
+                    "originalText": "ワラビー",
+                    "createTime": "2021-06-10T12:09:15.888659"
+                },
+                {
+                    "word": {
+                        "text": "パンダ",
+                        "kana": "パンダ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "熊貓"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "パンダは竹林にすんでいます。",
+                            "translated": "大熊貓生活在竹叢中。"
+                        },
+                        {
+                            "jp": "上野動物園にパンダっていたっけ？",
+                            "translated": "我忘了，他們在上野動物園有熊貓嗎？"
+                        },
+                        {
+                            "jp": "パンダを見たことがありますか。",
+                            "translated": "你見過熊貓嗎？"
+                        }
+                    ],
+                    "hasError": false,
+                    "originalText": "パンダ",
+                    "createTime": "2021-06-10T12:09:16.888659"
+                },
+                {
+                    "word": {
+                        "text": "ナマケモノ",
+                        "kana": "ナマケモノ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "樹懶"
+                    ],
+                    "sentences": [],
+                    "hasError": false,
+                    "originalText": "ナマケモノ",
+                    "createTime": "2021-06-10T12:09:17.888659"
+                },
+                {
+                    "word": {
+                        "text": "豚",
+                        "kana": "ぶた",
+                        "kanjis": [
+                            {
+                                "text": "豚",
+                                "furigana": "ぶた",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "ぶた"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "豬"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "この子は豚じゃないわよ。猿よ。",
+                            "translated": "它不是豬，它是一隻猴子。"
+                        },
+                        {
+                            "jp": "嘘つく豚だ、お前。",
+                            "translated": "你是一頭說謊的豬。"
+                        }
+                    ],
+                    "hasError": false,
+                    "originalText": "豚",
+                    "createTime": "2021-06-10T12:09:18.888659"
+                },
+                {
+                    "word": {
+                        "text": "土竜",
+                        "kana": "もぐら",
+                        "kanjis": [
+                            {
+                                "text": "土",
+                                "furigana": "も",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "竜",
+                                "furigana": "ぐら",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "も",
+                            "ぐら"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "鼴鼠"
+                    ],
+                    "sentences": [],
+                    "hasError": true,
+                    "originalText": "モグラ",
+                    "createTime": "2021-06-10T12:09:19.888659"
+                },
+                {
+                    "word": {
+                        "text": "狐",
+                        "kana": "きつね",
+                        "kanjis": [
+                            {
+                                "text": "狐",
+                                "furigana": "きつね",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "きつね"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "狐狸"
+                    ],
+                    "sentences": [],
+                    "hasError": false,
+                    "originalText": "狐",
+                    "createTime": "2021-06-10T12:09:20.888659"
+                },
+                {
+                    "word": {
+                        "text": "ハスキー",
+                        "kana": "ハスキー",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "哈士奇"
+                    ],
+                    "sentences": [],
+                    "hasError": false,
+                    "originalText": "ハスキー",
+                    "createTime": "2021-06-10T12:09:21.888659"
+                },
+                {
+                    "word": {
+                        "text": "柴犬",
+                        "kana": "しばいぬ",
+                        "kanjis": [
+                            {
+                                "text": "柴",
+                                "furigana": "しば",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "犬",
+                                "furigana": "いぬ",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "しば",
+                            "いぬ"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "柴犬"
+                    ],
+                    "sentences": [],
+                    "hasError": false,
+                    "originalText": "柴犬",
+                    "createTime": "2021-06-10T12:09:22.888659"
+                },
+                {
+                    "word": {
+                        "text": "カワウソ",
+                        "kana": "カワウソ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "水獺"
+                    ],
+                    "sentences": [],
+                    "hasError": true,
+                    "originalText": "カワウソ",
+                    "createTime": "2021-06-10T12:09:23.888659"
+                },
+                {
+                    "word": {
+                        "text": "ロバ",
+                        "kana": "ロバ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "驢子"
+                    ],
+                    "sentences": [],
+                    "hasError": false,
+                    "originalText": "ロバ",
+                    "createTime": "2021-06-10T12:09:24.888659"
+                },
+                {
+                    "word": {
+                        "text": "サイ",
+                        "kana": "サイ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "犀牛"
+                    ],
+                    "sentences": [],
+                    "hasError": false,
+                    "originalText": "サイ",
+                    "createTime": "2021-06-10T12:09:25.888659"
+                },
+                {
+                    "word": {
+                        "text": "ライオン",
+                        "kana": "ライオン",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "獅子"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "ライオンは百獣の王と呼ばれている。",
+                            "translated": "獅子被稱為動物之王。"
+                        },
+                        {
+                            "jp": "男たちはライオン狩りに出かけた。",
+                            "translated": "這些人去打獵獅子。"
+                        }
+                    ],
+                    "hasError": false,
+                    "originalText": "ライオン",
+                    "createTime": "2021-06-10T12:09:26.888659"
+                },
+                {
+                    "word": {
+                        "text": "虎",
+                        "kana": "とら",
+                        "kanjis": [
+                            {
+                                "text": "虎",
+                                "furigana": "とら",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "とら"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "老虎"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "虎がこのあたりに現れる。",
+                            "translated": "一隻老虎出現在附近。"
+                        },
+                        {
+                            "jp": "虎は消滅しかかっている種族である。",
+                            "translated": "老虎是一種正在消失的物種。"
+                        },
+                        {
+                            "jp": "トラをしっかりねらいなさい。",
+                            "translated": "穩穩地瞄準老虎。"
+                        }
+                    ],
+                    "hasError": false,
+                    "originalText": "トラ",
+                    "createTime": "2021-06-10T12:09:27.888659"
+                },
+                {
+                    "word": {
+                        "text": "乳牛",
+                        "kana": "にゅうぎゅう",
+                        "kanjis": [
+                            {
+                                "text": "乳",
+                                "furigana": "にゅう",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "牛",
+                                "furigana": "ぎゅう",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "にゅう",
+                            "ぎゅう"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "乳牛"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "あの牧場には乳牛がたくさんいる。",
+                            "translated": "那個農場裡有很多乳牛。"
+                        },
+                        {
+                            "jp": "乳牛というのは、役に立つ動物です。",
+                            "translated": "乳牛是一種有用的動物。"
+                        }
+                    ],
+                    "hasError": false,
+                    "originalText": "乳牛",
+                    "createTime": "2021-06-10T12:09:28.888659"
+                },
+                {
+                    "word": {
+                        "text": "チンパンジー",
+                        "kana": "チンパンジー",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 3,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "黑猩猩"
+                    ],
+                    "sentences": [],
+                    "hasError": false,
+                    "originalText": "チンパンジー",
+                    "createTime": "2021-06-10T12:09:29.888659"
+                },
+                {
+                    "word": {
+                        "text": "ネズミ",
+                        "kana": "ネズミ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "老鼠"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "猫がネズミを嗅ぎつけたようですね。",
+                            "translated": "貓好像聞到了老鼠的氣味。"
+                        },
+                        {
+                            "jp": "彼はネズミのように臆病だ。",
+                            "translated": "他像老鼠一樣膽小。"
+                        },
+                        {
+                            "jp": "鼠は沈みかかった船を見捨てる。",
+                            "translated": "老鼠拋棄了一艘正在下沉的船。"
+                        }
+                    ],
+                    "hasError": false,
+                    "originalText": "ネズミ",
+                    "createTime": "2021-06-10T12:09:30.888659"
+                },
+                {
+                    "word": {
+                        "text": "狸",
+                        "kana": "たぬき",
+                        "kanjis": [
+                            {
+                                "text": "狸",
+                                "furigana": "たぬき",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "たぬき"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "狸"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "捕らぬ狸の皮算用。",
+                            "translated": "不要數你的雞。"
+                        }
+                    ],
+                    "hasError": false,
+                    "originalText": "狸",
+                    "createTime": "2021-06-10T12:09:31.888659"
+                },
+                {
+                    "word": {
+                        "text": "アライグマ",
+                        "kana": "アライグマ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 3,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "浣熊"
+                    ],
+                    "sentences": [],
+                    "hasError": false,
+                    "originalText": "アライグマ",
+                    "createTime": "2021-06-10T12:09:32.888659"
+                },
+                {
+                    "word": {
+                        "text": "熊",
+                        "kana": "くま",
+                        "kanjis": [
+                            {
+                                "text": "熊",
+                                "furigana": "くま",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "くま"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 2,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "熊"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "突然熊が私たちの前にあらわれた。",
+                            "translated": "突然，一隻熊出現在我們面前。"
+                        },
+                        {
+                            "jp": "猟師は熊を撃った。",
+                            "translated": "獵人射中了一頭熊。"
+                        },
+                        {
+                            "jp": "私たちは雪の中にクマの足跡を見つけた。",
+                            "translated": "我們在雪地裡看到了熊的踪跡。"
+                        }
+                    ],
+                    "hasError": false,
+                    "originalText": "熊",
+                    "createTime": "2021-06-10T12:09:33.888659"
+                },
+                {
+                    "word": {
+                        "text": "マンモス",
+                        "kana": "マンモス",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 2,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "長毛象"
+                    ],
+                    "sentences": [],
+                    "hasError": false,
+                    "originalText": "マンモス",
+                    "createTime": "2021-06-10T12:09:34.888659"
+                },
+                {
+                    "word": {
+                        "text": "猫",
+                        "kana": "ねこ",
+                        "kanjis": [
+                            {
+                                "text": "猫",
+                                "furigana": "ねこ",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "ねこ"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "貓"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "母猫は鳥を捕まえに出かけた。",
+                            "translated": "母貓出去打鳥。"
+                        },
+                        {
+                            "jp": "彼女の猫、また四匹も産んだんだ。",
+                            "translated": "她的貓還有四隻小貓。"
+                        }
+                    ],
+                    "hasError": false,
+                    "originalText": "猫",
+                    "createTime": "2021-06-10T12:09:35.888659"
+                },
+                {
+                    "word": {
+                        "text": "ビーバー",
+                        "kana": "ビーバー",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "海狸"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "ウサギはビーバーやリスと同族です。",
+                            "translated": "兔子與海狸和松鼠有關。"
+                        }
+                    ],
+                    "hasError": true,
+                    "originalText": "ビーバー",
+                    "createTime": "2021-06-10T12:09:36.888659"
+                },
+                {
+                    "word": {
+                        "text": "鼬",
+                        "kana": "いたち",
+                        "kanjis": [
+                            {
+                                "text": "鼬",
+                                "furigana": "いたち",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "いたち"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "鼬，黃鼠狼"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "いたちはその悪臭で知られている。",
+                            "translated": "黃鼠狼以其難聞的氣味而聞名。"
+                        }
+                    ],
+                    "hasError": false,
+                    "originalText": "イタチ",
+                    "createTime": "2021-06-10T12:09:37.888659"
+                },
+                {
+                    "word": {
+                        "text": "カンガルー",
+                        "kana": "カンガルー",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 3,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "袋鼠"
+                    ],
+                    "sentences": [],
+                    "hasError": false,
+                    "originalText": "カンガルー",
+                    "createTime": "2021-06-10T12:09:38.888659"
+                },
+                {
+                    "word": {
+                        "text": "キリン",
+                        "kana": "キリン",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "長頸鹿"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "私はキリンを見たことがありません。",
+                            "translated": "我從沒見過長頸鹿。"
+                        },
+                        {
+                            "jp": "麒麟はどこにいますか。",
+                            "translated": "長頸鹿在哪裡？"
+                        }
+                    ],
+                    "hasError": true,
+                    "originalText": "キリン",
+                    "createTime": "2021-06-10T12:09:39.888659"
+                },
+                {
+                    "word": {
+                        "text": "カピバラ",
+                        "kana": "カピバラ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "水豚"
+                    ],
+                    "sentences": [],
+                    "hasError": true,
+                    "originalText": "カピバラ",
+                    "createTime": "2021-06-10T12:09:40.888659"
+                },
+                {
+                    "word": {
+                        "text": "コアラ",
+                        "kana": "コアラ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "無尾熊"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "向こうにいるあのコアラを見てごらん。",
+                            "translated": "看看那邊的無尾熊。"
+                        },
+                        {
+                            "jp": "私は初めてコアラを見た。",
+                            "translated": "我第一次看到無尾熊。"
+                        },
+                        {
+                            "jp": "コアラはオーストラリアにいる。",
+                            "translated": "你可以在澳大利亞找到無尾熊。"
+                        }
+                    ],
+                    "hasError": false,
+                    "originalText": "コアラ",
+                    "createTime": "2021-06-10T12:09:41.888659"
+                },
+                {
+                    "word": {
+                        "text": "象",
+                        "kana": "ぞう",
+                        "kanjis": [
+                            {
+                                "text": "象",
+                                "furigana": "ぞう",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "ぞう"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "象"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "その象は小さな子供たちに好かれている。",
+                            "translated": "小孩子很喜歡大象。"
+                        },
+                        {
+                            "jp": "象は巨大な動物である。",
+                            "translated": "大象是一種巨大的動物。"
+                        },
+                        {
+                            "jp": "象はサーカスの呼び物だ。",
+                            "translated": "大象是馬戲團的主要景點。"
+                        }
+                    ],
+                    "hasError": false,
+                    "originalText": "象",
+                    "createTime": "2021-06-10T12:09:42.888659"
+                },
+                {
+                    "word": {
+                        "text": "ヘラジカ",
+                        "kana": "ヘラジカ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "麋鹿"
+                    ],
+                    "sentences": [],
+                    "hasError": true,
+                    "originalText": "ヘラジカ",
+                    "createTime": "2021-06-10T12:09:43.888659"
+                },
+                {
+                    "word": {
+                        "text": "羊",
+                        "kana": "ひつじ",
+                        "kanjis": [
+                            {
+                                "text": "羊",
+                                "furigana": "ひつじ",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "ひつじ"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "羊，綿羊"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "羊飼いが羊の番をしていた。",
+                            "translated": "有牧羊人看守他們的羊群。"
+                        },
+                        {
+                            "jp": "野原には六頭の羊がいた。",
+                            "translated": "田裡有六隻羊。"
+                        },
+                        {
+                            "jp": "森で羊の群れを見ました。",
+                            "translated": "我看見森林裡有一群羊。"
+                        }
+                    ],
+                    "hasError": false,
+                    "originalText": "羊",
+                    "createTime": "2021-06-10T12:09:44.888659"
+                },
+                {
+                    "word": {
+                        "text": "牛",
+                        "kana": "うし",
+                        "kanjis": [
+                            {
+                                "text": "牛",
+                                "furigana": "うし",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "うし"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "牛"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "今までに本物の牛を見たことがない。",
+                            "translated": "我從未見過真正的牛。"
+                        },
+                        {
+                            "jp": "彼は馬と牛を育てている。",
+                            "translated": "他養馬和牛。"
+                        },
+                        {
+                            "jp": "彼は市場に出す牛を育てている。",
+                            "translated": "他為市場飼養牛。"
+                        }
+                    ],
+                    "hasError": false,
+                    "originalText": "牛",
+                    "createTime": "2021-06-10T12:09:45.888659"
+                },
+                {
+                    "word": {
+                        "text": "ウサギ",
+                        "kana": "ウサギ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "兔子"
+                    ],
+                    "sentences": [],
+                    "hasError": false,
+                    "originalText": "ウサギ",
+                    "createTime": "2021-06-10T12:09:46.888659"
+                },
+                {
+                    "word": {
+                        "text": "猿",
+                        "kana": "さる",
+                        "kanjis": [
+                            {
+                                "text": "猿",
+                                "furigana": "さる",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "さる"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "猴，猿猴"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "猿はたくさん芸を覚える。",
+                            "translated": "猴子可以學習很多技巧。"
+                        },
+                        {
+                            "jp": "猿が高い木に登っていく。",
+                            "translated": "一隻猴子正在爬上一棵高大的樹。"
+                        },
+                        {
+                            "jp": "猿に飛びかかられて彼は怖がった。",
+                            "translated": "當猴子向他跳來時，他很害怕。"
+                        }
+                    ],
+                    "hasError": false,
+                    "originalText": "猿",
+                    "createTime": "2021-06-10T12:09:47.888659"
+                },
+                {
+                    "word": {
+                        "text": "チーター",
+                        "kana": "チーター",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "獵豹"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "一番早い動物はチーターです。",
+                            "translated": "獵豹是跑得最快的動物。"
+                        }
+                    ],
+                    "hasError": true,
+                    "originalText": "チーター",
+                    "createTime": "2021-06-10T12:09:48.888659"
+                },
+                {
+                    "word": {
+                        "text": "犬",
+                        "kana": "いぬ",
+                        "kanjis": [
+                            {
+                                "text": "犬",
+                                "furigana": "いぬ",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "いぬ"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 2,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "狗"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "留守中犬を世話して下さい。",
+                            "translated": "我們不在的時候請照顧好我們的狗。"
+                        },
+                        {
+                            "jp": "旅行の間、母が犬の面倒を見てくれた。",
+                            "translated": "媽媽在旅途中照顧我的狗。"
+                        },
+                        {
+                            "jp": "隣の犬はほえてばかりいます。",
+                            "translated": "隔壁的狗總是吠叫。"
+                        }
+                    ],
+                    "hasError": false,
+                    "originalText": "犬",
+                    "createTime": "2021-06-10T12:09:49.888659"
+                },
+                {
+                    "word": {
+                        "text": "水牛",
+                        "kana": "すいぎゅう",
+                        "kanjis": [
+                            {
+                                "text": "水",
+                                "furigana": "すい",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "牛",
+                                "furigana": "ぎゅう",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "すい",
+                            "ぎゅう"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "水牛"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "あれは牛ですか水牛ですか。",
+                            "translated": "這是一頭牛還是一頭水牛？"
+                        },
+                        {
+                            "jp": "水牛は大きな角をもっている。",
+                            "translated": "水牛有大角。"
+                        },
+                        {
+                            "jp": "水牛は牛に似ている。",
+                            "translated": "水牛類似於牛。"
+                        }
+                    ],
+                    "hasError": false,
+                    "originalText": "水牛",
+                    "createTime": "2021-06-10T12:09:50.888659"
+                },
+                {
+                    "word": {
+                        "text": "アルパカ",
+                        "kana": "アルパカ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "羊駝"
+                    ],
+                    "sentences": [],
+                    "hasError": false,
+                    "originalText": "アルパカ",
+                    "createTime": "2021-06-10T12:09:51.888659"
+                },
+                {
+                    "word": {
+                        "text": "ヤギ",
+                        "kana": "ヤギ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "山羊"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "彼は羊とヤギの区別が付かない。",
+                            "translated": "他分不清綿羊和山羊。"
+                        },
+                        {
+                            "jp": "私たちは２匹のヤギを飼っています。",
+                            "translated": "我們養了兩隻山羊。"
+                        }
+                    ],
+                    "hasError": true,
+                    "originalText": "ヤギ",
+                    "createTime": "2021-06-10T12:09:52.888659"
+                },
+                {
+                    "word": {
+                        "text": "コウモリ",
+                        "kana": "コウモリ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "蝙蝠"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "多くの人がコウモリは鳥だと思っている。",
+                            "translated": "很多人認為蝙蝠是鳥類。"
+                        }
+                    ],
+                    "hasError": true,
+                    "originalText": "コウモリ",
+                    "createTime": "2021-06-10T12:09:53.888659"
+                }
+            ]
+        },
+        {
+            "id": "930c25fd-c9a1-11eb-ab69-b46bfc8f52a9",
+            "createTime": "2021-06-10T12:08:55.889663",
+            "lastModifiedTime": "2021-06-10T12:08:55.889663",
+            "title": "昆蟲 & 爬蟲類",
+            "tags": [
+                "動物",
+                "中級"
+            ],
+            "price": {
+                "isFree": false,
+                "discount": 1.0,
+                "prices": {
+                    "Coin": 50
+                }
+            },
+            "numFlashcards": 37,
+            "flashcards": [
+                {
+                    "word": {
+                        "text": "トンボ",
+                        "kana": "トンボ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "蜻蜓"
+                    ],
+                    "sentences": [],
+                    "hasError": false,
+                    "originalText": "トンボ",
+                    "createTime": "2021-06-10T12:08:55.889663"
+                },
+                {
+                    "word": {
+                        "text": "蟻",
+                        "kana": "あり",
+                        "kanjis": [
+                            {
+                                "text": "蟻",
+                                "furigana": "あり",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "あり"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "螞蟻"
+                    ],
+                    "sentences": [],
+                    "hasError": true,
+                    "originalText": "蟻",
+                    "createTime": "2021-06-10T12:08:56.889663"
+                },
+                {
+                    "word": {
+                        "text": "蚊",
+                        "kana": "か",
+                        "kanjis": [
+                            {
+                                "text": "蚊",
+                                "furigana": "か",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "か"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "蚊子"
+                    ],
+                    "sentences": [],
+                    "hasError": false,
+                    "originalText": "蚊",
+                    "createTime": "2021-06-10T12:08:57.889663"
+                },
+                {
+                    "word": {
+                        "text": "蛙",
+                        "kana": "かえる",
+                        "kanjis": [
+                            {
+                                "text": "蛙",
+                                "furigana": "かえる",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "かえる"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "青蛙"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "この草地には蛙がうようよいる。",
+                            "translated": "這片草地上有很多青蛙。"
+                        },
+                        {
+                            "jp": "蛇が蛙を飲み込んだ。",
+                            "translated": "蛇吞了一隻青蛙。"
+                        },
+                        {
+                            "jp": "私が箱を開けるとすぐに蛙が跳びだした。",
+                            "translated": "我剛打開盒子，一隻青蛙就跳了出來。"
+                        }
+                    ],
+                    "hasError": false,
+                    "originalText": "蛙",
+                    "createTime": "2021-06-10T12:08:58.889663"
+                },
+                {
+                    "word": {
+                        "text": "ゴキブリ",
+                        "kana": "ゴキブリ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "蟑螂"
+                    ],
+                    "sentences": [],
+                    "hasError": false,
+                    "originalText": "ゴキブリ",
+                    "createTime": "2021-06-10T12:08:59.889663"
+                },
+                {
+                    "word": {
+                        "text": "蛾",
+                        "kana": "が",
+                        "kanjis": [
+                            {
+                                "text": "蛾",
+                                "furigana": "が",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "が"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "蛾"
+                    ],
+                    "sentences": [],
+                    "hasError": false,
+                    "originalText": "蛾",
+                    "createTime": "2021-06-10T12:09:00.889663"
+                },
+                {
+                    "word": {
+                        "text": "蝶",
+                        "kana": "ちょう",
+                        "kanjis": [
+                            {
+                                "text": "蝶",
+                                "furigana": "ちょう",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "ちょう"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "蝴蝶"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "その蝶は成虫になるまでに２年かかる。",
+                            "translated": "蝴蝶成熟需要兩年時間。"
+                        },
+                        {
+                            "jp": "私の趣味はきれいな蝶を集めることです。",
+                            "translated": "我的愛好是收集美麗的蝴蝶。"
+                        },
+                        {
+                            "jp": "それは蝶ですか、それとも蛾ですか。",
+                            "translated": "它是蝴蝶還是飛蛾？"
+                        }
+                    ],
+                    "hasError": false,
+                    "originalText": "蝶",
+                    "createTime": "2021-06-10T12:09:01.889663"
+                },
+                {
+                    "word": {
+                        "text": "マムシ",
+                        "kana": "マムシ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "蝮蛇"
+                    ],
+                    "sentences": [],
+                    "hasError": true,
+                    "originalText": "マムシ",
+                    "createTime": "2021-06-10T12:09:02.889663"
+                },
+                {
+                    "word": {
+                        "text": "ワニ",
+                        "kana": "ワニ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "鱷魚"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "彼の足はワニにかまれた。",
+                            "translated": "他的腿被鱷魚咬傷了。"
+                        }
+                    ],
+                    "hasError": false,
+                    "originalText": "ワニ",
+                    "createTime": "2021-06-10T12:09:03.889663"
+                },
+                {
+                    "word": {
+                        "text": "カブトムシ",
+                        "kana": "カブトムシ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 3,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "獨角仙，甲蟲"
+                    ],
+                    "sentences": [],
+                    "hasError": false,
+                    "originalText": "カブトムシ",
+                    "createTime": "2021-06-10T12:09:04.889663"
+                },
+                {
+                    "word": {
+                        "text": "ノミ",
+                        "kana": "ノミ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 2,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "跳蚤"
+                    ],
+                    "sentences": [],
+                    "hasError": false,
+                    "originalText": "ノミ",
+                    "createTime": "2021-06-10T12:09:05.889663"
+                },
+                {
+                    "word": {
+                        "text": "蜘蛛",
+                        "kana": "くも",
+                        "kanjis": [
+                            {
+                                "text": "蜘",
+                                "furigana": "く",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "蛛",
+                                "furigana": "も",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "く",
+                            "も"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "蜘蛛"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "私は蜘蛛が天井をはっているのを見た。",
+                            "translated": "我看到一隻蜘蛛在天花板上移動。"
+                        },
+                        {
+                            "jp": "蜘蛛は蝿やその他の昆虫を食べる。",
+                            "translated": "蜘蛛捕食蒼蠅和其他小昆蟲。"
+                        },
+                        {
+                            "jp": "私は空腹のクモです。",
+                            "translated": "我是一隻飢餓的蜘蛛。"
+                        }
+                    ],
+                    "hasError": true,
+                    "originalText": "蜘蛛",
+                    "createTime": "2021-06-10T12:09:06.889663"
+                },
+                {
+                    "word": {
+                        "text": "毒蛇",
+                        "kana": "どくじゃ",
+                        "kanjis": [
+                            {
+                                "text": "毒",
+                                "furigana": "どく",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "蛇",
+                                "furigana": "じゃ",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "どく",
+                            "じゃ"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "毒蛇"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "この蛇は毒蛇ではありません。",
+                            "translated": "這條蛇沒有毒。"
+                        }
+                    ],
+                    "hasError": false,
+                    "originalText": "毒蛇",
+                    "createTime": "2021-06-10T12:09:07.889663"
+                },
+                {
+                    "word": {
+                        "text": "毛虫",
+                        "kana": "けむし",
+                        "kanjis": [
+                            {
+                                "text": "毛",
+                                "furigana": "け",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "虫",
+                                "furigana": "むし",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "け",
+                            "むし"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 3,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "毛毛蟲"
+                    ],
+                    "sentences": [],
+                    "hasError": false,
+                    "originalText": "毛虫",
+                    "createTime": "2021-06-10T12:09:08.889663"
+                },
+                {
+                    "word": {
+                        "text": "トカゲ",
+                        "kana": "トカゲ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "蜥蜴"
+                    ],
+                    "sentences": [],
+                    "hasError": true,
+                    "originalText": "トカゲ",
+                    "createTime": "2021-06-10T12:09:09.889663"
+                },
+                {
+                    "word": {
+                        "text": "ニシキヘビ",
+                        "kana": "ニシキヘビ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 4,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "蟒蛇"
+                    ],
+                    "sentences": [],
+                    "hasError": true,
+                    "originalText": "ニシキヘビ",
+                    "createTime": "2021-06-10T12:09:10.889663"
+                },
+                {
+                    "word": {
+                        "text": "蛇",
+                        "kana": "へび",
+                        "kanjis": [
+                            {
+                                "text": "蛇",
+                                "furigana": "へび",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "へび"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "蛇"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "私はヘビを見てぞっとした。",
+                            "translated": "看到那條蛇，我不寒而栗。"
+                        },
+                        {
+                            "jp": "蛇を見るだけで彼女は気分が悪くなる。",
+                            "translated": "僅僅看到一條蛇就讓她感到噁心。"
+                        },
+                        {
+                            "jp": "彼は蛇が大嫌いだ。",
+                            "translated": "他憎惡蛇。"
+                        }
+                    ],
+                    "hasError": false,
+                    "originalText": "蛇",
+                    "createTime": "2021-06-10T12:09:11.889663"
+                },
+                {
+                    "word": {
+                        "text": "スズメバチ",
+                        "kana": "スズメバチ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 3,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "大黃蜂"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "スズメバチにこっぴどく刺された。",
+                            "translated": "我被黃蜂蜇傷了。"
+                        }
+                    ],
+                    "hasError": true,
+                    "originalText": "スズメバチ",
+                    "createTime": "2021-06-10T12:09:12.889663"
+                },
+                {
+                    "word": {
+                        "text": "蠅",
+                        "kana": "はえ",
+                        "kanjis": [
+                            {
+                                "text": "蠅",
+                                "furigana": "はえ",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "はえ"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "蒼蠅"
+                    ],
+                    "sentences": [],
+                    "hasError": false,
+                    "originalText": "ハエ",
+                    "createTime": "2021-06-10T12:09:13.889663"
+                },
+                {
+                    "word": {
+                        "text": "ヤモリ",
+                        "kana": "ヤモリ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "壁虎"
+                    ],
+                    "sentences": [],
+                    "hasError": false,
+                    "originalText": "ヤモリ",
+                    "createTime": "2021-06-10T12:09:14.889663"
+                },
+                {
+                    "word": {
+                        "text": "ダニ",
+                        "kana": "ダニ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "塵蟎"
+                    ],
+                    "sentences": [],
+                    "hasError": false,
+                    "originalText": "ダニ",
+                    "createTime": "2021-06-10T12:09:15.889663"
+                },
+                {
+                    "word": {
+                        "text": "ミミズ",
+                        "kana": "ミミズ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "蚯蚓"
+                    ],
+                    "sentences": [],
+                    "hasError": false,
+                    "originalText": "ミミズ",
+                    "createTime": "2021-06-10T12:09:16.889663"
+                },
+                {
+                    "word": {
+                        "text": "カタツムリ",
+                        "kana": "カタツムリ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "蝸牛"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "カタツムリがすっと角を出した。",
+                            "translated": "蝸牛伸出了它的角。"
+                        }
+                    ],
+                    "hasError": true,
+                    "originalText": "カタツムリ",
+                    "createTime": "2021-06-10T12:09:17.889663"
+                },
+                {
+                    "word": {
+                        "text": "蜜蜂",
+                        "kana": "みつばち",
+                        "kanjis": [
+                            {
+                                "text": "蜜",
+                                "furigana": "みつ",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "蜂",
+                                "furigana": "ばち",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "みつ",
+                            "ばち"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 2,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "蜜蜂"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "蜜蜂は蜜を供給してくれる。",
+                            "translated": "蜜蜂為我們提供蜂蜜。"
+                        },
+                        {
+                            "jp": "みつばちに注意しなさい。",
+                            "translated": "留意蜜蜂。"
+                        },
+                        {
+                            "jp": "その花には蜜蜂がいっぱいたかっている。",
+                            "translated": "這朵花與蜜蜂一起生活。"
+                        }
+                    ],
+                    "hasError": false,
+                    "originalText": "蜜蜂",
+                    "createTime": "2021-06-10T12:09:18.889663"
+                },
+                {
+                    "word": {
+                        "text": "バッタ",
+                        "kana": "バッタ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "蝗蟲"
+                    ],
+                    "sentences": [],
+                    "hasError": false,
+                    "originalText": "バッタ",
+                    "createTime": "2021-06-10T12:09:19.889663"
+                },
+                {
+                    "word": {
+                        "text": "昆虫",
+                        "kana": "こんちゅう",
+                        "kanjis": [
+                            {
+                                "text": "昆",
+                                "furigana": "こん",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "虫",
+                                "furigana": "ちゅう",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "こん",
+                            "ちゅう"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "昆蟲"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "ファーブルは昆虫についての本を書いた。",
+                            "translated": "法布爾寫了關於昆蟲的書。"
+                        },
+                        {
+                            "jp": "昆虫の世界では常に力のあるものが勝つ。",
+                            "translated": "昆蟲王國里，實力總是佔上風。"
+                        },
+                        {
+                            "jp": "私は昆虫の研究に興味がある。",
+                            "translated": "我對昆蟲的研究很感興趣。"
+                        }
+                    ],
+                    "hasError": false,
+                    "originalText": "昆虫",
+                    "createTime": "2021-06-10T12:09:20.889663"
+                },
+                {
+                    "word": {
+                        "text": "カメレオン",
+                        "kana": "カメレオン",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 3,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "變色龍"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "カメレオンはどんな色にでもなれる。",
+                            "translated": "變色龍可以呈現任何顏色。"
+                        }
+                    ],
+                    "hasError": true,
+                    "originalText": "カメレオン",
+                    "createTime": "2021-06-10T12:09:21.889663"
+                },
+                {
+                    "word": {
+                        "text": "イモリ",
+                        "kana": "イモリ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "蠑螈"
+                    ],
+                    "sentences": [],
+                    "hasError": false,
+                    "originalText": "イモリ",
+                    "createTime": "2021-06-10T12:09:22.889663"
+                },
+                {
+                    "word": {
+                        "text": "蛹",
+                        "kana": "さなぎ",
+                        "kanjis": [
+                            {
+                                "text": "蛹",
+                                "furigana": "さなぎ",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "さなぎ"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "蛹"
+                    ],
+                    "sentences": [],
+                    "hasError": false,
+                    "originalText": "蛹",
+                    "createTime": "2021-06-10T12:09:23.889663"
+                },
+                {
+                    "word": {
+                        "text": "寄生虫",
+                        "kana": "きせいちゅう",
+                        "kanjis": [
+                            {
+                                "text": "寄",
+                                "furigana": "き",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "生",
+                                "furigana": "せい",
+                                "index": 1,
+                                "length": 1
+                            },
+                            {
+                                "text": "虫",
+                                "furigana": "ちゅう",
+                                "index": 2,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "き",
+                            "せい",
+                            "ちゅう"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "寄生蟲"
+                    ],
+                    "sentences": [],
+                    "hasError": false,
+                    "originalText": "寄生虫",
+                    "createTime": "2021-06-10T12:09:24.889663"
+                },
+                {
+                    "word": {
+                        "text": "蝉",
+                        "kana": "せみ",
+                        "kanjis": [
+                            {
+                                "text": "蝉",
+                                "furigana": "せみ",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "せみ"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "蟬"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "セミが鳴いている。",
+                            "translated": "蟬在歌唱。"
+                        },
+                        {
+                            "jp": "あみでせみを捕まえた。",
+                            "translated": "我們用網捕捉蟬。"
+                        }
+                    ],
+                    "hasError": false,
+                    "originalText": "蝉",
+                    "createTime": "2021-06-10T12:09:25.889663"
+                },
+                {
+                    "word": {
+                        "text": "コブラ",
+                        "kana": "コブラ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "眼鏡蛇"
+                    ],
+                    "sentences": [],
+                    "hasError": true,
+                    "originalText": "コブラ",
+                    "createTime": "2021-06-10T12:09:26.889663"
+                },
+                {
+                    "word": {
+                        "text": "両生類",
+                        "kana": "りょうせいるい",
+                        "kanjis": [
+                            {
+                                "text": "両",
+                                "furigana": "りょう",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "生",
+                                "furigana": "せい",
+                                "index": 1,
+                                "length": 1
+                            },
+                            {
+                                "text": "類",
+                                "furigana": "るい",
+                                "index": 2,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "りょう",
+                            "せい",
+                            "るい"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 3,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "兩棲類"
+                    ],
+                    "sentences": [],
+                    "hasError": false,
+                    "originalText": "両生類",
+                    "createTime": "2021-06-10T12:09:27.889663"
+                },
+                {
+                    "word": {
+                        "text": "シラミ",
+                        "kana": "シラミ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "虱子"
+                    ],
+                    "sentences": [],
+                    "hasError": true,
+                    "originalText": "シラミ",
+                    "createTime": "2021-06-10T12:09:28.889663"
+                },
+                {
+                    "word": {
+                        "text": "てんとう虫",
+                        "kana": "てんとうむし",
+                        "kanjis": [
+                            {
+                                "text": "虫",
+                                "furigana": "むし",
+                                "index": 4,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "むし"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 3,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "瓢蟲"
+                    ],
+                    "sentences": [],
+                    "hasError": false,
+                    "originalText": "てんとう虫",
+                    "createTime": "2021-06-10T12:09:29.889663"
+                },
+                {
+                    "word": {
+                        "text": "蛍",
+                        "kana": "ほたる",
+                        "kanjis": [
+                            {
+                                "text": "蛍",
+                                "furigana": "ほたる",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "ほたる"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "螢火蟲"
+                    ],
+                    "sentences": [],
+                    "hasError": false,
+                    "originalText": "蛍",
+                    "createTime": "2021-06-10T12:09:30.889663"
+                },
+                {
+                    "word": {
+                        "text": "イグアナ",
+                        "kana": "イグアナ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "鬣蜥"
+                    ],
+                    "sentences": [],
+                    "hasError": true,
+                    "originalText": "イグアナ",
+                    "createTime": "2021-06-10T12:09:31.889663"
+                }
+            ]
+        },
+        {
+            "id": "930c4cb3-c9a1-11eb-988c-b46bfc8f52a9",
+            "createTime": "2021-06-10T12:08:55.890654",
+            "lastModifiedTime": "2021-06-10T12:08:55.890654",
+            "title": "水生動物",
+            "tags": [
+                "動物",
+                "中級"
+            ],
+            "price": {
+                "isFree": false,
+                "discount": 1.0,
+                "prices": {
+                    "Coin": 50
+                }
+            },
+            "numFlashcards": 37,
+            "flashcards": [
+                {
+                    "word": {
+                        "text": "アシカ",
+                        "kana": "アシカ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "海獅"
+                    ],
+                    "sentences": [],
+                    "hasError": true,
+                    "originalText": "アシカ",
+                    "createTime": "2021-06-10T12:08:55.889663"
+                },
+                {
+                    "word": {
+                        "text": "ヒトデ",
+                        "kana": "ヒトデ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "海星"
+                    ],
+                    "sentences": [],
+                    "hasError": false,
+                    "originalText": "ヒトデ",
+                    "createTime": "2021-06-10T12:08:56.889663"
+                },
+                {
+                    "word": {
+                        "text": "イルカ",
+                        "kana": "イルカ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "海豚"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "イルカは哺乳類である。",
+                            "translated": "海豚是哺乳動物。"
+                        },
+                        {
+                            "jp": "イルカは頭のよい遊び好きな生き物だ。",
+                            "translated": "海豚是一種聰明而頑皮的生物。"
+                        }
+                    ],
+                    "hasError": true,
+                    "originalText": "イルカ",
+                    "createTime": "2021-06-10T12:08:57.889663"
+                },
+                {
+                    "word": {
+                        "text": "クラゲ",
+                        "kana": "クラゲ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "水母"
+                    ],
+                    "sentences": [],
+                    "hasError": true,
+                    "originalText": "クラゲ",
+                    "createTime": "2021-06-10T12:08:58.889663"
+                },
+                {
+                    "word": {
+                        "text": "ウニ",
+                        "kana": "ウニ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "海膽"
+                    ],
+                    "sentences": [],
+                    "hasError": true,
+                    "originalText": "ウニ",
+                    "createTime": "2021-06-10T12:08:59.889663"
+                },
+                {
+                    "word": {
+                        "text": "イソギンチャク",
+                        "kana": "イソギンチャク",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 3,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "海葵"
+                    ],
+                    "sentences": [],
+                    "hasError": false,
+                    "originalText": "イソギンチャク",
+                    "createTime": "2021-06-10T12:09:00.889663"
+                },
+                {
+                    "word": {
+                        "text": "セイウチ",
+                        "kana": "セイウチ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "海象"
+                    ],
+                    "sentences": [],
+                    "hasError": false,
+                    "originalText": "セイウチ",
+                    "createTime": "2021-06-10T12:09:01.889663"
+                },
+                {
+                    "word": {
+                        "text": "サザエ",
+                        "kana": "サザエ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "海螺"
+                    ],
+                    "sentences": [],
+                    "hasError": true,
+                    "originalText": "サザエ",
+                    "createTime": "2021-06-10T12:09:02.889663"
+                },
+                {
+                    "word": {
+                        "text": "ザリガニ",
+                        "kana": "ザリガニ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "小龍蝦，螯蝦"
+                    ],
+                    "sentences": [],
+                    "hasError": true,
+                    "originalText": "ザリガニ",
+                    "createTime": "2021-06-10T12:09:03.889663"
+                },
+                {
+                    "word": {
+                        "text": "海亀",
+                        "kana": "うみがめ",
+                        "kanjis": [
+                            {
+                                "text": "海",
+                                "furigana": "うみ",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "亀",
+                                "furigana": "がめ",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "うみ",
+                            "がめ"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "海龜"
+                    ],
+                    "sentences": [],
+                    "hasError": true,
+                    "originalText": "海亀",
+                    "createTime": "2021-06-10T12:09:04.889663"
+                },
+                {
+                    "word": {
+                        "text": "鯉",
+                        "kana": "こい",
+                        "kanjis": [
+                            {
+                                "text": "鯉",
+                                "furigana": "こい",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "こい"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "鯉魚"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "鯉や鱒のような魚は淡水に住んでいる。",
+                            "translated": "鯉魚和鱒魚等魚類生活在淡水中。"
+                        },
+                        {
+                            "jp": "私は網で鯉を捕った。",
+                            "translated": "我在網裡釣到了一條鯉魚。"
+                        },
+                        {
+                            "jp": "この池には鯉がうようよいる。",
+                            "translated": "這個池塘里到處都是鯉魚游來游去。"
+                        }
+                    ],
+                    "hasError": false,
+                    "originalText": "鯉",
+                    "createTime": "2021-06-10T12:09:05.889663"
+                },
+                {
+                    "word": {
+                        "text": "ハマグリ",
+                        "kana": "ハマグリ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 3,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "蛤蜊"
+                    ],
+                    "sentences": [],
+                    "hasError": false,
+                    "originalText": "ハマグリ",
+                    "createTime": "2021-06-10T12:09:06.889663"
+                },
+                {
+                    "word": {
+                        "text": "クジラ",
+                        "kana": "クジラ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "鯨魚"
+                    ],
+                    "sentences": [],
+                    "hasError": false,
+                    "originalText": "クジラ",
+                    "createTime": "2021-06-10T12:09:07.889663"
+                },
+                {
+                    "word": {
+                        "text": "平目",
+                        "kana": "ひらめ",
+                        "kanjis": [
+                            {
+                                "text": "平",
+                                "furigana": "ひら",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "目",
+                                "furigana": "め",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "ひら",
+                            "め"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "比目魚"
+                    ],
+                    "sentences": [],
+                    "hasError": false,
+                    "originalText": "ヒラメ",
+                    "createTime": "2021-06-10T12:09:08.889663"
+                },
+                {
+                    "word": {
+                        "text": "海老",
+                        "kana": "えび",
+                        "kanjis": [
+                            {
+                                "text": "海",
+                                "furigana": "え",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "老",
+                                "furigana": "び",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "え",
+                            "び"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "蝦"
+                    ],
+                    "sentences": [],
+                    "hasError": true,
+                    "originalText": "エビ",
+                    "createTime": "2021-06-10T12:09:09.889663"
+                },
+                {
+                    "word": {
+                        "text": "ナマコ",
+                        "kana": "ナマコ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "海參"
+                    ],
+                    "sentences": [],
+                    "hasError": true,
+                    "originalText": "ナマコ",
+                    "createTime": "2021-06-10T12:09:10.889663"
+                },
+                {
+                    "word": {
+                        "text": "毛ガニ",
+                        "kana": "毛ガニ",
+                        "kanjis": [
+                            {
+                                "text": "毛",
+                                "furigana": "け",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "け",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "毛蟹"
+                    ],
+                    "sentences": [],
+                    "hasError": false,
+                    "originalText": "毛ガニ",
+                    "createTime": "2021-06-10T12:09:11.889663"
+                },
+                {
+                    "word": {
+                        "text": "鯛",
+                        "kana": "たい",
+                        "kanjis": [
+                            {
+                                "text": "鯛",
+                                "furigana": "たい",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "たい"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "鯛魚"
+                    ],
+                    "sentences": [],
+                    "hasError": false,
+                    "originalText": "鯛",
+                    "createTime": "2021-06-10T12:09:12.889663"
+                },
+                {
+                    "word": {
+                        "text": "マグロ",
+                        "kana": "マグロ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "鮪魚"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "マグロの漁獲量は減ってきている。",
+                            "translated": "鮪魚捕撈量正在下降。"
+                        }
+                    ],
+                    "hasError": false,
+                    "originalText": "マグロ",
+                    "createTime": "2021-06-10T12:09:13.889663"
+                },
+                {
+                    "word": {
+                        "text": "鱈",
+                        "kana": "たら",
+                        "kanjis": [
+                            {
+                                "text": "鱈",
+                                "furigana": "たら",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "たら"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "鱈魚"
+                    ],
+                    "sentences": [],
+                    "hasError": false,
+                    "originalText": "鱈",
+                    "createTime": "2021-06-10T12:09:14.889663"
+                },
+                {
+                    "word": {
+                        "text": "帆立貝",
+                        "kana": "ほたてがい",
+                        "kanjis": [
+                            {
+                                "text": "帆",
+                                "furigana": "ほ",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "立",
+                                "furigana": "たて",
+                                "index": 1,
+                                "length": 1
+                            },
+                            {
+                                "text": "貝",
+                                "furigana": "がい",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "ほ",
+                            "たて",
+                            "がい"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 3,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "扇貝，干貝"
+                    ],
+                    "sentences": [],
+                    "hasError": true,
+                    "originalText": "帆立貝",
+                    "createTime": "2021-06-10T12:09:15.889663"
+                },
+                {
+                    "word": {
+                        "text": "タラバガニ",
+                        "kana": "タラバガニ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 4,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "帝王蟹"
+                    ],
+                    "sentences": [],
+                    "hasError": false,
+                    "originalText": "タラバガニ",
+                    "createTime": "2021-06-10T12:09:16.889663"
+                },
+                {
+                    "word": {
+                        "text": "亀",
+                        "kana": "かめ",
+                        "kanjis": [
+                            {
+                                "text": "亀",
+                                "furigana": "かめ",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "かめ"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "海龜，烏龜"
+                    ],
+                    "sentences": [],
+                    "hasError": false,
+                    "originalText": "亀",
+                    "createTime": "2021-06-10T12:09:17.889663"
+                },
+                {
+                    "word": {
+                        "text": "魚",
+                        "kana": "さかな",
+                        "kanjis": [
+                            {
+                                "text": "魚",
+                                "furigana": "さかな",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "さかな"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "魚"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "変な魚が針にかかっている。",
+                            "translated": "一條奇怪的魚上鉤了。"
+                        },
+                        {
+                            "jp": "彼女は私に魚を料理してくれた。",
+                            "translated": "她給我做了一些魚。"
+                        },
+                        {
+                            "jp": "彼女は魚をサラダ油で揚げた。",
+                            "translated": "她用沙拉油煎魚。"
+                        }
+                    ],
+                    "hasError": false,
+                    "originalText": "魚",
+                    "createTime": "2021-06-10T12:09:18.889663"
+                },
+                {
+                    "word": {
+                        "text": "金魚",
+                        "kana": "きんぎょ",
+                        "kanjis": [
+                            {
+                                "text": "金",
+                                "furigana": "きん",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "魚",
+                                "furigana": "ぎょ",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "きん",
+                            "ぎょ"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "金魚"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "金魚にえさをやっているのです。",
+                            "translated": "我在餵金魚。"
+                        },
+                        {
+                            "jp": "金魚には思い出がある。",
+                            "translated": "我有金魚的記憶力。"
+                        }
+                    ],
+                    "hasError": false,
+                    "originalText": "金魚",
+                    "createTime": "2021-06-10T12:09:19.889663"
+                },
+                {
+                    "word": {
+                        "text": "サンゴ",
+                        "kana": "サンゴ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "珊瑚"
+                    ],
+                    "sentences": [],
+                    "hasError": false,
+                    "originalText": "サンゴ",
+                    "createTime": "2021-06-10T12:09:20.889663"
+                },
+                {
+                    "word": {
+                        "text": "タコ",
+                        "kana": "タコ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "章魚"
+                    ],
+                    "sentences": [],
+                    "hasError": false,
+                    "originalText": "タコ",
+                    "createTime": "2021-06-10T12:09:21.889663"
+                },
+                {
+                    "word": {
+                        "text": "ラッコ",
+                        "kana": "ラッコ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "海獺"
+                    ],
+                    "sentences": [],
+                    "hasError": true,
+                    "originalText": "ラッコ",
+                    "createTime": "2021-06-10T12:09:22.889663"
+                },
+                {
+                    "word": {
+                        "text": "アザラシ",
+                        "kana": "アザラシ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 2,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "海豹"
+                    ],
+                    "sentences": [],
+                    "hasError": false,
+                    "originalText": "アザラシ",
+                    "createTime": "2021-06-10T12:09:23.889663"
+                },
+                {
+                    "word": {
+                        "text": "ロブスター",
+                        "kana": "ロブスター",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "龍蝦"
+                    ],
+                    "sentences": [],
+                    "hasError": false,
+                    "originalText": "ロブスター",
+                    "createTime": "2021-06-10T12:09:24.889663"
+                },
+                {
+                    "word": {
+                        "text": "サンマ",
+                        "kana": "サンマ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "秋刀魚"
+                    ],
+                    "sentences": [],
+                    "hasError": true,
+                    "originalText": "サンマ",
+                    "createTime": "2021-06-10T12:09:25.889663"
+                },
+                {
+                    "word": {
+                        "text": "イカ",
+                        "kana": "イカ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "墨魚，烏賊"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "このイカは鮮度が落ちはじめた。",
+                            "translated": "這種墨魚已經開始失去新鮮感了。"
+                        },
+                        {
+                            "jp": "イカには１０本の足がある。",
+                            "translated": "魷魚有十條腿。"
+                        }
+                    ],
+                    "hasError": true,
+                    "originalText": "イカ",
+                    "createTime": "2021-06-10T12:09:26.889663"
+                },
+                {
+                    "word": {
+                        "text": "鰻",
+                        "kana": "うなぎ",
+                        "kanjis": [
+                            {
+                                "text": "鰻",
+                                "furigana": "うなぎ",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "うなぎ"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "鰻魚"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "私のホバークラフトは鰻でいっぱいです。",
+                            "translated": "我的氣墊船裡裝滿了鰻魚。"
+                        }
+                    ],
+                    "hasError": false,
+                    "originalText": "鰻",
+                    "createTime": "2021-06-10T12:09:27.889663"
+                },
+                {
+                    "word": {
+                        "text": "鯖",
+                        "kana": "さば",
+                        "kanjis": [
+                            {
+                                "text": "鯖",
+                                "furigana": "さば",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "さば"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "鯖魚"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "鯖は煮ても焼いても美味しい。",
+                            "translated": "鯖魚無論是燉還是烤都很好吃。"
+                        }
+                    ],
+                    "hasError": false,
+                    "originalText": "鯖",
+                    "createTime": "2021-06-10T12:09:28.889663"
+                },
+                {
+                    "word": {
+                        "text": "牡蠣",
+                        "kana": "かき",
+                        "kanjis": [
+                            {
+                                "text": "牡",
+                                "furigana": "か",
+                                "index": 0,
+                                "length": 1
+                            },
+                            {
+                                "text": "蠣",
+                                "furigana": "き",
+                                "index": 1,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "か",
+                            "き"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "牡蠣"
+                    ],
+                    "sentences": [],
+                    "hasError": true,
+                    "originalText": "牡蠣",
+                    "createTime": "2021-06-10T12:09:29.889663"
+                },
+                {
+                    "word": {
+                        "text": "タツノオトシゴ",
+                        "kana": "タツノオトシゴ",
+                        "kanjis": [],
+                        "furigana": [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ],
+                        "hasFurigana": false,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 0,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "海馬"
+                    ],
+                    "sentences": [],
+                    "hasError": false,
+                    "originalText": "タツノオトシゴ",
+                    "createTime": "2021-06-10T12:09:30.889663"
+                },
+                {
+                    "word": {
+                        "text": "鮭",
+                        "kana": "さけ",
+                        "kanjis": [
+                            {
+                                "text": "鮭",
+                                "furigana": "さけ",
+                                "index": 0,
+                                "length": 1
+                            }
+                        ],
+                        "furigana": [
+                            "さけ"
+                        ],
+                        "hasFurigana": true,
+                        "jishoHasError": false
+                    },
+                    "accentIndex": 1,
+                    "wordTypes": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "鮭魚"
+                    ],
+                    "sentences": [
+                        {
+                            "jp": "鮭は川をさかのぼって砂に産卵する。",
+                            "translated": "鮭魚順流而上，在沙子裡產卵。"
+                        },
+                        {
+                            "jp": "その魚はさけのような味だった。",
+                            "translated": "魚嘗起來像鮭魚。"
+                        },
+                        {
+                            "jp": "サケは淡水で産卵する。",
+                            "translated": "鮭魚在淡水中產卵。"
+                        }
+                    ],
+                    "hasError": false,
+                    "originalText": "鮭",
+                    "createTime": "2021-06-10T12:09:31.889663"
+                }
+            ]
+        }
+    ]
+}
